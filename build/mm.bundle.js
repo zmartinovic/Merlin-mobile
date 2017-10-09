@@ -65705,7 +65705,7 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.srce.merlinmobile",
+    "app_id" : "com.moodle.merlinmobile",
     "appname": "Merlin Mobile",
     "desktopappname": "Merlin Desktop",
     "versioncode" : "2019",
