@@ -2,132 +2,132 @@
     "mm.core.allparticipants": "همهٔ اعضاء",
     "mm.core.areyousure": "آیا مطمئن هستید؟",
     "mm.core.back": "بازگشت",
-    "mm.core.cancel": "انصراف",
-    "mm.core.cannotconnect": "اتصال به سایت ممکن نبود. بررسی کنید که نشانی سایت را درست وارد کرده باشید و اینکه سایت شما از مودل ۲٫۴ یا جدیدتر استفاده کند.",
+    "mm.core.cancel": "انصرا�?",
+    "mm.core.cannotconnect": "اتصال به سایت ممکن نب�?د. بررسی کنید که نشانی سایت را درست �?ارد کرده باشید �? اینکه سایت شما از م�?دل ۲٫۴ یا جدیدتر است�?اده کند.",
     "mm.core.category": "دسته",
     "mm.core.choose": "انتخاب کنید",
     "mm.core.choosedots": "انتخاب کنید...",
     "mm.core.clicktohideshow": "برای باز یا بسته شدن کلیک کنید",
     "mm.core.close": "بستن پنجره",
-    "mm.core.comments": "توضیحات شما",
+    "mm.core.comments": "ت�?ضیحات شما",
     "mm.core.commentscount": "نظرات ({{$a}})",
-    "mm.core.completion-alt-auto-fail": "تکمیل شده است (بدون اکتساب نمرهٔ قبولی)",
+    "mm.core.completion-alt-auto-fail": "تکمیل شده است (بد�?ن اکتساب نمرهٔ قب�?لی)",
     "mm.core.completion-alt-auto-n": "تکمیل نشده است",
-    "mm.core.completion-alt-auto-pass": "تکمیل شده است (با اکتساب نمرهٔ قبولی)",
+    "mm.core.completion-alt-auto-pass": "تکمیل شده است (با اکتساب نمرهٔ قب�?لی)",
     "mm.core.completion-alt-auto-y": "تکمیل شده است",
-    "mm.core.completion-alt-manual-n": "کامل نشده است؛ انتخاب کنید تا به عنوان کامل شده علامت بخورد",
-    "mm.core.completion-alt-manual-y": "کامل شده است؛ انتخاب کنید تا به عنوان کامل شده علامت بخورد",
-    "mm.core.confirmcanceledit": "آیا مطمئنید که می‌خواهید این صفحه را ترک کنید؟ تمام تغییرات از بین خواهند رفت.",
-    "mm.core.confirmdeletefile": "آیا مطمئنید که می‌خواهید این فایل را حذف کنید؟",
-    "mm.core.confirmloss": "آیا مطمئن هستید؟ تمام تغییرات از بین خواهند رفت.",
-    "mm.core.content": "محتوا",
+    "mm.core.completion-alt-manual-n": "کامل نشده است؛ انتخاب کنید تا به عن�?ان کامل شده علامت بخ�?رد",
+    "mm.core.completion-alt-manual-y": "کامل شده است؛ انتخاب کنید تا به عن�?ان کامل شده علامت بخ�?رد",
+    "mm.core.confirmcanceledit": "آیا مطمئنید که می‌خ�?اهید این ص�?حه را ترک کنید؟ تمام تغییرات از بین خ�?اهند ر�?ت.",
+    "mm.core.confirmdeletefile": "آیا مطمئنید که می‌خ�?اهید این �?ایل را حذ�? کنید؟",
+    "mm.core.confirmloss": "آیا مطمئن هستید؟ تمام تغییرات از بین خ�?اهند ر�?ت.",
+    "mm.core.content": "محت�?ا",
     "mm.core.continue": "ادامه",
-    "mm.core.country-AD": "آندورا",
+    "mm.core.country-AD": "آند�?را",
     "mm.core.country-AE": "امارات متحدهٔ عربی",
-    "mm.core.country-AF": "افغانستان",
-    "mm.core.country-AG": "آنتیگوا و باربودا",
+    "mm.core.country-AF": "ا�?غانستان",
+    "mm.core.country-AG": "آنتیگ�?ا �? بارب�?دا",
     "mm.core.country-AI": "آنگیل",
     "mm.core.country-AL": "آلبانی",
     "mm.core.country-AM": "ارمنستان",
     "mm.core.country-AN": "آنتیل هلند",
-    "mm.core.country-AO": "آنگولا",
-    "mm.core.country-AQ": "جنوبگان",
-    "mm.core.country-AR": "آرژانتین",
-    "mm.core.country-AS": "ساموای امریکا",
+    "mm.core.country-AO": "آنگ�?لا",
+    "mm.core.country-AQ": "جن�?بگان",
+    "mm.core.country-AR": "آر�?انتین",
+    "mm.core.country-AS": "سام�?ای امریکا",
     "mm.core.country-AT": "اتریش",
     "mm.core.country-AU": "استرالیا",
-    "mm.core.country-AW": "آروبا",
+    "mm.core.country-AW": "آر�?با",
     "mm.core.country-AX": "جزایر آلاند",
-    "mm.core.country-AZ": "جمهوری آذربایجان",
-    "mm.core.country-BA": "بوسنی و هرزگوین",
-    "mm.core.country-BB": "باربادوس",
+    "mm.core.country-AZ": "جمه�?ری آذربایجان",
+    "mm.core.country-BA": "ب�?سنی �? هرزگ�?ین",
+    "mm.core.country-BB": "بارباد�?س",
     "mm.core.country-BD": "بنگلادش",
-    "mm.core.country-BE": "بلژیک",
-    "mm.core.country-BF": "بورکینافاسو",
+    "mm.core.country-BE": "بل�?یک",
+    "mm.core.country-BF": "ب�?رکینا�?اس�?",
     "mm.core.country-BG": "بلغارستان",
     "mm.core.country-BH": "بحرین",
-    "mm.core.country-BI": "بوروندی",
+    "mm.core.country-BI": "ب�?ر�?ندی",
     "mm.core.country-BJ": "بنین",
     "mm.core.country-BL": "سنت بارتلیمی",
-    "mm.core.country-BM": "برمودا",
-    "mm.core.country-BN": "برونئی",
-    "mm.core.country-BO": "بولیوی",
+    "mm.core.country-BM": "برم�?دا",
+    "mm.core.country-BN": "بر�?نئی",
+    "mm.core.country-BO": "ب�?لی�?ی",
     "mm.core.country-BR": "برزیل",
     "mm.core.country-BS": "باهاما",
-    "mm.core.country-BT": "بوتان",
-    "mm.core.country-BV": "جزیرهٔ بووت",
-    "mm.core.country-BW": "بوتسوانا",
-    "mm.core.country-BY": "بیلوروسی",
+    "mm.core.country-BT": "ب�?تان",
+    "mm.core.country-BV": "جزیرهٔ ب�?�?ت",
+    "mm.core.country-BW": "ب�?تس�?انا",
+    "mm.core.country-BY": "بیل�?ر�?سی",
     "mm.core.country-BZ": "بلیز",
     "mm.core.country-CA": "کانادا",
-    "mm.core.country-CC": "جزایر کوکوس",
-    "mm.core.country-CD": "کنگو کینشاسا",
-    "mm.core.country-CF": "جمهوری افریقای مرکزی",
-    "mm.core.country-CG": "کنگو برازویل",
-    "mm.core.country-CH": "سوئیس",
+    "mm.core.country-CC": "جزایر ک�?ک�?س",
+    "mm.core.country-CD": "کنگ�? کینشاسا",
+    "mm.core.country-CF": "جمه�?ری ا�?ریقای مرکزی",
+    "mm.core.country-CG": "کنگ�? براز�?یل",
+    "mm.core.country-CH": "س�?ئیس",
     "mm.core.country-CI": "ساحل عاج",
-    "mm.core.country-CK": "جزایر کوک",
+    "mm.core.country-CK": "جزایر ک�?ک",
     "mm.core.country-CL": "شیلی",
-    "mm.core.country-CM": "کامرون",
+    "mm.core.country-CM": "کامر�?ن",
     "mm.core.country-CN": "چین",
     "mm.core.country-CO": "کلمبیا",
     "mm.core.country-CR": "کاستاریکا",
-    "mm.core.country-CS": "صربستان و مونته‌نگرو",
-    "mm.core.country-CU": "کوبا",
-    "mm.core.country-CV": "کیپ ورد",
+    "mm.core.country-CS": "صربستان �? م�?نته‌نگر�?",
+    "mm.core.country-CU": "ک�?با",
+    "mm.core.country-CV": "کیپ �?رد",
     "mm.core.country-CX": "جزیرهٔ کریسمس",
     "mm.core.country-CY": "قبرس",
-    "mm.core.country-CZ": "جمهوری چک",
+    "mm.core.country-CZ": "جمه�?ری چک",
     "mm.core.country-DE": "آلمان",
-    "mm.core.country-DJ": "جیبوتی",
+    "mm.core.country-DJ": "جیب�?تی",
     "mm.core.country-DK": "دانمارک",
-    "mm.core.country-DM": "دومینیک",
-    "mm.core.country-DO": "جمهوری دومینیکن",
+    "mm.core.country-DM": "د�?مینیک",
+    "mm.core.country-DO": "جمه�?ری د�?مینیکن",
     "mm.core.country-DZ": "الجزایر",
-    "mm.core.country-EC": "اکوادر",
-    "mm.core.country-EE": "استونی",
+    "mm.core.country-EC": "اک�?ادر",
+    "mm.core.country-EE": "است�?نی",
     "mm.core.country-EG": "مصر",
     "mm.core.country-EH": "صحرای غربی",
     "mm.core.country-ER": "اریتره",
     "mm.core.country-ES": "اسپانیا",
-    "mm.core.country-ET": "اتیوپی",
-    "mm.core.country-FI": "فنلاند",
-    "mm.core.country-FJ": "فیجی",
-    "mm.core.country-FK": "جزایر فالکلند",
-    "mm.core.country-FM": "میکرونزی",
-    "mm.core.country-FO": "جزایر فارو",
-    "mm.core.country-FR": "فرانسه",
-    "mm.core.country-GA": "گابون",
+    "mm.core.country-ET": "اتی�?پی",
+    "mm.core.country-FI": "�?نلاند",
+    "mm.core.country-FJ": "�?یجی",
+    "mm.core.country-FK": "جزایر �?الکلند",
+    "mm.core.country-FM": "میکر�?نزی",
+    "mm.core.country-FO": "جزایر �?ار�?",
+    "mm.core.country-FR": "�?رانسه",
+    "mm.core.country-GA": "گاب�?ن",
     "mm.core.country-GB": "بریتانیا",
     "mm.core.country-GD": "گرانادا",
     "mm.core.country-GE": "گرجستان",
-    "mm.core.country-GF": "گویان فرانسه",
+    "mm.core.country-GF": "گ�?یان �?رانسه",
     "mm.core.country-GG": "گرنزی",
     "mm.core.country-GH": "غنا",
     "mm.core.country-GI": "جبل‌الطارق",
-    "mm.core.country-GL": "گروئنلند",
+    "mm.core.country-GL": "گر�?ئنلند",
     "mm.core.country-GM": "گامبیا",
     "mm.core.country-GN": "گینه",
-    "mm.core.country-GP": "گوادلوپ",
-    "mm.core.country-GQ": "گینهٔ استوایی",
-    "mm.core.country-GR": "یونان",
-    "mm.core.country-GS": "جورجیای جنوبی و جزایر ساندویچ جنوبی",
-    "mm.core.country-GT": "گواتمالا",
-    "mm.core.country-GU": "گوام",
-    "mm.core.country-GW": "گینهٔ بیسائو",
-    "mm.core.country-GY": "گویان",
-    "mm.core.country-HK": "هنگ‌کنگ، ناحیهٔ ویژهٔ حکومتی چین",
-    "mm.core.country-HM": "جزیرهٔ هرد و جزایر مک‌دونالد",
-    "mm.core.country-HN": "هندوراس",
-    "mm.core.country-HR": "کرواسی",
+    "mm.core.country-GP": "گ�?ادل�?پ",
+    "mm.core.country-GQ": "گینهٔ است�?ایی",
+    "mm.core.country-GR": "ی�?نان",
+    "mm.core.country-GS": "ج�?رجیای جن�?بی �? جزایر ساند�?یچ جن�?بی",
+    "mm.core.country-GT": "گ�?اتمالا",
+    "mm.core.country-GU": "گ�?ام",
+    "mm.core.country-GW": "گینهٔ بیسائ�?",
+    "mm.core.country-GY": "گ�?یان",
+    "mm.core.country-HK": "هنگ‌کنگ، ناحیهٔ �?ی�?هٔ حک�?متی چین",
+    "mm.core.country-HM": "جزیرهٔ هرد �? جزایر مک‌د�?نالد",
+    "mm.core.country-HN": "هند�?راس",
+    "mm.core.country-HR": "کر�?اسی",
     "mm.core.country-HT": "هاییتی",
     "mm.core.country-HU": "مجارستان",
-    "mm.core.country-ID": "اندونزی",
+    "mm.core.country-ID": "اند�?نزی",
     "mm.core.country-IE": "ایرلند",
     "mm.core.country-IL": "اسرائیل",
     "mm.core.country-IM": "جزیرهٔ مان",
     "mm.core.country-IN": "هند",
-    "mm.core.country-IO": "مستعمره‌های بریتانیا در اقیانوس هند",
+    "mm.core.country-IO": "مستعمره‌های بریتانیا در اقیان�?س هند",
     "mm.core.country-IQ": "عراق",
     "mm.core.country-IR": "ایران",
     "mm.core.country-IS": "ایسلند",
@@ -135,217 +135,217 @@
     "mm.core.country-JE": "جرسی",
     "mm.core.country-JM": "جامائیکا",
     "mm.core.country-JO": "اردن",
-    "mm.core.country-JP": "ژاپن",
+    "mm.core.country-JP": "�?اپن",
     "mm.core.country-KE": "کنیا",
     "mm.core.country-KG": "قرقیزستان",
-    "mm.core.country-KH": "کامبوج",
+    "mm.core.country-KH": "کامب�?ج",
     "mm.core.country-KI": "کیریباتی",
-    "mm.core.country-KM": "کومورو",
-    "mm.core.country-KN": "سنت کیتس و نویس",
+    "mm.core.country-KM": "ک�?م�?ر�?",
+    "mm.core.country-KN": "سنت کیتس �? ن�?یس",
     "mm.core.country-KP": "کرهٔ شمالی",
-    "mm.core.country-KR": "کرهٔ جنوبی",
-    "mm.core.country-KW": "کویت",
-    "mm.core.country-KY": "جزایر کِیمن",
+    "mm.core.country-KR": "کرهٔ جن�?بی",
+    "mm.core.country-KW": "ک�?یت",
+    "mm.core.country-KY": "جزایر ک�?یمن",
     "mm.core.country-KZ": "قزاقستان",
-    "mm.core.country-LA": "لائوس",
+    "mm.core.country-LA": "لائ�?س",
     "mm.core.country-LB": "لبنان",
-    "mm.core.country-LC": "سنت لوسیا",
+    "mm.core.country-LC": "سنت ل�?سیا",
     "mm.core.country-LI": "لیختن‌اشتاین",
     "mm.core.country-LK": "سری‌لانکا",
     "mm.core.country-LR": "لیبریا",
-    "mm.core.country-LS": "لسوتو",
-    "mm.core.country-LT": "لیتوانی",
-    "mm.core.country-LU": "لوکزامبورگ",
-    "mm.core.country-LV": "لتونی",
+    "mm.core.country-LS": "لس�?ت�?",
+    "mm.core.country-LT": "لیت�?انی",
+    "mm.core.country-LU": "ل�?کزامب�?رگ",
+    "mm.core.country-LV": "لت�?نی",
     "mm.core.country-LY": "لیبی",
     "mm.core.country-MA": "مراکش",
-    "mm.core.country-MC": "موناکو",
-    "mm.core.country-MD": "مولداوی",
-    "mm.core.country-ME": "مونته‌نگرو",
+    "mm.core.country-MC": "م�?ناک�?",
+    "mm.core.country-MD": "م�?لدا�?ی",
+    "mm.core.country-ME": "م�?نته‌نگر�?",
     "mm.core.country-MF": "سنت مارتین",
     "mm.core.country-MG": "ماداگاسکار",
     "mm.core.country-MH": "جزایر مارشال",
-    "mm.core.country-MK": "مقدونیه",
+    "mm.core.country-MK": "مقد�?نیه",
     "mm.core.country-ML": "مالی",
     "mm.core.country-MM": "میانمار",
-    "mm.core.country-MN": "مغولستان",
-    "mm.core.country-MO": "ماکائو، ناحیهٔ ویژهٔ حکومتی چین",
+    "mm.core.country-MN": "مغ�?لستان",
+    "mm.core.country-MO": "ماکائ�?، ناحیهٔ �?ی�?هٔ حک�?متی چین",
     "mm.core.country-MP": "جزایر ماریانای شمالی",
     "mm.core.country-MQ": "مارتینیک",
-    "mm.core.country-MR": "موریتانی",
-    "mm.core.country-MS": "مونت‌سرات",
+    "mm.core.country-MR": "م�?ریتانی",
+    "mm.core.country-MS": "م�?نت‌سرات",
     "mm.core.country-MT": "مالت",
-    "mm.core.country-MU": "موریس",
-    "mm.core.country-MV": "مالدیو",
-    "mm.core.country-MW": "مالاوی",
+    "mm.core.country-MU": "م�?ریس",
+    "mm.core.country-MV": "مالدی�?",
+    "mm.core.country-MW": "مالا�?ی",
     "mm.core.country-MX": "مکزیک",
     "mm.core.country-MY": "مالزی",
-    "mm.core.country-MZ": "موزامبیک",
+    "mm.core.country-MZ": "م�?زامبیک",
     "mm.core.country-NA": "نامیبیا",
-    "mm.core.country-NC": "کالدونیای جدید",
+    "mm.core.country-NC": "کالد�?نیای جدید",
     "mm.core.country-NE": "نیجر",
-    "mm.core.country-NF": "جزیرهٔ نورفولک",
+    "mm.core.country-NF": "جزیرهٔ ن�?ر�?�?لک",
     "mm.core.country-NG": "نیجریه",
-    "mm.core.country-NI": "نیکاراگوئه",
+    "mm.core.country-NI": "نیکاراگ�?ئه",
     "mm.core.country-NL": "هلند",
-    "mm.core.country-NO": "نروژ",
+    "mm.core.country-NO": "نر�?�?",
     "mm.core.country-NP": "نپال",
-    "mm.core.country-NR": "نائورو",
-    "mm.core.country-NU": "نیوئه",
-    "mm.core.country-NZ": "زلاند نو",
+    "mm.core.country-NR": "نائ�?ر�?",
+    "mm.core.country-NU": "نی�?ئه",
+    "mm.core.country-NZ": "زلاند ن�?",
     "mm.core.country-OM": "عمان",
     "mm.core.country-PA": "پاناما",
-    "mm.core.country-PE": "پرو",
-    "mm.core.country-PF": "پلی‌نزی فرانسه",
-    "mm.core.country-PG": "پاپوا گینهٔ نو",
-    "mm.core.country-PH": "فیلیپین",
+    "mm.core.country-PE": "پر�?",
+    "mm.core.country-PF": "پلی‌نزی �?رانسه",
+    "mm.core.country-PG": "پاپ�?ا گینهٔ ن�?",
+    "mm.core.country-PH": "�?یلیپین",
     "mm.core.country-PK": "پاکستان",
     "mm.core.country-PL": "لهستان",
-    "mm.core.country-PM": "سنت پیر و میکلون",
+    "mm.core.country-PM": "سنت پیر �? میکل�?ن",
     "mm.core.country-PN": "پیتکایرن",
-    "mm.core.country-PR": "پورتو ریکو",
-    "mm.core.country-PS": "فلسطین",
+    "mm.core.country-PR": "پ�?رت�? ریک�?",
+    "mm.core.country-PS": "�?لسطین",
     "mm.core.country-PT": "پرتغال",
-    "mm.core.country-PW": "پالائو",
-    "mm.core.country-PY": "پاراگوئه",
+    "mm.core.country-PW": "پالائ�?",
+    "mm.core.country-PY": "پاراگ�?ئه",
     "mm.core.country-QA": "قطر",
-    "mm.core.country-RE": "ریونیون",
-    "mm.core.country-RO": "رومانی",
+    "mm.core.country-RE": "ری�?نی�?ن",
+    "mm.core.country-RO": "ر�?مانی",
     "mm.core.country-RS": "صربستان",
-    "mm.core.country-RU": "روسیه",
-    "mm.core.country-RW": "رواندا",
-    "mm.core.country-SA": "عربستان سعودی",
+    "mm.core.country-RU": "ر�?سیه",
+    "mm.core.country-RW": "ر�?اندا",
+    "mm.core.country-SA": "عربستان سع�?دی",
     "mm.core.country-SB": "جزایر سلیمان",
     "mm.core.country-SC": "سیشل",
-    "mm.core.country-SD": "سودان",
-    "mm.core.country-SE": "سوئد",
-    "mm.core.country-SG": "سنگاپور",
+    "mm.core.country-SD": "س�?دان",
+    "mm.core.country-SE": "س�?ئد",
+    "mm.core.country-SG": "سنگاپ�?ر",
     "mm.core.country-SH": "سنت هلن",
-    "mm.core.country-SI": "اسلوونی",
-    "mm.core.country-SJ": "اسوالبارد و جان ماین",
-    "mm.core.country-SK": "اسلواکی",
-    "mm.core.country-SL": "سیرالئون",
-    "mm.core.country-SM": "سان مارینو",
+    "mm.core.country-SI": "اسل�?�?نی",
+    "mm.core.country-SJ": "اس�?البارد �? جان ماین",
+    "mm.core.country-SK": "اسل�?اکی",
+    "mm.core.country-SL": "سیرالئ�?ن",
+    "mm.core.country-SM": "سان مارین�?",
     "mm.core.country-SN": "سنگال",
-    "mm.core.country-SO": "سومالی",
-    "mm.core.country-SR": "سورینام",
-    "mm.core.country-ST": "سائو تومه و پرینسیپه",
-    "mm.core.country-SV": "السالوادور",
-    "mm.core.country-SY": "سوریه",
-    "mm.core.country-SZ": "سوازیلند",
-    "mm.core.country-TC": "جزایر ترک و کایکوس",
+    "mm.core.country-SO": "س�?مالی",
+    "mm.core.country-SR": "س�?رینام",
+    "mm.core.country-ST": "سائ�? ت�?مه �? پرینسیپه",
+    "mm.core.country-SV": "السال�?اد�?ر",
+    "mm.core.country-SY": "س�?ریه",
+    "mm.core.country-SZ": "س�?ازیلند",
+    "mm.core.country-TC": "جزایر ترک �? کایک�?س",
     "mm.core.country-TD": "چاد",
-    "mm.core.country-TF": "مستعمره‌های جنوبی فرانسه",
-    "mm.core.country-TG": "توگو",
+    "mm.core.country-TF": "مستعمره‌های جن�?بی �?رانسه",
+    "mm.core.country-TG": "ت�?گ�?",
     "mm.core.country-TH": "تایلند",
     "mm.core.country-TJ": "تاجیکستان",
-    "mm.core.country-TK": "توکلائو",
-    "mm.core.country-TL": "تیمور شرقی",
+    "mm.core.country-TK": "ت�?کلائ�?",
+    "mm.core.country-TL": "تیم�?ر شرقی",
     "mm.core.country-TM": "ترکمنستان",
-    "mm.core.country-TN": "تونس",
-    "mm.core.country-TO": "تونگا",
+    "mm.core.country-TN": "ت�?نس",
+    "mm.core.country-TO": "ت�?نگا",
     "mm.core.country-TR": "ترکیه",
-    "mm.core.country-TT": "ترینیداد و توباگو",
-    "mm.core.country-TV": "تووالو",
-    "mm.core.country-TW": "تایوان",
+    "mm.core.country-TT": "ترینیداد �? ت�?باگ�?",
+    "mm.core.country-TV": "ت�?�?ال�?",
+    "mm.core.country-TW": "تای�?ان",
     "mm.core.country-TZ": "تانزانیا",
-    "mm.core.country-UA": "اوکراین",
-    "mm.core.country-UG": "اوگاندا",
-    "mm.core.country-UM": "جزایر کوچک دورافتادهٔ ایالات متحده",
+    "mm.core.country-UA": "ا�?کراین",
+    "mm.core.country-UG": "ا�?گاندا",
+    "mm.core.country-UM": "جزایر ک�?چک د�?را�?تادهٔ ایالات متحده",
     "mm.core.country-US": "ایالات متحدهٔ امریکا",
-    "mm.core.country-UY": "اوروگوئه",
+    "mm.core.country-UY": "ا�?ر�?گ�?ئه",
     "mm.core.country-UZ": "ازبکستان",
-    "mm.core.country-VA": "واتیکان",
-    "mm.core.country-VC": "سنت وینسنت و گرنادین",
-    "mm.core.country-VE": "ونزوئلا",
-    "mm.core.country-VG": "جزایر ویرجین بریتانیا",
-    "mm.core.country-VI": "جزایر ویرجین ایالات متحده",
-    "mm.core.country-VN": "ویتنام",
-    "mm.core.country-VU": "وانواتو",
-    "mm.core.country-WF": "والیس و فیوتونا",
-    "mm.core.country-WS": "ساموا",
+    "mm.core.country-VA": "�?اتیکان",
+    "mm.core.country-VC": "سنت �?ینسنت �? گرنادین",
+    "mm.core.country-VE": "�?نز�?ئلا",
+    "mm.core.country-VG": "جزایر �?یرجین بریتانیا",
+    "mm.core.country-VI": "جزایر �?یرجین ایالات متحده",
+    "mm.core.country-VN": "�?یتنام",
+    "mm.core.country-VU": "�?ان�?ات�?",
+    "mm.core.country-WF": "�?الیس �? �?ی�?ت�?نا",
+    "mm.core.country-WS": "سام�?ا",
     "mm.core.country-YE": "یمن",
-    "mm.core.country-YT": "مایوت",
-    "mm.core.country-ZA": "افریقای جنوبی",
+    "mm.core.country-YT": "مای�?ت",
+    "mm.core.country-ZA": "ا�?ریقای جن�?بی",
     "mm.core.country-ZM": "زامبیا",
-    "mm.core.country-ZW": "زیمبابوه",
+    "mm.core.country-ZW": "زیمباب�?ه",
     "mm.core.country-ZZ": "ناحیهٔ نامشخص یا نامعتبر",
     "mm.core.course": "درس",
     "mm.core.coursedetails": "جزئیات درس",
-    "mm.core.currentdevice": "دستگاه فعلی",
-    "mm.core.datastoredoffline": "ارسال اطلاعات ناموفق بود. اطلاعات روی دستگاه ذخیره شد و بعدا به‌طور خودکار فرستاده خواهد شد.",
+    "mm.core.currentdevice": "دستگاه �?علی",
+    "mm.core.datastoredoffline": "ارسال اطلاعات نام�?�?ق ب�?د. اطلاعات ر�?ی دستگاه ذخیره شد �? بعدا به‌ط�?ر خ�?دکار �?رستاده خ�?اهد شد.",
     "mm.core.date": "تاریخ",
-    "mm.core.day": "روز",
-    "mm.core.days": "روز",
+    "mm.core.day": "ر�?ز",
+    "mm.core.days": "ر�?ز",
     "mm.core.decsep": ".",
-    "mm.core.delete": "حذف",
-    "mm.core.deleting": "در حال حذف",
-    "mm.core.description": "توصیف",
+    "mm.core.delete": "حذ�?",
+    "mm.core.deleting": "در حال حذ�?",
+    "mm.core.description": "ت�?صی�?",
     "mm.core.done": "پر کرده است",
-    "mm.core.download": "دریافت",
-    "mm.core.edit": "ویرایش",
+    "mm.core.download": "دریا�?ت",
+    "mm.core.edit": "�?یرایش",
     "mm.core.error": "خطا رخ داد",
-    "mm.core.errordownloading": "خطا در دانلود فایل",
-    "mm.core.folder": "پوشه",
-    "mm.core.forcepasswordchangenotice": "برای پیش‌روی باید رمز ورود خود را تغییر دهید.",
+    "mm.core.errordownloading": "خطا در دانل�?د �?ایل",
+    "mm.core.folder": "پ�?شه",
+    "mm.core.forcepasswordchangenotice": "برای پیش‌ر�?ی باید رمز �?ر�?د خ�?د را تغییر دهید.",
     "mm.core.fulllistofcourses": "همهٔ درس‌ها",
-    "mm.core.groupsseparate": "گروه‌های جداگانه",
-    "mm.core.groupsvisible": "گروه‌های مرئی",
+    "mm.core.groupsseparate": "گر�?ه‌های جداگانه",
+    "mm.core.groupsvisible": "گر�?ه‌های مرئی",
     "mm.core.help": "راهنمایی",
     "mm.core.hide": "پنهان کردن",
     "mm.core.hour": "ساعت",
     "mm.core.hours": "ساعت",
-    "mm.core.imageviewer": "نمایشگر تصویر",
+    "mm.core.imageviewer": "نمایشگر تص�?یر",
     "mm.core.info": "اطلاعات",
     "mm.core.labelsep": ":&nbsp;",
     "mm.core.lastmodified": "آخرین تغییر",
     "mm.core.listsep": ",",
-    "mm.core.loading": "دریافت اطلاعات...",
-    "mm.core.lostconnection": "اطلاعات توکن شناسایی شما معتبر نیست یا منقضی شده است. باید دوباره به سایت متصل شوید.",
-    "mm.core.maxsizeandattachments": "حداکثر اندازه برای فایل‌های جدید: {{$a.size}}، حداکثر تعداد فایل‌های پیوست: {{$a.attachments}}",
+    "mm.core.loading": "دریا�?ت اطلاعات...",
+    "mm.core.lostconnection": "اطلاعات ت�?کن شناسایی شما معتبر نیست یا منقضی شده است. باید د�?باره به سایت متصل ش�?ید.",
+    "mm.core.maxsizeandattachments": "حداکثر اندازه برای �?ایل‌های جدید: {{$a.size}}، حداکثر تعداد �?ایل‌های پی�?ست: {{$a.attachments}}",
     "mm.core.min": "کمترین امتیاز",
     "mm.core.mins": "دقیقه",
-    "mm.core.mod_assign": "تکلیف",
-    "mm.core.mod_chat": "اتاق گفتگو",
+    "mm.core.mod_assign": "تکلی�?",
+    "mm.core.mod_chat": "اتاق گ�?تگ�?",
     "mm.core.mod_choice": "انتخاب",
     "mm.core.mod_data": "بانک اطلاعاتی",
-    "mm.core.mod_feedback": "بازخورد",
-    "mm.core.mod_forum": "تالار گفتگو",
+    "mm.core.mod_feedback": "بازخ�?رد",
+    "mm.core.mod_forum": "تالار گ�?تگ�?",
     "mm.core.mod_lesson": "مبحث درسی",
     "mm.core.mod_lti": "ابزار خارجی",
-    "mm.core.mod_quiz": "آزمون",
-    "mm.core.mod_scorm": "بستهٔ اسکورم",
+    "mm.core.mod_quiz": "آزم�?ن",
+    "mm.core.mod_scorm": "بستهٔ اسک�?رم",
     "mm.core.mod_survey": "ارزیابی",
-    "mm.core.mod_wiki": "ویکی",
-    "mm.core.moduleintro": "توصیف",
+    "mm.core.mod_wiki": "�?یکی",
+    "mm.core.moduleintro": "ت�?صی�?",
     "mm.core.name": "نام",
     "mm.core.networkerrormsg": "شبکه قابل دسترسی نیست",
-    "mm.core.never": "هیچ‌وقت",
+    "mm.core.never": "هیچ‌�?قت",
     "mm.core.next": "ادامه",
     "mm.core.no": "خیر",
     "mm.core.nocomments": "نظری ارائه نشده است",
-    "mm.core.nograde": "بدون نمره",
+    "mm.core.nograde": "بد�?ن نمره",
     "mm.core.none": "هیچ",
-    "mm.core.nopasswordchangeforced": "شما نمی‌توانید بدون تغییر رمز عبور ادامه دهید اما هیچ صفحه‌ای برای عوض کردن آن وجود ندارد. لطفا با مدیریت سایت تماس بگیرید.",
-    "mm.core.nopermissions": "متأسفیم، شما مجوز انجام این کار را ندارید ({{$a}})",
-    "mm.core.noresults": "بدون نتیجه",
+    "mm.core.nopasswordchangeforced": "شما نمی‌ت�?انید بد�?ن تغییر رمز عب�?ر ادامه دهید اما هیچ ص�?حه‌ای برای ع�?ض کردن آن �?ج�?د ندارد. لط�?ا با مدیریت سایت تماس بگیرید.",
+    "mm.core.nopermissions": "متأس�?یم، شما مج�?ز انجام این کار را ندارید ({{$a}})",
+    "mm.core.noresults": "بد�?ن نتیجه",
     "mm.core.notice": "اخطار",
-    "mm.core.now": "اکنون",
+    "mm.core.now": "اکن�?ن",
     "mm.core.numwords": "{{$a}} کلمه",
-    "mm.core.offline": "آفلاین",
+    "mm.core.offline": "آ�?لاین",
     "mm.core.online": "آنلاین",
-    "mm.core.openinbrowser": "باز کردن در مرورگر",
-    "mm.core.pagea": "صفحه {{$a}}",
-    "mm.core.phone": "تلفن",
+    "mm.core.openinbrowser": "باز کردن در مر�?رگر",
+    "mm.core.pagea": "ص�?حه {{$a}}",
+    "mm.core.phone": "تل�?ن",
     "mm.core.pictureof": "عکس {{$a}}",
     "mm.core.previous": "قبلی",
     "mm.core.pulltorefresh": "برای تازه‌سازی بکشید",
     "mm.core.refresh": "تازه‌سازی",
-    "mm.core.required": "الزامی بودن",
+    "mm.core.required": "الزامی ب�?دن",
     "mm.core.save": "ذخیره",
-    "mm.core.search": "جستجو...",
-    "mm.core.searching": "در حال جستجو در ...",
-    "mm.core.searchresults": "نتایج جستجو",
+    "mm.core.search": "جستج�?...",
+    "mm.core.searching": "در حال جستج�? در ...",
+    "mm.core.searchresults": "نتایج جستج�?",
     "mm.core.sec": "ثانیه",
     "mm.core.secs": "ثانیه",
     "mm.core.seemoredetail": "برای دیدن جزئیات بیشتر اینجا را کلیک کنید",
@@ -357,118 +357,118 @@
     "mm.core.site": "سایت",
     "mm.core.sizeb": "بایت",
     "mm.core.sizegb": "گیگابایت",
-    "mm.core.sizekb": "کیلوبایت",
+    "mm.core.sizekb": "کیل�?بایت",
     "mm.core.sizemb": "مگابایت",
-    "mm.core.sorry": "متاسفیم...",
+    "mm.core.sorry": "متاس�?یم...",
     "mm.core.sortby": "مرتب شدن بر اساس",
     "mm.core.start": "آغاز",
     "mm.core.submit": "ارسال",
-    "mm.core.success": "موفق",
+    "mm.core.success": "م�?�?ق",
     "mm.core.teachers": "استاد",
     "mm.core.time": "زمان",
-    "mm.core.timesup": "وقت تمام شد!",
-    "mm.core.today": "امروز",
-    "mm.core.unexpectederror": "خطای غیرمنتظره.لطفا برنامه را ببندید و دوباره اجرا نمایید",
-    "mm.core.unknown": "نامعلوم",
-    "mm.core.unlimited": "نامحدود",
-    "mm.core.upgraderunning": "سایت در حال ارتقا است، لطفا بعدا تلاش کنید.",
-    "mm.core.userdeleted": "این حساب کاربری حذف شده است",
+    "mm.core.timesup": "�?قت تمام شد!",
+    "mm.core.today": "امر�?ز",
+    "mm.core.unexpectederror": "خطای غیرمنتظره.لط�?ا برنامه را ببندید �? د�?باره اجرا نمایید",
+    "mm.core.unknown": "نامعل�?م",
+    "mm.core.unlimited": "نامحد�?د",
+    "mm.core.upgraderunning": "سایت در حال ارتقا است، لط�?ا بعدا تلاش کنید.",
+    "mm.core.userdeleted": "این حساب کاربری حذ�? شده است",
     "mm.core.userdetails": "با جزئیات",
-    "mm.core.usernotfullysetup": "کاربر به‌طور کامل برپا نشده است",
+    "mm.core.usernotfullysetup": "کاربر به‌ط�?ر کامل برپا نشده است",
     "mm.core.users": "کاربران",
     "mm.core.view": "مشاهده",
-    "mm.core.viewprofile": "مشاهدهٔ صفحهٔ مشخصات فردی",
+    "mm.core.viewprofile": "مشاهدهٔ ص�?حهٔ مشخصات �?ردی",
     "mm.core.year": "سال",
     "mm.core.years": "سال",
     "mm.core.yes": "بله",
-    "mm.course.activitynotyetviewableinapp": "ما در حال کار بر روی پشتیبانی از فعالیت {{$a}} هستیم.",
+    "mm.course.activitynotyetviewableinapp": "ما در حال کار بر ر�?ی پشتیبانی از �?عالیت {{$a}} هستیم.",
     "mm.course.allsections": "تمام قسمت‌ها",
-    "mm.course.confirmdeletemodulefiles": "آیا مطمئنید که می‌خواهید فایل‌های این ماژول را پاک کنید؟",
-    "mm.course.confirmdownload": "شما در آستانهٔ دریافت {{size}} هستید. آیا مطمئنید که می‌خواهید ادامه دهید؟",
-    "mm.course.confirmdownloadunknownsize": "ما نتوانستیم حجم دریافت را محاسبه کنیم. آیا مطمئنید که می‌خواهید ادامه دهید؟",
-    "mm.course.confirmpartialdownloadsize": "شما در آستانهٔ دریافت <strong>حداقل</strong> {{size}} هستید. آیا مطمئنید که می‌خواهید ادامه دهید؟",
-    "mm.course.contents": "محتویات",
-    "mm.course.couldnotloadsectioncontent": "محتوای قسمت نتوانست بارگیری شود. لطفا بعدا دوباره تلاش کنید.",
-    "mm.course.couldnotloadsections": "قسمت‌ها نتوانستند بارگیری شوند. لطفا بعدا دوباره تلاش کنید.",
+    "mm.course.confirmdeletemodulefiles": "آیا مطمئنید که می‌خ�?اهید �?ایل‌های این ما�?�?ل را پاک کنید؟",
+    "mm.course.confirmdownload": "شما در آستانهٔ دریا�?ت {{size}} هستید. آیا مطمئنید که می‌خ�?اهید ادامه دهید؟",
+    "mm.course.confirmdownloadunknownsize": "ما نت�?انستیم حجم دریا�?ت را محاسبه کنیم. آیا مطمئنید که می‌خ�?اهید ادامه دهید؟",
+    "mm.course.confirmpartialdownloadsize": "شما در آستانهٔ دریا�?ت <strong>حداقل</strong> {{size}} هستید. آیا مطمئنید که می‌خ�?اهید ادامه دهید؟",
+    "mm.course.contents": "محت�?اها",
+    "mm.course.couldnotloadsectioncontent": "محت�?ای قسمت نت�?انست بارگیری ش�?د. لط�?ا بعدا د�?باره تلاش کنید.",
+    "mm.course.couldnotloadsections": "قسمت‌ها نت�?انستند بارگیری ش�?ند. لط�?ا بعدا د�?باره تلاش کنید.",
     "mm.course.hiddenfromstudents": "پنهان از شاگردان",
-    "mm.course.showall": "نمایش همه {{$a}}",
-    "mm.course.useactivityonbrowser": "البته همچنان می‌توانید با استفاده از مرورگر دستگاه خود، از آن استفاده کنید.",
-    "mm.courses.allowguests": "ورود کاربران مهمان به این درس مجاز است",
-    "mm.courses.availablecourses": "درس‌های موجود",
+    "mm.course.showall": "نمایش همه",
+    "mm.course.useactivityonbrowser": "البته همچنان می‌ت�?انید با است�?اده از مر�?رگر دستگاه خ�?د، از آن است�?اده کنید.",
+    "mm.courses.allowguests": "�?ر�?د کاربران مهمان به این درس مجاز است",
+    "mm.courses.availablecourses": "درس‌های م�?ج�?د",
     "mm.courses.categories": "دسته‌ها",
-    "mm.courses.confirmselfenrol": "آیا مطمئنید که می‌خواهید خود را در این درس ثبت‌نام کنید؟",
+    "mm.courses.confirmselfenrol": "آیا مطمئنید که می‌خ�?اهید خ�?د را در این درس ثبت‌نام کنید؟",
     "mm.courses.courses": "درس‌ها",
     "mm.courses.enrolme": "ثبت‌نام من",
     "mm.courses.errorloadcourses": "در هنگام بارگیری درس‌ها خطایی رخ داد.",
     "mm.courses.filtermycourses": "پالایش درس‌های من",
-    "mm.courses.frontpage": "صفحهٔ اول",
+    "mm.courses.frontpage": "ص�?حهٔ ا�?ل",
     "mm.courses.mycourses": "درس‌های من",
     "mm.courses.nocourses": "هیچ درسی",
-    "mm.courses.nocoursesyet": "درسی در این طبقه وجود ندارد",
-    "mm.courses.nosearchresults": "بدون نتیجه",
+    "mm.courses.nocoursesyet": "درسی در این طبقه �?ج�?د ندارد",
+    "mm.courses.nosearchresults": "بد�?ن نتیجه",
     "mm.courses.notenroled": "شما در این درس ثبت‌نام نیستید",
     "mm.courses.password": "کلمهٔ رمز",
-    "mm.courses.search": "جستجو...",
-    "mm.courses.searchcourses": "جستجوی درس‌ها",
-    "mm.fileuploader.addfiletext": "اضافه‌کردن فایل",
-    "mm.fileuploader.confirmuploadfile": "شما در آستانهٔ ارسال {{size}} هستید. آیا مطمئنید که می‌خواهید ادامه دهید؟",
-    "mm.fileuploader.confirmuploadunknownsize": "ما نتوانستیم حجم ارسال را محاسبه کنیم. آیا مطمئنید که می‌خواهید ادامه دهید؟",
+    "mm.courses.search": "جستج�?...",
+    "mm.courses.searchcourses": "جستج�?ی درس‌ها",
+    "mm.fileuploader.addfiletext": "اضا�?ه‌کردن �?ایل",
+    "mm.fileuploader.confirmuploadfile": "شما در آستانهٔ ارسال {{size}} هستید. آیا مطمئنید که می‌خ�?اهید ادامه دهید؟",
+    "mm.fileuploader.confirmuploadunknownsize": "ما نت�?انستیم حجم ارسال را محاسبه کنیم. آیا مطمئنید که می‌خ�?اهید ادامه دهید؟",
     "mm.fileuploader.errorcapturingaudio": "خطا در ضبط صدا",
-    "mm.fileuploader.errorcapturingvideo": "خطا در ضبط ویدئو",
-    "mm.fileuploader.errorreadingfile": "خطا در خواندن فایل «{{$a}}»",
-    "mm.fileuploader.file": "تحویل فایل",
-    "mm.fileuploader.fileuploaded": "فایل آپلود شده",
-    "mm.fileuploader.maxbytesfile": "فایل {{$a.file}} بسیار بزرگ است. بیشترین اندازه‌ای که می‌توانید ارسال کنید {{$a.size}} است.",
-    "mm.fileuploader.uploadafile": "قرار دادن یک فایل در سایت",
+    "mm.fileuploader.errorcapturingvideo": "خطا در ضبط �?یدئ�?",
+    "mm.fileuploader.errorreadingfile": "خطا در خ�?اندن �?ایل «{{$a}}»",
+    "mm.fileuploader.file": "تح�?یل �?ایل",
+    "mm.fileuploader.fileuploaded": "�?ایل آپل�?د شده",
+    "mm.fileuploader.maxbytesfile": "�?ایل {{$a.file}} بسیار بزرگ است. بیشترین اندازه‌ای که می‌ت�?انید ارسال کنید {{$a.size}} است.",
+    "mm.fileuploader.uploadafile": "قرار دادن یک �?ایل در سایت",
     "mm.fileuploader.uploading": "درحال بارگذاری",
-    "mm.fileuploader.video": "ویدئو",
+    "mm.fileuploader.video": "�?یدئ�?",
     "mm.grades.average": "میانگین",
     "mm.grades.contributiontocoursetotal": "میزان تاثیر در نمره نهایی درس",
-    "mm.grades.feedback": "بازخورد",
+    "mm.grades.feedback": "بازخ�?رد",
     "mm.grades.grade": "نمره",
     "mm.grades.grades": "نمره‌ها",
-    "mm.grades.itemname": "نام مورد",
-    "mm.grades.lettergrade": "نمرهٔ حرفی",
+    "mm.grades.itemname": "نام م�?رد",
+    "mm.grades.lettergrade": "نمرهٔ حر�?ی",
     "mm.grades.percentage": "درصد",
-    "mm.grades.range": "محدوده",
+    "mm.grades.range": "محد�?ده",
     "mm.grades.rank": "رتبه",
-    "mm.grades.weight": "وزن",
+    "mm.grades.weight": "�?زن",
     "mm.login.authenticating": "در حال شناسایی",
-    "mm.login.cancel": "انصراف",
-    "mm.login.confirmdeletesite": "آیا مطمئن هستید که می‌خواهید سایت {{sitename}} را پاک کنید؟",
+    "mm.login.cancel": "انصرا�?",
+    "mm.login.confirmdeletesite": "آیا مطمئن هستید که می‌خ�?اهید سایت {{sitename}} را پاک کنید؟",
     "mm.login.connect": "اتصال",
-    "mm.login.connecttomoodle": "اتصال به مودل",
+    "mm.login.connecttomoodle": "اتصال به م�?دل",
     "mm.login.createaccount": "ایجاد حساب کاربری من",
-    "mm.login.createuserandpass": "نام کاربری و رمز عبور خود را انتخاب کنید",
-    "mm.login.emailconfirmsent": "<p>باید نامه‌ای به آدرس شما در <b>{{$a}}</b> فرستاده شده باشد</p>\n   <p>این نامه شامل دستورالعمل‌های ساده‌ای برای تکمیل عضویت شما است.</p>\n   <p>در صورت تداوم مواجهه با مشکل، با مدیر سایت تماس بگیرید.</p>",
-    "mm.login.enterthewordsabove": "کلمات بالا را وارد نمائید",
-    "mm.login.firsttime": "برای اولین بار به این صفحه آمده‌اید؟",
-    "mm.login.getanothercaptcha": "دریافت یک کپچای دیگر",
+    "mm.login.createuserandpass": "نام کاربری �? رمز عب�?ر خ�?د را انتخاب کنید",
+    "mm.login.emailconfirmsent": "<p>باید نامه‌ای به آدرس شما در <b>{{$a}}</b> �?رستاده شده باشد</p>\n   <p>این نامه شامل دست�?رالعمل‌های ساده‌ای برای تکمیل عض�?یت شما است.</p>\n   <p>در ص�?رت تدا�?م م�?اجهه با مشکل، با مدیر سایت تماس بگیرید.</p>",
+    "mm.login.enterthewordsabove": "کلمات بالا را �?ارد نمائید",
+    "mm.login.firsttime": "برای ا�?لین بار به این ص�?حه آمده‌اید؟",
+    "mm.login.getanothercaptcha": "دریا�?ت یک کپچای دیگر",
     "mm.login.help": "راهنمایی",
-    "mm.login.helpmelogin": "<p>چندین هزار سایت مودل در دنیا وجود دارد. این برنامه فقط می‌تواند به آن مودل‌هایی متصل شود که صراحتا دسترسی «برنامه موبایل» را فعال کرده‌باشند.</p><p>اگر نمی‌توانید به سایت مودل خود وصل شوید، باید با مدیر مودل آن سایت تماس بگیرید و بخواهید که <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a> را مطالعه کنند.</p>\n<p>برای آزمایش برنامه با استفاده از یک سایت آزمایشی، در قسمت مربوط به <i>آدرس سایت</i> عبارت <i>teacher</i> یا <i>student</i> را وارد کرده و بر روی دکمه <b>اتصال</b> کلیک کنید.</p>",
-    "mm.login.instructions": "دستورالعمل",
-    "mm.login.invalidaccount": "لطفا اطلاعات ورودخود را بررسی نمایید",
-    "mm.login.invalidemail": "آدرس پست الکترونیک نامعتبر",
-    "mm.login.invalidmoodleversion": "این نسخه از برنامه سایت قابلیت اتصال به موبایل ندارد",
+    "mm.login.helpmelogin": "<p>چندین هزار سایت م�?دل در دنیا �?ج�?د دارد. این برنامه �?قط می‌ت�?اند به آن م�?دل‌هایی متصل ش�?د که صراحتا دسترسی «برنامه م�?بایل» را �?عال کرده‌باشند.</p><p>اگر نمی‌ت�?انید به سایت م�?دل خ�?د �?صل ش�?ید، باید با مدیر م�?دل آن سایت تماس بگیرید �? بخ�?اهید که <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a> را مطالعه کنند.</p>\n<p>برای آزمایش برنامه با است�?اده از یک سایت آزمایشی، در قسمت مرب�?ط به <i>آدرس سایت</i> عبارت <i>teacher</i> یا <i>student</i> را �?ارد کرده �? بر ر�?ی دکمه <b>اتصال</b> کلیک کنید.</p>",
+    "mm.login.instructions": "دست�?رالعمل",
+    "mm.login.invalidaccount": "لط�?ا اطلاعات �?ر�?دخ�?د را بررسی نمایید",
+    "mm.login.invalidemail": "آدرس پست الکتر�?نیک نامعتبر",
+    "mm.login.invalidmoodleversion": "این نسخه از برنامه سایت قابلیت اتصال به م�?بایل ندارد",
     "mm.login.invalidsite": "نشانی سایت معتبر نیست",
-    "mm.login.invalidurl": "آدرسی که وارد کرده‌اید معتبر نیست",
-    "mm.login.login": "ورود به سایت",
-    "mm.login.logininsiterequired": "لازم است به سایت از طریق مرورگر متصل گردید",
+    "mm.login.invalidurl": "آدرسی که �?ارد کرده‌اید معتبر نیست",
+    "mm.login.login": "�?ر�?د به سایت",
+    "mm.login.logininsiterequired": "لازم است به سایت از طریق مر�?رگر متصل گردید",
     "mm.login.loginsteps": "برای داشتن دسترسی کامل به این سایت، پیش از هر چیز باید یک حساب کاربری بسازید.",
-    "mm.login.missingemail": "آدرس پست الکترونیک را وارد کنید",
-    "mm.login.missingfirstname": "نام را وارد کنید",
-    "mm.login.missinglastname": "نام خانوادگی را وارد کنید",
-    "mm.login.mobileservicesnotenabled": "سرویس دسترسی موبایل در سایت شما فعال نیست",
+    "mm.login.missingemail": "آدرس پست الکتر�?نیک را �?ارد کنید",
+    "mm.login.missingfirstname": "نام را �?ارد کنید",
+    "mm.login.missinglastname": "نام خان�?ادگی را �?ارد کنید",
+    "mm.login.mobileservicesnotenabled": "سر�?یس دسترسی م�?بایل در سایت شما �?عال نیست",
     "mm.login.newaccount": "حساب کاربری جدید",
-    "mm.login.password": "رمز ورود",
-    "mm.login.passwordrequired": "گذرواژه مورد نیاز است",
-    "mm.login.policyaccept": "موافقم و می‌پذیرم",
-    "mm.login.policyagree": "برای ادامهٔ استفاده از این سایت باید موافقت خود را با خط مشی آن اعلام کنید. آیا موافقید؟",
-    "mm.login.policyagreement": "موافقت با خط مشی سایت",
-    "mm.login.policyagreementclick": "مشاهدهٔ موافقت‌نامهٔ خط مشی سایت",
-    "mm.login.potentialidps": "ورود با استفاده از حساب شما روی:",
+    "mm.login.password": "رمز �?ر�?د",
+    "mm.login.passwordrequired": "گذر�?ا�?ه م�?رد نیاز است",
+    "mm.login.policyaccept": "م�?ا�?قم �? می‌پذیرم",
+    "mm.login.policyagree": "برای ادامهٔ است�?اده از این سایت باید م�?ا�?قت خ�?د را با خط مشی آن اعلام کنید. آیا م�?ا�?قید؟",
+    "mm.login.policyagreement": "م�?ا�?قت با خط مشی سایت",
+    "mm.login.policyagreementclick": "مشاهدهٔ م�?ا�?قت‌نامهٔ خط مشی سایت",
+    "mm.login.potentialidps": "�?ر�?د با است�?اده از حساب شما ر�?ی:",
     "mm.login.security_question": "سؤال امنیتی",
-    "mm.login.selectacountry": "انتخاب کشور",
+    "mm.login.selectacountry": "انتخاب کش�?ر",
     "mm.login.siteaddress": "آدرس سایت",
     "mm.login.siteinmaintenance": "سایت شما در حالت نگهداشت می باشد",
     "mm.login.siteurl": "نشانی سایت",
@@ -477,331 +477,331 @@
     "mm.login.supplyinfo": "جزئیات بیشتر",
     "mm.login.username": "نام کاربری",
     "mm.login.usernamerequired": "نام کاربر لازم است",
-    "mm.login.usernotaddederror": "کاربر اضافه نشد - خطا",
-    "mm.login.webservicesnotenabled": "وب سرویس سایت اشکال دارد.با مدیر سایت هماهنگ نمایید",
+    "mm.login.usernotaddederror": "کاربر اضا�?ه نشد - خطا",
+    "mm.login.webservicesnotenabled": "�?ب سر�?یس سایت اشکال دارد.با مدیر سایت هماهنگ نمایید",
     "mm.question.answer": "پاسخ",
     "mm.question.answersaved": "پاسخ ذخیره شده",
     "mm.question.complete": "کامل",
     "mm.question.correct": "درست",
-    "mm.question.feedback": "بازخورد",
+    "mm.question.feedback": "بازخ�?رد",
     "mm.question.incorrect": "نادرست",
-    "mm.question.information": "توضیح",
+    "mm.question.information": "ت�?ضیح",
     "mm.question.invalidanswer": "پاسخ ناقص",
     "mm.question.notanswered": "پاسخ داده نشده",
-    "mm.question.notyetanswered": "هنوز پاسخ داده نشده است",
+    "mm.question.notyetanswered": "هن�?ز پاسخ داده نشده است",
     "mm.question.partiallycorrect": "پاسخ نیمه درست",
     "mm.question.questionno": "سؤال {{$a}}",
     "mm.question.requiresgrading": "نمره‌دهی لازم است",
-    "mm.question.unknown": "نامعلوم",
+    "mm.question.unknown": "نامعل�?م",
     "mm.settings.about": "درباره",
     "mm.settings.cacheexpirationtime": "زمان اعتبار کشها (miliseconds)",
     "mm.settings.configuringnotifications": "شما در حال پیکربندی اطلاعیه‌های «{{$a}}» هستید.",
-    "mm.settings.cordovadevicemodel": "مدل دستگاه کُردوا",
-    "mm.settings.currentlanguage": "زبان فعلی",
-    "mm.settings.deletesitefiles": "آیا از حذف کلیه فایل‌های این سایت مطمئنید؟",
-    "mm.settings.deletesitefilestitle": "پاک‌کردن فایل‌های سایت",
+    "mm.settings.cordovadevicemodel": "مدل دستگاه کُرد�?ا",
+    "mm.settings.currentlanguage": "زبان �?علی",
+    "mm.settings.deletesitefiles": "آیا از حذ�? کلیه �?ایل‌های این سایت مطمئنید؟",
+    "mm.settings.deletesitefilestitle": "پاک‌کردن �?ایل‌های سایت",
     "mm.settings.deviceinfo": "اطلاعات دستگاه",
     "mm.settings.deviceos": "سیستم‌عامل دستگاه",
-    "mm.settings.disableall": "غیرفعال‌کردن اطلاعیه‌ها",
-    "mm.settings.disabled": "غیر فعال شده است",
-    "mm.settings.enabledebugging": "فعالسازی اشکالزدایی",
-    "mm.settings.enabledownloadsection": "فعال‌کردن دریافت قسمت‌ها",
-    "mm.settings.enabledownloadsectiondescription": "برای سریع‌تر شدن بارگیری قسمت‌های درس این گزینه را غیرفعال کنید.",
-    "mm.settings.enablerichtexteditor": "فعال‌کردن ویرایشگر متنی پیشرفته",
-    "mm.settings.enablerichtexteditordescription": "اگر فعال باشد، در جاهایی که ممکن باشد یک ویرایشگر متنی پیشرفته نمایش داده خواهد شد.",
-    "mm.settings.estimatedfreespace": "فضای آزاد تخمینی",
+    "mm.settings.disableall": "غیر�?عال‌کردن اطلاعیه‌ها",
+    "mm.settings.disabled": "غیر �?عال شده است",
+    "mm.settings.enabledebugging": "�?عالسازی اشکالزدایی",
+    "mm.settings.enabledownloadsection": "�?عال‌کردن دریا�?ت قسمت‌ها",
+    "mm.settings.enabledownloadsectiondescription": "برای سریع‌تر شدن بارگیری قسمت‌های درس این گزینه را غیر�?عال کنید.",
+    "mm.settings.enablerichtexteditor": "�?عال‌کردن �?یرایشگر متنی پیشر�?ته",
+    "mm.settings.enablerichtexteditordescription": "اگر �?عال باشد، در جاهایی که ممکن باشد یک �?یرایشگر متنی پیشر�?ته نمایش داده خ�?اهد شد.",
+    "mm.settings.estimatedfreespace": "�?ضای آزاد تخمینی",
     "mm.settings.general": "داده‌های کلی",
     "mm.settings.language": "زبان",
     "mm.settings.license": "اجازه‌نامه",
-    "mm.settings.loggedin": "هنگام بودن در سایت",
-    "mm.settings.loggedoff": "هنگام نبودن در سایت",
-    "mm.settings.privacypolicy": "خط مشی حفظ حریم خصوصی",
+    "mm.settings.loggedin": "هنگام ب�?دن در سایت",
+    "mm.settings.loggedoff": "هنگام نب�?دن در سایت",
+    "mm.settings.privacypolicy": "خط مشی ح�?ظ حریم خص�?صی",
     "mm.settings.processorsettings": "تنظیمات پردازشگر",
-    "mm.settings.reportinbackground": "گزارش خطاها به‌صورت خودکار",
+    "mm.settings.reportinbackground": "گزارش خطاها به‌ص�?رت خ�?دکار",
     "mm.settings.settings": "تنظیمات",
     "mm.settings.sites": "سایت‌ها",
-    "mm.settings.spaceusage": "فضای مورد استفاده",
+    "mm.settings.spaceusage": "�?ضای م�?رد است�?اده",
     "mm.settings.synchronization": "هماهنگسازی",
-    "mm.settings.total": "مجموع",
+    "mm.settings.total": "مجم�?ع",
     "mm.sharedfiles.rename": "تغییر نام",
     "mm.sharedfiles.replace": "جایگزینی",
     "mm.sidemenu.appsettings": "تنظیمات برنامه",
-    "mm.sidemenu.changesite": "خروج",
-    "mm.sidemenu.help": "راهنمایی",
-    "mm.sidemenu.logout": "خروج از سایت",
+    "mm.sidemenu.changesite": "خر�?ج",
+    "mm.sidemenu.help": "راهنما",
+    "mm.sidemenu.logout": "خر�?ج",
     "mm.sidemenu.mycourses": "درس‌های من",
     "mm.sidemenu.website": "پایگاه اینترنتی",
     "mm.user.address": "آدرس",
     "mm.user.city": "شهر/شهرک",
-    "mm.user.contact": "تماس",
-    "mm.user.country": "کشور",
-    "mm.user.description": "توصیف",
-    "mm.user.details": "دنبال کردن جزئیات",
-    "mm.user.email": "پست الکترونیک",
-    "mm.user.emailagain": "پست الکترونیک (دوباره)",
+    "mm.user.contact": "مخاطب",
+    "mm.user.country": "کش�?ر",
+    "mm.user.description": "ت�?صی�?",
+    "mm.user.details": "جزئیات",
+    "mm.user.email": "پست الکتر�?نیک",
+    "mm.user.emailagain": "پست الکتر�?نیک (د�?باره)",
     "mm.user.firstname": "نام",
     "mm.user.interests": "علایق",
     "mm.user.invaliduser": "کاربر نامعتبر",
-    "mm.user.lastname": "نام خانوادگی",
+    "mm.user.lastname": "نام خان�?ادگی",
     "mm.user.newpicture": "عکس جدید",
-    "mm.user.phone1": "تلفن",
-    "mm.user.phone2": "تلفن همراه",
+    "mm.user.phone1": "تل�?ن",
+    "mm.user.phone2": "تل�?ن همراه",
     "mm.user.roles": "نقش‌ها",
     "mm.user.student": "شاگرد",
-    "mm.user.viewprofile": "مشاهدهٔ صفحهٔ مشخصات فردی",
-    "mm.user.webpage": "صفحهٔ وب",
+    "mm.user.viewprofile": "مشاهدهٔ ص�?حهٔ مشخصات �?ردی",
+    "mm.user.webpage": "ص�?حهٔ �?ب",
     "mma.badges.badgedetails": "مشخصات مدال",
     "mma.badges.badges": "مدال‌ها",
     "mma.badges.contact": "تماس",
-    "mma.badges.dateawarded": "تاریخ صدور",
+    "mma.badges.dateawarded": "تاریخ صد�?ر",
     "mma.badges.expirydate": "تاریخ انقضا",
     "mma.badges.issuancedetails": "انقضای مدال",
     "mma.badges.issuerdetails": "مشخصات صادرکننده",
     "mma.badges.issuername": "نام صادرکننده",
-    "mma.badges.nobadges": "مدالی موجود نیست.",
-    "mma.badges.recipientdetails": "مشخصات دریافت‌کننده",
-    "mma.calendar.calendarevents": "رویدادهای تقویم",
-    "mma.calendar.defaultnotificationtime": "زمان پیش‌فرض اطلاع‌رسانی",
-    "mma.calendar.errorloadevent": "خطا در بارگیری رویداد.",
-    "mma.calendar.errorloadevents": "خطا در بارگیری رویدادها.",
-    "mma.calendar.noevents": "هیچ مهلتی برای فعالیت‌های آتی وجود ندارد",
-    "mma.calendar.notifications": "تذکرات",
-    "mma.competency.activities": "فعالیت‌ها",
+    "mma.badges.nobadges": "مدالی م�?ج�?د نیست.",
+    "mma.badges.recipientdetails": "مشخصات دریا�?ت‌کننده",
+    "mma.calendar.calendarevents": "ر�?یدادهای تق�?یم",
+    "mma.calendar.defaultnotificationtime": "زمان پیش‌�?رض اطلاع‌رسانی",
+    "mma.calendar.errorloadevent": "خطا در بارگیری ر�?یداد.",
+    "mma.calendar.errorloadevents": "خطا در بارگیری ر�?یدادها.",
+    "mma.calendar.noevents": "هیچ ر�?یدادی نیست",
+    "mma.calendar.notifications": "هشدارها",
+    "mma.competency.activities": "�?عالیت‌ها",
     "mma.competency.coursecompetencies": "شایستگی‌های درس",
     "mma.competency.coursecompetencyratingsarenotpushedtouserplans": "امتیازهای شایستگی‌ها در این درس تاثیری در برنامه‌های یادگیری ندارند.",
-    "mma.competency.coursecompetencyratingsarepushedtouserplans": "امتیازهای شایستگی‌ها در این درس بلافاصله در برنامه‌های یادگیری به‌روز می‌شوند.",
+    "mma.competency.coursecompetencyratingsarepushedtouserplans": "امتیازهای شایستگی‌ها در این درس بلا�?اصله در برنامه‌های یادگیری به‌ر�?ز می‌ش�?ند.",
     "mma.competency.crossreferencedcompetencies": "شایستگی‌های دارای ارجاع متقابل",
     "mma.competency.duedate": "مهلت",
     "mma.competency.errornocompetenciesfound": "هیچ شایستگی‌ای پیدا نشد",
     "mma.competency.evidence": "مدرک",
     "mma.competency.learningplancompetencies": "شایستگی‌های برنامه یادگیری",
-    "mma.competency.learningplans": "برنامه‌های آزموشی",
+    "mma.competency.learningplans": "برنامه‌های آزم�?شی",
     "mma.competency.myplans": "برنامه‌های یادگیری من",
-    "mma.competency.nocrossreferencedcompetencies": "هیچ شایستگی دیگری به این شایستگی به‌طور متقابل ارجاع داده نشده است.",
-    "mma.competency.noevidence": "بدون مدرک",
+    "mma.competency.nocrossreferencedcompetencies": "هیچ شایستگی دیگری به این شایستگی به‌ط�?ر متقابل ارجاع داده نشده است.",
+    "mma.competency.noevidence": "بد�?ن مدرک",
     "mma.competency.noplanswerecreated": "هیچ برنامهٔ یادگیری‌ای ساخته نشده است.",
     "mma.competency.path": "مسیر:",
     "mma.competency.proficient": "کسب مهارت",
-    "mma.competency.progress": "پیشروی",
+    "mma.competency.progress": "پیشر�?ی",
     "mma.competency.rating": "امتیاز",
-    "mma.competency.reviewstatus": "بازبینی وضعیت",
-    "mma.competency.status": "وضعیت مدال",
-    "mma.competency.template": "الگوی برنامه یادگیری",
-    "mma.competency.xcompetenciesproficientoutofy": "در {{$a.x}} شایستگی از مجموع {{$a.y}} شایستگی مهارت کسب شده است",
+    "mma.competency.reviewstatus": "بازبینی �?ضعیت",
+    "mma.competency.status": "�?ضعیت مدال",
+    "mma.competency.template": "الگ�?ی برنامه یادگیری",
+    "mma.competency.xcompetenciesproficientoutofy": "در {{$a.x}} شایستگی از مجم�?ع {{$a.y}} شایستگی مهارت کسب شده است",
     "mma.competency.xcompetenciesproficientoutofyincourse": "شما در {{$a.x}} شایستگی از {{$a.y}} شایستگی ماهر هستید.",
     "mma.coursecompletion.complete": "کامل",
     "mma.coursecompletion.completed": "کامل شده",
     "mma.coursecompletion.coursecompletion": "کاربر باید این درس را تکمیل کند.",
     "mma.coursecompletion.criteria": "ضابطه",
-    "mma.coursecompletion.criteriagroup": "گروه ضوابط",
-    "mma.coursecompletion.criteriarequiredall": "تمام ضوابط زیر باید برآورده شوند",
-    "mma.coursecompletion.criteriarequiredany": "حداقل یکی از ضوابط زیر برآورده شود",
+    "mma.coursecompletion.criteriagroup": "گر�?ه ض�?ابط",
+    "mma.coursecompletion.criteriarequiredall": "تمام ض�?ابط زیر باید برآ�?رده ش�?ند",
+    "mma.coursecompletion.criteriarequiredany": "حداقل یکی از ض�?ابط زیر برآ�?رده ش�?د",
     "mma.coursecompletion.inprogress": "در جریان",
-    "mma.coursecompletion.manualselfcompletion": "علامت زدن به عنوان کامل توسط خود افراد",
-    "mma.coursecompletion.notyetstarted": "هنوز شروع نشده است",
+    "mma.coursecompletion.manualselfcompletion": "علامت زدن به عن�?ان کامل ت�?سط خ�?د ا�?راد",
+    "mma.coursecompletion.notyetstarted": "هن�?ز شر�?ع نشده است",
     "mma.coursecompletion.pending": "معلق",
-    "mma.coursecompletion.required": "الزامی بودن",
-    "mma.coursecompletion.requiredcriteria": "ضوابط مورد نیاز",
-    "mma.coursecompletion.status": "وضعیت مدال",
-    "mma.coursecompletion.viewcoursereport": "مشاهده گزارش درس",
-    "mma.files.admindisableddownload": "لطفا در نظر داشته باشید که مدیر سایت شما دریافت فایل‌ها را غیرفعال کرده است. شما می‌توانید فایل‌ها را مرور کنید، ولی نمی‌توانید آنها را روی دستگاه خود دریافت کنید.",
-    "mma.files.files": "فایل‌ها",
-    "mma.files.privatefiles": "فایل‌های شخصی",
-    "mma.files.sitefiles": "فایل‌های سایت",
-    "mma.files.uploadfiles": "ارسال فایل‌های بازخورد",
-    "mma.frontpage.sitehome": "صفحهٔ اصلی سایت",
+    "mma.coursecompletion.required": "الزامی ب�?دن",
+    "mma.coursecompletion.requiredcriteria": "ض�?ابط م�?رد نیاز",
+    "mma.coursecompletion.status": "�?ضعیت",
+    "mma.coursecompletion.viewcoursereport": "مشاهدهٔ گزارش درس",
+    "mma.files.admindisableddownload": "لط�?ا در نظر داشته باشید که مدیر سایت شما دریا�?ت �?ایل‌ها را غیر�?عال کرده است. شما می‌ت�?انید �?ایل‌ها را مر�?ر کنید، �?لی نمی‌ت�?انید آنها را ر�?ی دستگاه خ�?د دریا�?ت کنید.",
+    "mma.files.files": "�?ایل‌ها",
+    "mma.files.privatefiles": "�?ایل‌های شخصی",
+    "mma.files.sitefiles": "�?ایل‌های سایت",
+    "mma.files.uploadfiles": "ارسال �?ایل‌های بازخ�?رد",
+    "mma.frontpage.sitehome": "ص�?حهٔ اصلی سایت",
     "mma.frontpage.sitenews": "اعلانات سایت",
     "mma.grades.viewgrades": "دیدن نمره‌ها",
     "mma.messageoutput_airnotifier.processorsettingsdesc": "پیکربندی دستگاه‌ها",
-    "mma.messages.addcontact": "افزودن به مخاطبين",
-    "mma.messages.blockcontact": "مسدود کردن مخاطب",
-    "mma.messages.blocknoncontacts": "افرادی که در لیست مخاطبین من نیستند نتوانند برای من پیام بفرستند",
+    "mma.messages.addcontact": "ا�?ز�?دن به مخاطبين",
+    "mma.messages.blockcontact": "مسد�?د کردن مخاطب",
+    "mma.messages.blocknoncontacts": "ا�?رادی که در لیست مخاطبین من نیستند نت�?انند برای من پیام ب�?رستند",
     "mma.messages.contactlistempty": "لیست مخاطبین شما خالی است",
     "mma.messages.contactname": "نام مخاطب",
     "mma.messages.contacts": "مخاطبین",
-    "mma.messages.errorwhileretrievingdiscussions": "خطا در دریافت مباحثه‌ها از کارگزار.",
+    "mma.messages.errorwhileretrievingdiscussions": "خطا در دریا�?ت مباحثه‌ها از کارگزار.",
     "mma.messages.message": "متن",
     "mma.messages.messagepreferences": "ترجیحات پیام‌دهی",
     "mma.messages.messages": "پیام‌ها",
     "mma.messages.newmessage": "پیام جدید",
-    "mma.messages.nomessages": "هیچ پیغامی منتظر جواب نیست",
+    "mma.messages.nomessages": "هیچ پیغامی منتظر ج�?اب نیست",
     "mma.messages.nousersfound": "کاربری پیدا نشد",
-    "mma.messages.removecontact": "حذف کردن مخاطب",
+    "mma.messages.removecontact": "حذ�? کردن مخاطب",
     "mma.messages.send": "ارسال",
     "mma.messages.sendmessage": "ارسال پیام",
-    "mma.messages.unblockcontact": "خارج کردن مخاطب از حالت مسدود",
+    "mma.messages.unblockcontact": "خارج کردن مخاطب از حالت مسد�?د",
     "mma.mod_assign.addattempt": "اجازه‌دادن یک بار تلاش دیگر",
-    "mma.mod_assign.addnewattempt": "اضافه‌کردن یک تلاش جدید",
-    "mma.mod_assign.addnewattemptfromprevious": "اضافه‌کردن یک تلاش جدید بر اساس ارسال قبلی",
-    "mma.mod_assign.addsubmission": "تحویل تکلیف",
-    "mma.mod_assign.allowsubmissionsfromdate": "مجاز بودن تحویل از",
-    "mma.mod_assign.applytoteam": "اعمال نمره و بازخورد به کل گروه",
-    "mma.mod_assign.assignmentisdue": "موعد تحویل گذشته است",
+    "mma.mod_assign.addnewattempt": "اضا�?ه‌کردن یک تلاش جدید",
+    "mma.mod_assign.addnewattemptfromprevious": "اضا�?ه‌کردن یک تلاش جدید بر اساس ارسال قبلی",
+    "mma.mod_assign.addsubmission": "تح�?یل تکلی�?",
+    "mma.mod_assign.allowsubmissionsfromdate": "مجاز ب�?دن تح�?یل از",
+    "mma.mod_assign.applytoteam": "اعمال نمره �? بازخ�?رد به کل گر�?ه",
+    "mma.mod_assign.assignmentisdue": "م�?عد تح�?یل گذشته است",
     "mma.mod_assign.attemptnumber": "تلاش",
     "mma.mod_assign.attemptreopenmethod": "مجاز شدن تلاش مجدد",
     "mma.mod_assign.attemptreopenmethod_manual": "دستی",
-    "mma.mod_assign.attemptreopenmethod_untilpass": "به‌طور خودکار تا قبول شدن",
-    "mma.mod_assign.confirmsubmission": "آیا مطمئن هستید که می‌خواهید تکلیفتان را برای تصحیح تحویل دهید؟ پس از تحویل قادر به ایجاد تغییر در تکلیف نخواهید بود.",
+    "mma.mod_assign.attemptreopenmethod_untilpass": "به‌ط�?ر خ�?دکار تا قب�?ل شدن",
+    "mma.mod_assign.confirmsubmission": "آیا مطمئن هستید که می‌خ�?اهید تکلی�?تان را برای تصحیح تح�?یل دهید؟ پس از تح�?یل قادر به ایجاد تغییر در تکلی�? نخ�?اهید ب�?د.",
     "mma.mod_assign.currentattempt": "این تلاش {{$a}} ام است.",
     "mma.mod_assign.currentattemptof": "این تلاش {{$a.attemptnumber}} ام است (در کل {{$a.maxattempts}} تلاش مجاز است).",
-    "mma.mod_assign.currentgrade": "نمرهٔ فعلی در دفتر نمره",
+    "mma.mod_assign.currentgrade": "نمرهٔ �?علی در د�?تر نمره",
     "mma.mod_assign.cutoffdate": "تاریخ عدم پذیرش",
-    "mma.mod_assign.defaultteam": "گروه پیش‌فرض",
-    "mma.mod_assign.duedate": "مهلت تحویل",
-    "mma.mod_assign.duedateno": "بدون موعد",
-    "mma.mod_assign.editingstatus": "وضعیت ویرایش",
-    "mma.mod_assign.editsubmission": "ویرایش پاسخ",
+    "mma.mod_assign.defaultteam": "گر�?ه پیش‌�?رض",
+    "mma.mod_assign.duedate": "مهلت تح�?یل",
+    "mma.mod_assign.duedateno": "بد�?ن م�?عد",
+    "mma.mod_assign.editingstatus": "�?ضعیت �?یرایش",
+    "mma.mod_assign.editsubmission": "�?یرایش پاسخ",
     "mma.mod_assign.extensionduedate": "مهلت تمدید شده",
     "mma.mod_assign.grade": "نمره",
     "mma.mod_assign.graded": "نمره داده شده است",
     "mma.mod_assign.gradedby": "نمره دهنده",
     "mma.mod_assign.gradedon": "تاریخ ثبت نمره",
     "mma.mod_assign.gradeoutof": "نمره از {{$a}}",
-    "mma.mod_assign.gradingstatus": "وضعیت تصحیح",
-    "mma.mod_assign.groupsubmissionsettings": "تنظیمات تحویل گروهی",
+    "mma.mod_assign.gradingstatus": "�?ضعیت تصحیح",
+    "mma.mod_assign.groupsubmissionsettings": "تنظیمات تح�?یل گر�?هی",
     "mma.mod_assign.hiddenuser": "شاگرد شماره",
-    "mma.mod_assign.markingworkflowstate": "وضعیت گردش‌کار تصحیح",
+    "mma.mod_assign.markingworkflowstate": "�?ضعیت گردش‌کار تصحیح",
     "mma.mod_assign.markingworkflowstateinmarking": "درحال تصحیح",
     "mma.mod_assign.markingworkflowstateinreview": "درحال بازبینی",
     "mma.mod_assign.markingworkflowstatenotmarked": "نمره داده نشده",
     "mma.mod_assign.markingworkflowstatereadyforrelease": "آمادهٔ انتشار",
     "mma.mod_assign.markingworkflowstatereadyforreview": "نمره‌دهی کامل شده",
     "mma.mod_assign.markingworkflowstatereleased": "منتشر‌شده",
-    "mma.mod_assign.noattempt": "هیچ چیزی تحویل داده نشده است",
-    "mma.mod_assign.nosubmission": "هیچ چیزی برای این تکلیف تحویل داده نشده است",
+    "mma.mod_assign.noattempt": "هیچ چیزی تح�?یل داده نشده است",
+    "mma.mod_assign.nosubmission": "هیچ چیزی برای این تکلی�? تح�?یل داده نشده است",
     "mma.mod_assign.notgraded": "نمره داده نشده است",
-    "mma.mod_assign.numberofdraftsubmissions": "پیش‌نویس‌ها",
+    "mma.mod_assign.numberofdraftsubmissions": "پیش‌ن�?یس‌ها",
     "mma.mod_assign.numberofparticipants": "شرکت کنندگان",
     "mma.mod_assign.numberofsubmissionsneedgrading": "نیازمند نمره‌دهی",
-    "mma.mod_assign.numberofsubmittedassignments": "تحویل داده شده",
-    "mma.mod_assign.numberofteams": "تعداد گروه‌ها",
+    "mma.mod_assign.numberofsubmittedassignments": "تح�?یل داده شده",
+    "mma.mod_assign.numberofteams": "تعداد گر�?ه‌ها",
     "mma.mod_assign.numwords": "{{$a}} کلمه",
     "mma.mod_assign.outof": "{{$a.current}} از {{$a.total}}",
-    "mma.mod_assign.overdue": "<font color=\"red\">از موعد تحویل تکلیف {{$a}} گذشته است</font>",
+    "mma.mod_assign.overdue": "<font color=\"red\">از م�?عد تح�?یل تکلی�? {{$a}} گذشته است</font>",
     "mma.mod_assign.savechanges": "ذخیره تغییرات",
     "mma.mod_assign.submission": "پاسخ ارسالی",
-    "mma.mod_assign.submissioneditable": "شاگرد می‌تواند این تکلیف تحویل داده شده را ویرایش کند",
-    "mma.mod_assign.submissionnoteditable": "شاگرد نمی‌تواند این تکلیف را ویرایش کند",
-    "mma.mod_assign.submissionslocked": "این تکلیف، تحویل جدیدی را نمی‌پذیرد",
-    "mma.mod_assign.submissionstatus": "وضعیت تحویل",
-    "mma.mod_assign.submissionstatus_": "تحویل نداده است",
-    "mma.mod_assign.submissionstatus_draft": "پیش‌نویس (تحویل داده نشده است)",
+    "mma.mod_assign.submissioneditable": "شاگرد می‌ت�?اند این تکلی�? تح�?یل داده شده را �?یرایش کند",
+    "mma.mod_assign.submissionnoteditable": "شاگرد نمی‌ت�?اند این تکلی�? را �?یرایش کند",
+    "mma.mod_assign.submissionslocked": "این تکلی�?، تح�?یل جدیدی را نمی‌پذیرد",
+    "mma.mod_assign.submissionstatus": "�?ضعیت تح�?یل",
+    "mma.mod_assign.submissionstatus_": "تح�?یل نداده است",
+    "mma.mod_assign.submissionstatus_draft": "پیش‌ن�?یس (تح�?یل داده نشده است)",
     "mma.mod_assign.submissionstatus_marked": "تصحیح شده",
-    "mma.mod_assign.submissionstatus_reopened": "دوباره بازشده",
-    "mma.mod_assign.submissionstatus_submitted": "برای تصحیح تحویل داده شده است",
-    "mma.mod_assign.submissionstatusheading": "وضعیت تحویل",
-    "mma.mod_assign.submissionteam": "گروه",
-    "mma.mod_assign.submitassignment": "تحویل تکلیف",
-    "mma.mod_assign.submitassignment_help": "بعد از اینکه این تکلیف تحویل داده شد دیگر قادر به تغییر دادن آن نخواهید بود",
-    "mma.mod_assign.submittedearly": "تکلیف {{$a}} زود تحویل داده شد",
-    "mma.mod_assign.submittedlate": "تکلیف {{$a}} با تأخیر تحویل داده شد",
+    "mma.mod_assign.submissionstatus_reopened": "د�?باره بازشده",
+    "mma.mod_assign.submissionstatus_submitted": "برای تصحیح تح�?یل داده شده است",
+    "mma.mod_assign.submissionstatusheading": "�?ضعیت تح�?یل",
+    "mma.mod_assign.submissionteam": "گر�?ه",
+    "mma.mod_assign.submitassignment": "تح�?یل تکلی�?",
+    "mma.mod_assign.submitassignment_help": "بعد از اینکه این تکلی�? تح�?یل داده شد دیگر قادر به تغییر دادن آن نخ�?اهید ب�?د",
+    "mma.mod_assign.submittedearly": "تکلی�? {{$a}} ز�?د تح�?یل داده شد",
+    "mma.mod_assign.submittedlate": "تکلی�? {{$a}} با تأخیر تح�?یل داده شد",
     "mma.mod_assign.timemodified": "آخرین تغییر",
     "mma.mod_assign.timeremaining": "زمان باقیمانده",
-    "mma.mod_assign.ungroupedusers": "تنظیم «نیازمند گروه برای تحویل‌دادن» فعال است و بعضی از کاربران یا عضو هیچ گروهی نیستند، یا عضو بیش از یک گروه هستند. در نتیجه نمی‌توانند تکلیف را تحویل دهند.",
-    "mma.mod_assign.unlimitedattempts": "نامحدود",
-    "mma.mod_assign.userswhoneedtosubmit": "کاربرانی که باید تحویل دهند: {{$a}}",
-    "mma.mod_assign.viewsubmission": "مشاهدهٔ تحویل",
-    "mma.mod_chat.beep": "بوق",
+    "mma.mod_assign.ungroupedusers": "تنظیم «نیازمند گر�?ه برای تح�?یل‌دادن» �?عال است �? بعضی از کاربران یا عض�? هیچ گر�?هی نیستند، یا عض�? بیش از یک گر�?ه هستند. در نتیجه نمی‌ت�?انند تکلی�? را تح�?یل دهند.",
+    "mma.mod_assign.unlimitedattempts": "نامحد�?د",
+    "mma.mod_assign.userswhoneedtosubmit": "کاربرانی که باید تح�?یل دهند: {{$a}}",
+    "mma.mod_assign.viewsubmission": "مشاهدهٔ تح�?یل",
+    "mma.mod_chat.beep": "ب�?ق",
     "mma.mod_chat.currentusers": "کاربران حاضر",
-    "mma.mod_chat.enterchat": "برای ورود به اتاق گفتگو اینجا کلیک کنید",
-    "mma.mod_chat.messagebeepsyou": "{{$a}} برای شما بوق فرستاد!",
-    "mma.mod_chat.messageenter": "{{$a}} وارد اتاق گفتگو شد",
-    "mma.mod_chat.messageexit": "{{$a}} اتاق گفتگو را ترک کرد",
-    "mma.mod_chat.nomessages": "هنوز پیامی گفته نشده است",
+    "mma.mod_chat.enterchat": "برای �?ر�?د به اتاق گ�?تگ�? اینجا کلیک کنید",
+    "mma.mod_chat.messagebeepsyou": "{{$a}} برای شما ب�?ق �?رستاد!",
+    "mma.mod_chat.messageenter": "{{$a}} �?ارد اتاق گ�?تگ�? شد",
+    "mma.mod_chat.messageexit": "{{$a}} اتاق گ�?تگ�? را ترک کرد",
+    "mma.mod_chat.nomessages": "هن�?ز پیامی گ�?ته نشده است",
     "mma.mod_chat.send": "ارسال",
-    "mma.mod_chat.sessionstart": "جلسهٔ بعدی گفتگو {{$a.date}} شروع خواهد شد ({{$a.fromnow}} دیگر)",
+    "mma.mod_chat.sessionstart": "جلسهٔ بعدی گ�?تگ�? {{$a.date}} شر�?ع خ�?اهد شد ({{$a.fromnow}} دیگر)",
     "mma.mod_chat.talk": "صحبت",
     "mma.mod_choice.choiceoptions": "گزینه‌های انتخابی",
-    "mma.mod_choice.expired": "با عرض پوزش، این فعالیت در {{$a}} بسته شد و دیگر در دسترس نیست",
+    "mma.mod_choice.expired": "با عرض پ�?زش، این �?عالیت در {{$a}} بسته شد �? دیگر در دسترس نیست",
     "mma.mod_choice.full": "(پر)",
     "mma.mod_choice.noresultsviewable": "نتایج در این لحظه قابل دیدن نیستند.",
-    "mma.mod_choice.notopenyet": "با عرض معذرت، این فعالیت تا قبل از {{$a}} در دسترس نیست",
+    "mma.mod_choice.notopenyet": "با عرض معذرت، این �?عالیت تا قبل از {{$a}} در دسترس نیست",
     "mma.mod_choice.numberofuser": "تعداد کاربران",
     "mma.mod_choice.numberofuserinpercentage": "درصد پاسخ‌ها",
-    "mma.mod_choice.removemychoice": "حذف انتخاب من",
+    "mma.mod_choice.removemychoice": "حذ�? انتخاب من",
     "mma.mod_choice.responses": "پاسخ‌ها",
-    "mma.mod_choice.responsesresultgraphheader": "نمایش نمودار",
+    "mma.mod_choice.responsesresultgraphheader": "نمایش نم�?دار",
     "mma.mod_choice.savemychoice": "ذخیرهٔ انتخاب من",
     "mma.mod_choice.userchoosethisoption": "کاربرانی که این گزینه را انتخاب کرده‌اند",
     "mma.mod_choice.yourselection": "انتخاب شما",
-    "mma.mod_data.addentries": "داده‌هایی را اضافه کنید",
-    "mma.mod_data.advancedsearch": "جستجوی پیشرفته",
+    "mma.mod_data.addentries": "داده‌هایی را اضا�?ه کنید",
+    "mma.mod_data.advancedsearch": "جستج�?ی پیشر�?ته",
     "mma.mod_data.alttext": "متن جایگزین",
     "mma.mod_data.approve": "تایید",
-    "mma.mod_data.approved": "وضعیت تایید",
-    "mma.mod_data.ascending": "صعودی",
-    "mma.mod_data.authorfirstname": "نام وارد کننده",
-    "mma.mod_data.authorlastname": "نام خانوادگی وارد کننده",
-    "mma.mod_data.confirmdeleterecord": "آیا مطمئن هستید که می‌خواهید این مورد را حذف کنید؟",
-    "mma.mod_data.descending": "نزولی",
-    "mma.mod_data.emptyaddform": "شما هیچ فیلدی را پر نکردید!",
-    "mma.mod_data.entrieslefttoadd": "برای کامل کردن این فعالیت باید {{$a.entriesleft}} دادهٔ دیگر وارد کنید",
-    "mma.mod_data.entrieslefttoaddtoview": "باید {{$a.entrieslefttoview}} دادهٔ دیگر وارد کنید تا بتوانید داده‌های وارد شده توسط سایرین را ببینید.",
-    "mma.mod_data.expired": "متأسفیم، این فعالیت در {{$a}} بسته شد و دیگر در دسترس نیست",
-    "mma.mod_data.fields": "فیلدها",
+    "mma.mod_data.approved": "�?ضعیت تایید",
+    "mma.mod_data.ascending": "صع�?دی",
+    "mma.mod_data.authorfirstname": "نام �?ارد کننده",
+    "mma.mod_data.authorlastname": "نام خان�?ادگی �?ارد کننده",
+    "mma.mod_data.confirmdeleterecord": "آیا مطمئن هستید که می‌خ�?اهید این م�?رد را حذ�? کنید؟",
+    "mma.mod_data.descending": "نز�?لی",
+    "mma.mod_data.emptyaddform": "شما هیچ �?یلدی را پر نکردید!",
+    "mma.mod_data.entrieslefttoadd": "برای کامل کردن این �?عالیت باید {{$a.entriesleft}} دادهٔ دیگر �?ارد کنید",
+    "mma.mod_data.entrieslefttoaddtoview": "باید {{$a.entrieslefttoview}} دادهٔ دیگر �?ارد کنید تا بت�?انید داده‌های �?ارد شده ت�?سط سایرین را ببینید.",
+    "mma.mod_data.expired": "متأس�?یم، این �?عالیت در {{$a}} بسته شد �? دیگر در دسترس نیست",
+    "mma.mod_data.fields": "�?یلدها",
     "mma.mod_data.menuchoose": "انتخاب کنید...",
     "mma.mod_data.more": "نمایش جزئیات",
     "mma.mod_data.nomatch": "دادهٔ مطابقی پیدا نشد!",
     "mma.mod_data.norecords": "بانک اطلاعاتی خالی است",
-    "mma.mod_data.notapproved": "دادهٔ ورودی هنوز تایید نشده است.",
-    "mma.mod_data.notopenyet": "با عرض پوزش، این فعالیت تا قبل از {{$a}} در دسترس نیست",
-    "mma.mod_data.numrecords": "{{$a}} دادهٔ ورودی",
+    "mma.mod_data.notapproved": "دادهٔ �?ر�?دی هن�?ز تایید نشده است.",
+    "mma.mod_data.notopenyet": "با عرض پ�?زش، این �?عالیت تا قبل از {{$a}} در دسترس نیست",
+    "mma.mod_data.numrecords": "{{$a}} دادهٔ �?ر�?دی",
     "mma.mod_data.other": "غیره",
-    "mma.mod_data.recordapproved": "دادهٔ ورودی تایید شد",
-    "mma.mod_data.recorddeleted": "حذف شد",
-    "mma.mod_data.resetsettings": "بازنشانی فیلترها",
-    "mma.mod_data.search": "جستجو",
+    "mma.mod_data.recordapproved": "دادهٔ �?ر�?دی تایید شد",
+    "mma.mod_data.recorddeleted": "حذ�? شد",
+    "mma.mod_data.resetsettings": "بازنشانی �?یلترها",
+    "mma.mod_data.search": "جستج�?",
     "mma.mod_data.selectedrequired": "تمامی گزینه‌های انتخاب شده لازم هستند",
-    "mma.mod_data.timeadded": "زمان اضافه شدن",
+    "mma.mod_data.timeadded": "زمان اضا�?ه شدن",
     "mma.mod_data.timemodified": "زمان آخرین تغییر",
     "mma.mod_feedback.analysis": "تحلیل",
     "mma.mod_feedback.anonymous": "ناشناس",
-    "mma.mod_feedback.anonymous_entries": "نظرهای وارد شدهٔ ناشناس ({{$a}})",
+    "mma.mod_feedback.anonymous_entries": "نظرهای �?ارد شدهٔ ناشناس ({{$a}})",
     "mma.mod_feedback.average": "میانگین",
-    "mma.mod_feedback.complete_the_form": "پاسخ دادن به سوال‌ها...",
-    "mma.mod_feedback.completed_feedbacks": "جواب‌های ارائه شده",
-    "mma.mod_feedback.continue_the_form": "ادامه دادن فرم",
-    "mma.mod_feedback.feedback_is_not_open": "بازخورد باز نیست",
-    "mma.mod_feedback.feedbackclose": "بستن بازخورد در",
-    "mma.mod_feedback.feedbackopen": "باز کردن بازخورد در",
-    "mma.mod_feedback.mapcourses": "نسبت دادن بازخورد به درس‌ها",
+    "mma.mod_feedback.complete_the_form": "پاسخ دادن به س�?ال‌ها...",
+    "mma.mod_feedback.completed_feedbacks": "ج�?اب‌های ارائه شده",
+    "mma.mod_feedback.continue_the_form": "ادامه دادن �?رم",
+    "mma.mod_feedback.feedback_is_not_open": "بازخ�?رد باز نیست",
+    "mma.mod_feedback.feedbackclose": "بستن بازخ�?رد در",
+    "mma.mod_feedback.feedbackopen": "باز کردن بازخ�?رد در",
+    "mma.mod_feedback.mapcourses": "نسبت دادن بازخ�?رد به درس‌ها",
     "mma.mod_feedback.mode": "حالت",
-    "mma.mod_feedback.next_page": "صفحهٔ بعد",
-    "mma.mod_feedback.non_anonymous": "نام کاربران ثبت و به همراه پاسخ‌ها نمایش داده خواهد شد",
-    "mma.mod_feedback.non_anonymous_entries": "اطلاعا وارد شده به صورت غیر ناشناس",
+    "mma.mod_feedback.next_page": "ص�?حهٔ بعد",
+    "mma.mod_feedback.non_anonymous": "نام کاربران ثبت �? به همراه پاسخ‌ها نمایش داده خ�?اهد شد",
+    "mma.mod_feedback.non_anonymous_entries": "اطلاعا �?ارد شده به ص�?رت غیر ناشناس",
     "mma.mod_feedback.non_respondents_students": "شاگردانی که پاسخ نداده‌اند",
     "mma.mod_feedback.not_selected": "انتخاب نشده",
-    "mma.mod_feedback.not_started": "شروع نکرده است",
-    "mma.mod_feedback.overview": "مرور اجمالی",
-    "mma.mod_feedback.page_after_submit": "صفحهٔ بعد از پر کردن فرم",
+    "mma.mod_feedback.not_started": "شر�?ع نکرده است",
+    "mma.mod_feedback.overview": "مر�?ر اجمالی",
+    "mma.mod_feedback.page_after_submit": "ص�?حهٔ بعد از پر کردن �?رم",
     "mma.mod_feedback.preview": "پیش‌نمایش",
-    "mma.mod_feedback.previous_page": "صفحهٔ قبل",
-    "mma.mod_feedback.questions": "سوال‌ها",
+    "mma.mod_feedback.previous_page": "ص�?حهٔ قبل",
+    "mma.mod_feedback.questions": "س�?ال‌ها",
     "mma.mod_feedback.response_nr": "پاسخ شمارهٔ",
     "mma.mod_feedback.responses": "پاسخ‌ها",
-    "mma.mod_feedback.save_entries": "فرستادن پاسخ‌های شما",
+    "mma.mod_feedback.save_entries": "�?رستادن پاسخ‌های شما",
     "mma.mod_feedback.show_entries": "نمایش پاسخ‌ها",
     "mma.mod_feedback.show_nonrespondents": "نمایش کسانی که پاسخ نداده‌اند",
-    "mma.mod_feedback.started": "شروع کرده است",
-    "mma.mod_feedback.this_feedback_is_already_submitted": "شما قبلا این فعالیت را کامل کرده‌اید.",
-    "mma.mod_forum.addanewdiscussion": "شروع یک مباحثهٔ جدید",
-    "mma.mod_forum.cannotadddiscussion": "طرح مباحثه در این تالار نیازمند عضویت در گروه است.",
-    "mma.mod_forum.cannotadddiscussionall": "شما مجوز شروع کردن یک مباحثهٔ جدید برای همهٔ اعضا را ندارید.",
+    "mma.mod_feedback.started": "شر�?ع کرده است",
+    "mma.mod_feedback.this_feedback_is_already_submitted": "شما قبلا این �?عالیت را کامل کرده‌اید.",
+    "mma.mod_forum.addanewdiscussion": "شر�?ع یک مباحثهٔ جدید",
+    "mma.mod_forum.cannotadddiscussion": "طرح مباحثه در این تالار نیازمند عض�?یت در گر�?ه است.",
+    "mma.mod_forum.cannotadddiscussionall": "شما مج�?ز شر�?ع کردن یک مباحثهٔ جدید برای همهٔ اعضا را ندارید.",
     "mma.mod_forum.cannotcreatediscussion": "ایجاد مباحثهٔ‌جدید ممکن نشد",
-    "mma.mod_forum.couldnotadd": "به دلیل بروز یک خطای ناشناخته ارائه مطلب شما امکان پذیر نبود",
+    "mma.mod_forum.couldnotadd": "به دلیل بر�?ز یک خطای ناشناخته ارائه مطلب شما امکان پذیر نب�?د",
     "mma.mod_forum.discussion": "مباحثه",
-    "mma.mod_forum.discussionlocked": "این مباحثه قفل شده است و در نتیجه دیگر نمی‌توانید در آن شرکت کنید.",
+    "mma.mod_forum.discussionlocked": "این مباحثه ق�?ل شده است �? در نتیجه دیگر نمی‌ت�?انید در آن شرکت کنید.",
     "mma.mod_forum.discussionpinned": "سنجاق‌شده",
-    "mma.mod_forum.discussionsubscription": "آبونه‌شدن در مباحثه",
-    "mma.mod_forum.edit": "ویرایش",
-    "mma.mod_forum.erroremptymessage": "متن ارسالی نمی‌تواند خالی باشد",
-    "mma.mod_forum.erroremptysubject": "موضوع مطلب نمی‌تواند خالی باشد.",
-    "mma.mod_forum.forumnodiscussionsyet": "هنوز هیچ مباحثه ای در این تالار شروع نشده است.",
-    "mma.mod_forum.group": "گروه",
+    "mma.mod_forum.discussionsubscription": "آب�?نه‌شدن در مباحثه",
+    "mma.mod_forum.edit": "�?یرایش",
+    "mma.mod_forum.erroremptymessage": "متن ارسالی نمی‌ت�?اند خالی باشد",
+    "mma.mod_forum.erroremptysubject": "م�?ض�?ع مطلب نمی‌ت�?اند خالی باشد.",
+    "mma.mod_forum.forumnodiscussionsyet": "هن�?ز هیچ مباحثه ای در این تالار شر�?ع نشده است.",
+    "mma.mod_forum.group": "گر�?ه",
     "mma.mod_forum.message": "متن",
-    "mma.mod_forum.modeflatnewestfirst": "نمایش مطالب به صورت مسطح (از جدید به قدیمی)",
-    "mma.mod_forum.modeflatoldestfirst": "نمایش مطالب به صورت مسطح (از قدیمی به جدید)",
-    "mma.mod_forum.modenested": "نمایش مطالب به صورت تو در تو",
+    "mma.mod_forum.modeflatnewestfirst": "نمایش مطالب به ص�?رت مسطح (از جدید به قدیمی)",
+    "mma.mod_forum.modeflatoldestfirst": "نمایش مطالب به ص�?رت مسطح (از قدیمی به جدید)",
+    "mma.mod_forum.modenested": "نمایش مطالب به ص�?رت ت�? در ت�?",
     "mma.mod_forum.numdiscussions": "{{numdiscussions}} مباحثه",
     "mma.mod_forum.numreplies": "{{numreplies}} پاسخ",
     "mma.mod_forum.posttoforum": "طرح در تالار",
@@ -809,211 +809,211 @@
     "mma.mod_forum.refreshdiscussions": "تازه‌سازی مباحثه‌ها",
     "mma.mod_forum.refreshposts": "تازه‌سازی مطالب مباحثه",
     "mma.mod_forum.reply": "ارسال پاسخ",
-    "mma.mod_forum.subject": "موضوع",
-    "mma.mod_forum.unread": "خوانده نشده",
-    "mma.mod_forum.unreadpostsnumber": "{{$a}} مطلب خوانده نشده",
+    "mma.mod_forum.subject": "م�?ض�?ع",
+    "mma.mod_forum.unread": "خ�?انده نشده",
+    "mma.mod_forum.unreadpostsnumber": "{{$a}} مطلب خ�?انده نشده",
     "mma.mod_glossary.attachment": "ضمیمه کردن مدال به پیام",
     "mma.mod_glossary.browsemode": "حالت پیش‌نمایش",
-    "mma.mod_glossary.casesensitive": "حساس بودن به بزرگ و کوچکی حروف",
+    "mma.mod_glossary.casesensitive": "حساس ب�?دن به بزرگ �? ک�?چکی حر�?�?",
     "mma.mod_glossary.categories": "دسته‌ها",
     "mma.mod_label.label": "متن",
-    "mma.mod_lesson.answer": "جواب",
+    "mma.mod_lesson.answer": "ج�?اب",
     "mma.mod_lesson.attempt": "تلاش: {{$a}}",
-    "mma.mod_lesson.attemptsremaining": "می‌توانید {{$a}} بار دیگر تلاش کنید",
+    "mma.mod_lesson.attemptsremaining": "می‌ت�?انید {{$a}} بار دیگر تلاش کنید",
     "mma.mod_lesson.averagescore": "نمرهٔ میانگین",
     "mma.mod_lesson.averagetime": "زمان میانگین",
     "mma.mod_lesson.branchtable": "مندرجات",
-    "mma.mod_lesson.cannotfindattempt": "خطا: پیدا کردن تلاش مقدور نبود",
-    "mma.mod_lesson.cannotfinduser": "خطا: پیدا کردن کاربران مقدور نبود",
-    "mma.mod_lesson.clusterjump": "سؤال دیده نشده از یک خوشه",
+    "mma.mod_lesson.cannotfindattempt": "خطا: پیدا کردن تلاش مقد�?ر نب�?د",
+    "mma.mod_lesson.cannotfinduser": "خطا: پیدا کردن کاربران مقد�?ر نب�?د",
+    "mma.mod_lesson.clusterjump": "سؤال دیده نشده از یک خ�?شه",
     "mma.mod_lesson.completed": "تکمیل",
     "mma.mod_lesson.congratulations": "تبریک - به انتهای مبحث درسی رسیدید",
     "mma.mod_lesson.continue": "ادامه",
-    "mma.mod_lesson.defaultessayresponse": "پاسخ تشریحی شما توسط استادتان تصحیح خواهد شد.",
-    "mma.mod_lesson.detailedstats": "آمار تفصیلی",
+    "mma.mod_lesson.defaultessayresponse": "پاسخ تشریحی شما ت�?سط استادتان تصحیح خ�?اهد شد.",
+    "mma.mod_lesson.detailedstats": "آمار ت�?صیلی",
     "mma.mod_lesson.didnotanswerquestion": "به این سؤال پاسخ نداده است.",
     "mma.mod_lesson.displayofgrade": "نمایش نمره (مختص شاگردان)",
-    "mma.mod_lesson.displayscorewithessays": "<p>شما از قسمت سؤالاتی که به صورت خودکار تصحیح می‌شوند نمرهٔ {{$a.score}} از {{$a.tempmaxgrade}} را بدست آوردید.</p>\n<p>{{$a.essayquestions}} سؤال تشریحی باقیمانده بعداً تصحیح و نمرهٔ بدست آمده به نمرهٔ نهایی شما اضافه خواهد شد.</p>\n<p>نمرهٔ فعلی شما بدون در نظر گرفتن نمرهٔ سؤالات تشریحی {{$a.score}} از {{$a.grade}} است.</p>",
+    "mma.mod_lesson.displayscorewithessays": "<p>شما از قسمت سؤالاتی که به ص�?رت خ�?دکار تصحیح می‌ش�?ند نمرهٔ {{$a.score}} از {{$a.tempmaxgrade}} را بدست آ�?ردید.</p>\n<p>{{$a.essayquestions}} سؤال تشریحی باقیمانده بعداً تصحیح �? نمرهٔ بدست آمده به نمرهٔ نهایی شما اضا�?ه خ�?اهد شد.</p>\n<p>نمرهٔ �?علی شما بد�?ن در نظر گر�?تن نمرهٔ سؤالات تشریحی {{$a.score}} از {{$a.grade}} است.</p>",
     "mma.mod_lesson.displayscorewithoutessays": "نمره شما {{$a.score}} است (از {{$a.grade}}).",
-    "mma.mod_lesson.emptypassword": "کلمهٔ رمز نمی‌تواند خالی باشد",
-    "mma.mod_lesson.enterpassword": "لطفاً کلمهٔ رمز را وارد نمائید:",
-    "mma.mod_lesson.eolstudentoutoftimenoanswers": "به هیچ سؤالی پاسخ ندادید. نمرهٔ شما در این مبحث درسی صفر می‌باشد.",
-    "mma.mod_lesson.firstwrong": "متأسفانه پاسخ شما اشتباه بود و نمرهٔ این سؤال را بدست نیاوردید. آیا مایلید که تنها برای لذت یادگیری (و بدون تغییر در نمره) به حدس زدن ادامه دهید؟",
+    "mma.mod_lesson.emptypassword": "کلمهٔ رمز نمی‌ت�?اند خالی باشد",
+    "mma.mod_lesson.enterpassword": "لط�?اً کلمهٔ رمز را �?ارد نمائید:",
+    "mma.mod_lesson.eolstudentoutoftimenoanswers": "به هیچ سؤالی پاسخ ندادید. نمرهٔ شما در این مبحث درسی ص�?ر می‌باشد.",
+    "mma.mod_lesson.firstwrong": "متأس�?انه پاسخ شما اشتباه ب�?د �? نمرهٔ این سؤال را بدست نیا�?ردید. آیا مایلید که تنها برای لذت یادگیری (�? بد�?ن تغییر در نمره) به حدس زدن ادامه دهید؟",
     "mma.mod_lesson.grade": "نمره",
     "mma.mod_lesson.highscore": "بیشترین نمره",
     "mma.mod_lesson.hightime": "بیشترین زمان",
-    "mma.mod_lesson.leftduringtimed": "شما مطالعهٔ یک مبحث درسی زمان‌دار را به صورت نیمه‌کاره رها کردید.<br />برای شروع مجدد لطفاً بر روی ادامه کلیک کنید.",
-    "mma.mod_lesson.leftduringtimednoretake": "شما مطالعهٔ یک مبحث درسی زمان‌دار را به صورت نیمه‌کاره رها کردید و<br />اجازهٔ شروع مجدد یا ادامهٔ آن را ندارید.",
-    "mma.mod_lesson.lessonmenu": "منوی مبحث درسی",
+    "mma.mod_lesson.leftduringtimed": "شما مطالعهٔ یک مبحث درسی زمان‌دار را به ص�?رت نیمه‌کاره رها کردید.<br />برای شر�?ع مجدد لط�?اً بر ر�?ی ادامه کلیک کنید.",
+    "mma.mod_lesson.leftduringtimednoretake": "شما مطالعهٔ یک مبحث درسی زمان‌دار را به ص�?رت نیمه‌کاره رها کردید �?<br />اجازهٔ شر�?ع مجدد یا ادامهٔ آن را ندارید.",
+    "mma.mod_lesson.lessonmenu": "من�?ی مبحث درسی",
     "mma.mod_lesson.lessonstats": "آمار مبحث درسی",
-    "mma.mod_lesson.linkedmedia": "پیوند به فایل",
-    "mma.mod_lesson.loginfail": "رمز وارد شده اشتباه بود. لطفاً مجدداً سعی کنید...",
+    "mma.mod_lesson.linkedmedia": "پی�?ند به �?ایل",
+    "mma.mod_lesson.loginfail": "رمز �?ارد شده اشتباه ب�?د. لط�?اً مجدداً سعی کنید...",
     "mma.mod_lesson.lowscore": "کمترین نمره",
     "mma.mod_lesson.lowtime": "کمترین زمان",
-    "mma.mod_lesson.maximumnumberofattemptsreached": "حداکثر دفعات تلاش مجاز را انجام داده‌اید - حرکت به صفحهٔ بعد",
-    "mma.mod_lesson.modattemptsnoteacher": "قابلیت مرور فقط برای شاگردان کار می‌کند.",
-    "mma.mod_lesson.noanswer": "به یک یا چند سؤال پاسخی داده نشده است. لطفاً بازگردید و پاسخی را ارائه نمائید.",
-    "mma.mod_lesson.nolessonattempts": "هیچ تلاشی در این مبحث درسی صورت نگرفته است.",
+    "mma.mod_lesson.maximumnumberofattemptsreached": "حداکثر د�?عات تلاش مجاز را انجام داده‌اید - حرکت به ص�?حهٔ بعد",
+    "mma.mod_lesson.modattemptsnoteacher": "قابلیت مر�?ر �?قط برای شاگردان کار می‌کند.",
+    "mma.mod_lesson.noanswer": "به یک یا چند سؤال پاسخی داده نشده است. لط�?اً بازگردید �? پاسخی را ارائه نمائید.",
+    "mma.mod_lesson.nolessonattempts": "هیچ تلاشی در این مبحث درسی ص�?رت نگر�?ته است.",
     "mma.mod_lesson.notcompleted": "تمام نشده",
     "mma.mod_lesson.numberofcorrectanswers": "تعداد پاسخ‌های صحیح: {{$a}}",
     "mma.mod_lesson.numberofpagesviewed": "تعداد سؤال‌هایی که پاسخ داده‌اید: {{$a}}",
     "mma.mod_lesson.numberofpagesviewednotice": "تعداد سؤال‌هایی که پاسخ داده‌اید: {{$a.nquestions}} (حداقل باید به {{$a.minquestions}} سؤال پاسخ دهید)",
-    "mma.mod_lesson.ongoingcustom": "تا الان {{$a.score}} نمره از {{$a.currenthigh}} بدست آورده‌اید.",
+    "mma.mod_lesson.ongoingcustom": "تا الان {{$a.score}} نمره از {{$a.currenthigh}} بدست آ�?رده‌اید.",
     "mma.mod_lesson.ongoingnormal": "به {{$a.correct}} سؤال از {{$a.viewed}} سؤال پاسخ صحیح داده‌اید.",
     "mma.mod_lesson.or": "یا",
-    "mma.mod_lesson.overview": "مرور کلی",
+    "mma.mod_lesson.overview": "مر�?ر کلی",
     "mma.mod_lesson.preview": "پیش‌نمایش",
-    "mma.mod_lesson.progressbarteacherwarning2": "شما نوار پیشرفت را نخواهید دید زیرا می‌توانید این مبحث درسی را ویرایش کنید",
+    "mma.mod_lesson.progressbarteacherwarning2": "شما ن�?ار پیشر�?ت را نخ�?اهید دید زیرا می‌ت�?انید این مبحث درسی را �?یرایش کنید",
     "mma.mod_lesson.progresscompleted": "{{$a}}٪ از این مبحث درسی را کامل کرده‌اید",
     "mma.mod_lesson.question": "سؤال",
     "mma.mod_lesson.rawgrade": "نمرهٔ خام",
     "mma.mod_lesson.reports": "گزارش‌ها",
-    "mma.mod_lesson.response": "واکنش به جواب",
-    "mma.mod_lesson.review": "مرور",
-    "mma.mod_lesson.reviewlesson": "مرور مبحث درسی",
-    "mma.mod_lesson.reviewquestionback": "بله، می‌خواهم مجدداً تلاش کنم",
-    "mma.mod_lesson.reviewquestioncontinue": "خیر، می‌خواهم به سؤال بعدی بروم",
+    "mma.mod_lesson.response": "�?اکنش به ج�?اب",
+    "mma.mod_lesson.review": "مر�?ر",
+    "mma.mod_lesson.reviewlesson": "مر�?ر مبحث درسی",
+    "mma.mod_lesson.reviewquestionback": "بله، می‌خ�?اهم مجدداً تلاش کنم",
+    "mma.mod_lesson.reviewquestioncontinue": "خیر، می‌خ�?اهم به سؤال بعدی بر�?م",
     "mma.mod_lesson.secondpluswrong": "صحیح نیست. آیا مایلید مجدداً تلاش کنید؟",
     "mma.mod_lesson.submit": "ارائه",
-    "mma.mod_lesson.teacherjumpwarning": "در این مبحث درسی از یک پرش به {{$a.cluster}} یا پرش به {{$a.unseen}} استفاده شده است. به جای آن‌ها از پرش به «صفحهٔ بعد» استفاده خواهد شد. برای آزمایش این پرش‌ها بعنوان شاگرد وارد شوید.",
-    "mma.mod_lesson.teacherongoingwarning": "نمره در حال شرکت فقط به شاگردان نمایش داده می‌شود. برای آزمایش نمره در حال شرکت، در قالب یک شاگر وارد شوید.",
-    "mma.mod_lesson.teachertimerwarning": "تایمر فقط برای شاگردان کار می‌کند. با ورود در قالب یک شاگرد، تایمر را آزمایش کنید.",
+    "mma.mod_lesson.teacherjumpwarning": "در این مبحث درسی از یک پرش به {{$a.cluster}} یا پرش به {{$a.unseen}} است�?اده شده است. به جای آن‌ها از پرش به «ص�?حهٔ بعد» است�?اده خ�?اهد شد. برای آزمایش این پرش‌ها بعن�?ان شاگرد �?ارد ش�?ید.",
+    "mma.mod_lesson.teacherongoingwarning": "نمره در حال شرکت �?قط به شاگردان نمایش داده می‌ش�?د. برای آزمایش نمره در حال شرکت، در قالب یک شاگر �?ارد ش�?ید.",
+    "mma.mod_lesson.teachertimerwarning": "تایمر �?قط برای شاگردان کار می‌کند. با �?ر�?د در قالب یک شاگرد، تایمر را آزمایش کنید.",
     "mma.mod_lesson.thatsthecorrectanswer": "پاسخ شما صحیح است",
     "mma.mod_lesson.thatsthewronganswer": "پاسخ شما اشتباه است",
     "mma.mod_lesson.timeremaining": "زمان باقیمانده",
-    "mma.mod_lesson.timetaken": "زمان صرف شده",
-    "mma.mod_lesson.unseenpageinbranch": "سؤال دیده نشده از صفحه مندرجات",
-    "mma.mod_lesson.welldone": "آفرین!",
-    "mma.mod_lesson.youhaveseen": "شما قبلاً بیش از یک صفحه از این مبحث درسی را دیده اید.<br />آیا می‌خواهید از آخرین صفحه‌ای که دیده‌اید شروع کنید؟",
+    "mma.mod_lesson.timetaken": "زمان صر�? شده",
+    "mma.mod_lesson.unseenpageinbranch": "سؤال دیده نشده از ص�?حه مندرجات",
+    "mma.mod_lesson.welldone": "آ�?رین!",
+    "mma.mod_lesson.youhaveseen": "شما قبلاً بیش از یک ص�?حه از این مبحث درسی را دیده اید.<br />آیا می‌خ�?اهید از آخرین ص�?حه‌ای که دیده‌اید شر�?ع کنید؟",
     "mma.mod_lesson.youranswer": "پاسخ شما",
-    "mma.mod_lesson.yourcurrentgradeisoutof": "نمرهٔ فعلی شما {{$a.grade}} از {{$a.total}} است",
+    "mma.mod_lesson.yourcurrentgradeisoutof": "نمرهٔ �?علی شما {{$a.grade}} از {{$a.total}} است",
     "mma.mod_lesson.youshouldview": "باید حداقل به {{$a}} سؤال پاسخ دهید",
-    "mma.mod_quiz.attemptfirst": "اولین تلاش",
+    "mma.mod_quiz.attemptfirst": "ا�?لین تلاش",
     "mma.mod_quiz.attemptlast": "آخرین تلاش",
     "mma.mod_quiz.attemptnumber": "تلاش",
-    "mma.mod_quiz.attemptquiznow": "شرکت در آزمون",
-    "mma.mod_quiz.attemptstate": "وضعیت",
-    "mma.mod_quiz.comment": "توضیح",
+    "mma.mod_quiz.attemptquiznow": "شرکت در آزم�?ن",
+    "mma.mod_quiz.attemptstate": "�?ضعیت",
+    "mma.mod_quiz.comment": "ت�?ضیح",
     "mma.mod_quiz.completedon": "پایان",
-    "mma.mod_quiz.confirmclose": "شما در آستانهٔ اتمام شرکت خود در آزمون هستید. پس ا ز اتمام شرکت دیگر نمی‌توانید پاسخ‌های خود را تغییر دهید.",
-    "mma.mod_quiz.confirmleavequizonerror": "در حین ذخیرهٔ پاسخ‌ها خطایی رخ داد. آیا مطمئن هستید که می‌خواهید از آزمون خارج شوید؟",
-    "mma.mod_quiz.continueattemptquiz": "ادامهٔ آخرین دفعهٔ شرکت در آزمون",
+    "mma.mod_quiz.confirmclose": "شما در آستانهٔ اتمام شرکت خ�?د در آزم�?ن هستید. پس ا ز اتمام شرکت دیگر نمی‌ت�?انید پاسخ‌های خ�?د را تغییر دهید.",
+    "mma.mod_quiz.confirmleavequizonerror": "در حین ذخیرهٔ پاسخ‌ها خطایی رخ داد. آیا مطمئن هستید که می‌خ�?اهید از آزم�?ن خارج ش�?ید؟",
+    "mma.mod_quiz.continueattemptquiz": "ادامهٔ آخرین د�?عهٔ شرکت در آزم�?ن",
     "mma.mod_quiz.continuepreview": "ادامهٔ آخرین پیش‌نمایش",
-    "mma.mod_quiz.feedback": "بازخورد",
-    "mma.mod_quiz.finishattemptdots": "اتمام آزمون...",
+    "mma.mod_quiz.feedback": "بازخ�?رد",
+    "mma.mod_quiz.finishattemptdots": "اتمام آزم�?ن...",
     "mma.mod_quiz.grade": "نمره",
     "mma.mod_quiz.gradeaverage": "نمرهٔ میانگین",
     "mma.mod_quiz.gradehighest": "بیشترین نمره",
-    "mma.mod_quiz.grademethod": "روش نمره دادن",
+    "mma.mod_quiz.grademethod": "ر�?ش نمره دادن",
     "mma.mod_quiz.gradesofar": "{{$a.method}}: {{$a.mygrade}} از {{$a.quizgrade}}.",
     "mma.mod_quiz.marks": "جمع نمره",
-    "mma.mod_quiz.mustbesubmittedby": "تا پیش از {{$a}} باید پاسخ‌های خود را ثبت کنید.",
-    "mma.mod_quiz.noquestions": "هنوز سؤالی اضافه نشده است",
+    "mma.mod_quiz.mustbesubmittedby": "تا پیش از {{$a}} باید پاسخ‌های خ�?د را ثبت کنید.",
+    "mma.mod_quiz.noquestions": "هن�?ز سؤالی اضا�?ه نشده است",
     "mma.mod_quiz.outof": "{{$a.grade}} از {{$a.maxgrade}}",
     "mma.mod_quiz.outofpercent": "{{$a.grade}} از {{$a.maxgrade}} (٪{{$a.percent}})",
     "mma.mod_quiz.outofshort": "{{$a.grade}} از {{$a.maxgrade}}",
-    "mma.mod_quiz.overallfeedback": "بازخورد کلی",
-    "mma.mod_quiz.overdue": "تأخیر تحویل",
+    "mma.mod_quiz.overallfeedback": "بازخ�?رد کلی",
+    "mma.mod_quiz.overdue": "تأخیر تح�?یل",
     "mma.mod_quiz.preview": "پیش‌نمایش",
-    "mma.mod_quiz.previewquiznow": "پیش‌نمایش آزمون",
+    "mma.mod_quiz.previewquiznow": "پیش‌نمایش آزم�?ن",
     "mma.mod_quiz.question": "سؤال",
-    "mma.mod_quiz.reattemptquiz": "شرکت مجدد در آزمون",
-    "mma.mod_quiz.returnattempt": "بازگشت و ادامهٔ آزمون",
-    "mma.mod_quiz.review": "مرور",
-    "mma.mod_quiz.reviewofattempt": "مرور دفعهٔ {{$a}} ام شرکت در آزمون",
-    "mma.mod_quiz.reviewofpreview": "مرور پیش‌نمایش",
-    "mma.mod_quiz.showall": "نمایش همهٔ سؤال‌ها در یک صفحه",
-    "mma.mod_quiz.showeachpage": "نمایش صفحه‌ها به صورت جداگانه",
-    "mma.mod_quiz.startattempt": "شرکت در آزمون",
-    "mma.mod_quiz.startedon": "شروع",
-    "mma.mod_quiz.stateabandoned": "هرگز تحویل داده نشده",
-    "mma.mod_quiz.statefinished": "پایان‌یافته",
+    "mma.mod_quiz.reattemptquiz": "شرکت مجدد در آزم�?ن",
+    "mma.mod_quiz.returnattempt": "بازگشت �? ادامهٔ آزم�?ن",
+    "mma.mod_quiz.review": "مر�?ر",
+    "mma.mod_quiz.reviewofattempt": "مر�?ر د�?عهٔ {{$a}} ام شرکت در آزم�?ن",
+    "mma.mod_quiz.reviewofpreview": "مر�?ر پیش‌نمایش",
+    "mma.mod_quiz.showall": "نمایش همهٔ سؤال‌ها در یک ص�?حه",
+    "mma.mod_quiz.showeachpage": "نمایش ص�?حه‌ها به ص�?رت جداگانه",
+    "mma.mod_quiz.startattempt": "شرکت در آزم�?ن",
+    "mma.mod_quiz.startedon": "شر�?ع",
+    "mma.mod_quiz.stateabandoned": "هرگز تح�?یل داده نشده",
+    "mma.mod_quiz.statefinished": "پایان‌یا�?ته",
     "mma.mod_quiz.statefinisheddetails": "ثبت شده در: {{$a}}",
     "mma.mod_quiz.stateinprogress": "در جریان",
-    "mma.mod_quiz.stateoverdue": "از موعد گذشته",
-    "mma.mod_quiz.status": "وضعیت",
-    "mma.mod_quiz.submitallandfinish": "ثبت همهٔ پاسخ‌ها و اتمام آزمون",
-    "mma.mod_quiz.summaryofattempt": "وضعیت شرکت در آزمون",
-    "mma.mod_quiz.summaryofattempts": "نتایج خلاصهٔ دفعه‌های قبلی شرکت شما در آزمون",
+    "mma.mod_quiz.stateoverdue": "از م�?عد گذشته",
+    "mma.mod_quiz.status": "�?ضعیت",
+    "mma.mod_quiz.submitallandfinish": "ثبت همهٔ پاسخ‌ها �? اتمام آزم�?ن",
+    "mma.mod_quiz.summaryofattempt": "�?ضعیت شرکت در آزم�?ن",
+    "mma.mod_quiz.summaryofattempts": "نتایج خلاصهٔ د�?عه‌های قبلی شرکت شما در آزم�?ن",
     "mma.mod_quiz.timeleft": "زمان باقیمانده",
-    "mma.mod_quiz.timetaken": "زمان صرف شده",
-    "mma.mod_quiz.yourfinalgradeis": "نمرهٔ نهایی شما در این آزمون {{$a}} است.",
+    "mma.mod_quiz.timetaken": "زمان صر�? شده",
+    "mma.mod_quiz.yourfinalgradeis": "نمرهٔ نهایی شما در این آزم�?ن {{$a}} است.",
     "mma.mod_scorm.asset": "دارایی",
     "mma.mod_scorm.assetlaunched": "دارایی - دیده شده",
     "mma.mod_scorm.attempts": "تلاش",
-    "mma.mod_scorm.averageattempt": "متوسط تعداد دفعات تلاش",
+    "mma.mod_scorm.averageattempt": "مت�?سط تعداد د�?عات تلاش",
     "mma.mod_scorm.browse": "پیش‌نمایش",
-    "mma.mod_scorm.browsed": "به صورت پیش‌نمایش دیده شده",
+    "mma.mod_scorm.browsed": "به ص�?رت پیش‌نمایش دیده شده",
     "mma.mod_scorm.browsemode": "حالت پیش‌نمایش",
     "mma.mod_scorm.completed": "کامل شده",
-    "mma.mod_scorm.contents": "محتویات",
-    "mma.mod_scorm.enter": "ورود",
-    "mma.mod_scorm.errorinvalidversion": "متاسفانه برنامه تنها از اسکورم ۱٫۲ پشتیبانی می‌کند.",
-    "mma.mod_scorm.errorpackagefile": "متاسفانه برنامه تنها از بسته‌های ZIP پشتیبانی می‌کند.",
+    "mma.mod_scorm.contents": "محت�?یات",
+    "mma.mod_scorm.enter": "�?ر�?د",
+    "mma.mod_scorm.errorinvalidversion": "متاس�?انه برنامه تنها از اسک�?رم ۱٫۲ پشتیبانی می‌کند.",
+    "mma.mod_scorm.errorpackagefile": "متاس�?انه برنامه تنها از بسته‌های ZIP پشتیبانی می‌کند.",
     "mma.mod_scorm.exceededmaxattempts": "حداکثر تعداد تلاش‌ها را انجام داده‌اید.",
-    "mma.mod_scorm.failed": "ناموفق",
-    "mma.mod_scorm.firstattempt": "اولین تلاش",
+    "mma.mod_scorm.failed": "نام�?�?ق",
+    "mma.mod_scorm.firstattempt": "ا�?لین تلاش",
     "mma.mod_scorm.gradeaverage": "نمرهٔ میانگین",
     "mma.mod_scorm.gradeforattempt": "نمرهٔ تلاش",
     "mma.mod_scorm.gradehighest": "بالاترین نمره",
-    "mma.mod_scorm.grademethod": "روش نمره‌دهی",
+    "mma.mod_scorm.grademethod": "ر�?ش نمره‌دهی",
     "mma.mod_scorm.gradereported": "نمرهٔ گزارش شده",
-    "mma.mod_scorm.gradescoes": "اهداف آموزشی",
+    "mma.mod_scorm.gradescoes": "اهدا�? آم�?زشی",
     "mma.mod_scorm.gradesum": "جمع نمره",
     "mma.mod_scorm.highestattempt": "بالاترین تلاش",
     "mma.mod_scorm.incomplete": "ناتمام",
     "mma.mod_scorm.lastattempt": "آخرین تلاش",
     "mma.mod_scorm.mode": "حالت",
-    "mma.mod_scorm.newattempt": "شروع یک تلاش جدید",
+    "mma.mod_scorm.newattempt": "شر�?ع یک تلاش جدید",
     "mma.mod_scorm.noattemptsallowed": "تعداد تلاش‌های مجاز",
     "mma.mod_scorm.noattemptsmade": "تعداد تلاش‌هایی که انجام داده‌اید",
-    "mma.mod_scorm.normal": "معمولی",
-    "mma.mod_scorm.notattempted": "شرکت صورت نگرفته است",
+    "mma.mod_scorm.normal": "معم�?لی",
+    "mma.mod_scorm.notattempted": "شرکت ص�?رت نگر�?ته است",
     "mma.mod_scorm.organizations": "سازمان‌ها",
-    "mma.mod_scorm.passed": "موفق",
-    "mma.mod_scorm.reviewmode": "حالت مرور",
+    "mma.mod_scorm.passed": "م�?�?ق",
+    "mma.mod_scorm.reviewmode": "حالت مر�?ر",
     "mma.mod_scorm.suspended": "معلق",
-    "mma.mod_survey.cannotsubmitsurvey": "متاسفیم. مشکلی در ثبت نظرسنجی شما وجود داشت. لطفا دوباره تلاش کنید.",
-    "mma.mod_survey.ifoundthat": "متوجه شدم که:",
+    "mma.mod_survey.cannotsubmitsurvey": "متاس�?یم. مشکلی در ثبت نظرسنجی شما �?ج�?د داشت. لط�?ا د�?باره تلاش کنید.",
+    "mma.mod_survey.ifoundthat": "مت�?جه شدم که:",
     "mma.mod_survey.ipreferthat": "ترجیح می‌دهم که:",
     "mma.mod_survey.responses": "پاسخ‌ها",
     "mma.mod_survey.results": "نتایج",
-    "mma.mod_wiki.createpage": "ایجاد صفحه",
-    "mma.mod_wiki.editingpage": "ویرایش این صفحه: «{{$a}}»",
-    "mma.mod_wiki.map": "معماری صفحه‌ها",
-    "mma.mod_wiki.newpagetitle": "عنوان صفحهٔ جدید",
-    "mma.mod_wiki.nocontent": "محتوایی برای این صفحه وجود ندارد",
-    "mma.mod_wiki.notingroup": "بدون گروه",
-    "mma.mod_wiki.page": "صفحهٔ {{$a}}",
-    "mma.mod_wiki.pageexists": "این صفحه در حال حاضر وجود دارد. در حال تغییر مسیر به صفحهٔ موجود.",
-    "mma.mod_wiki.viewpage": "مشاهدهٔ صفحه",
-    "mma.mod_wiki.wrongversionlock": "هنگامی که شما در حال ویرایش این صفحه بودید، کاربر دیگری آن را ویرایش کرد و محتوایش را تغییر داد.",
+    "mma.mod_wiki.createpage": "ایجاد ص�?حه",
+    "mma.mod_wiki.editingpage": "�?یرایش این ص�?حه: «{{$a}}»",
+    "mma.mod_wiki.map": "معماری ص�?حه‌ها",
+    "mma.mod_wiki.newpagetitle": "عن�?ان ص�?حهٔ جدید",
+    "mma.mod_wiki.nocontent": "محت�?ایی برای این ص�?حه �?ج�?د ندارد",
+    "mma.mod_wiki.notingroup": "بد�?ن گر�?ه",
+    "mma.mod_wiki.page": "ص�?حهٔ {{$a}}",
+    "mma.mod_wiki.pageexists": "این ص�?حه در حال حاضر �?ج�?د دارد. در حال تغییر مسیر به ص�?حهٔ م�?ج�?د.",
+    "mma.mod_wiki.viewpage": "مشاهدهٔ ص�?حه",
+    "mma.mod_wiki.wrongversionlock": "هنگامی که شما در حال �?یرایش این ص�?حه ب�?دید، کاربر دیگری آن را �?یرایش کرد �? محت�?ایش را تغییر داد.",
     "mma.myoverview.future": "آینده",
     "mma.myoverview.inprogress": "در جریان",
     "mma.myoverview.morecourses": "",
-    "mma.myoverview.next30days": "۳۰ روز بعدی",
-    "mma.myoverview.next7days": "۷ روز بعدی",
-    "mma.myoverview.nocourses": "درسی وجود ندارد",
-    "mma.myoverview.nocoursesfuture": "هیچ درسی برای آینده وجود ندارد",
-    "mma.myoverview.nocoursesinprogress": "هیچ درسِ درجریانی وجود ندارد",
-    "mma.myoverview.nocoursespast": "هیچ درسی برای گذشته وجود ندارد",
-    "mma.myoverview.noevents": "هیچ مهلتی برای فعالیت‌های آتی وجود ندارد",
+    "mma.myoverview.next30days": "۳۰ ر�?ز بعدی",
+    "mma.myoverview.next7days": "۷ ر�?ز بعدی",
+    "mma.myoverview.nocourses": "درسی �?ج�?د ندارد",
+    "mma.myoverview.nocoursesfuture": "هیچ درسی برای آینده �?ج�?د ندارد",
+    "mma.myoverview.nocoursesinprogress": "هیچ درس�? درجریانی �?ج�?د ندارد",
+    "mma.myoverview.nocoursespast": "هیچ درسی برای گذشته �?ج�?د ندارد",
+    "mma.myoverview.noevents": "هیچ مهلتی برای �?عالیت‌های آتی �?ج�?د ندارد",
     "mma.myoverview.past": "گذشته",
     "mma.myoverview.pluginname": "نمای کلی درس",
     "mma.myoverview.recentlyoverdue": "",
     "mma.myoverview.sortbycourses": "مرتب‌سازی بر اساس درس‌ها",
     "mma.myoverview.sortbydates": "مرتب‌سازی بر اساس تاریخ‌ها",
-    "mma.myoverview.timeline": "جدول زمانی",
-    "mma.notes.addnewnote": "اضافه کردن یک یادداشت جدید",
+    "mma.myoverview.timeline": "جد�?ل زمانی",
+    "mma.notes.addnewnote": "اضا�?ه کردن یک یادداشت جدید",
     "mma.notes.coursenotes": "یادداشت‌های درس",
     "mma.notes.note": "یادداشت",
-    "mma.notes.notes": "تحلیل و یادداشت‌های خصوصی شما",
-    "mma.notes.personalnotes": "یادداشت‌های خصوصی",
+    "mma.notes.notes": "تحلیل �? یادداشت‌های خص�?صی شما",
+    "mma.notes.personalnotes": "یادداشت‌های خص�?صی",
     "mma.notes.publishstate": "دامنه",
     "mma.notes.sitenotes": "یادداشت‌های سایت",
     "mma.notifications.notificationpreferences": "ترجیحات اطلاعیه‌ها",
-    "mma.notifications.notifications": "تذکرات",
-    "mma.notifications.therearentnotificationsyet": "هیچ هشداری وجود ندارد",
+    "mma.notifications.notifications": "هشدارها",
+    "mma.notifications.therearentnotificationsyet": "هیچ هشداری �?ج�?د ندارد",
     "mma.participants.noparticipants": "هیچ شرکت‌کننده‌ای پیدا نشد.",
     "mma.participants.participants": "شرکت کنندگان"
 }
