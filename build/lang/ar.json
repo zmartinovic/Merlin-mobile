@@ -1,124 +1,126 @@
 {
     "mm.contentlinks.chooseaccount": "أختر الحساب",
-    "mm.core.allparticipants": "كل المشاركين",
-    "mm.core.areyousure": "هل انت متأكد؟",
-    "mm.core.back": "العودة",
+    "mm.core.allparticipants": "�?ل المشار�?ين",
+    "mm.core.answer": "أجب",
+    "mm.core.answered": "تم الاجابة",
+    "mm.core.areyousure": "هل انت متأ�?د؟",
+    "mm.core.back": "الع�?دة",
     "mm.core.cancel": "إلغاء",
-    "mm.core.cannotconnect": "لا يمكن الاتصال: تحقق من أنك كتبت عنوان URL بشكل صحيح وأنك تستخدم موقع موودل 2.4 أو أحدث.",
-    "mm.core.category": "التصنيف",
+    "mm.core.cannotconnect": "لا يم�?ن الاتصال: تحقق من أن�? �?تبت عن�?ان URL بش�?ل صحيح �?أن�? تستخدم م�?قع م�?�?دل 2.4 أ�? أحدث.",
+    "mm.core.category": "التصني�?",
     "mm.core.choose": "اختر",
     "mm.core.choosedots": "اختر...",
-    "mm.core.clicktohideshow": "انقر للطي أو التوسيع",
+    "mm.core.clicktohideshow": "انقر للطي أ�? الت�?سيع",
     "mm.core.close": "أغلق",
-    "mm.core.comments": "تعليقاتك",
+    "mm.core.comments": "تعليقات�?",
     "mm.core.commentscount": "التعليقات ({{$a}})",
-    "mm.core.completion-alt-auto-fail": "مكتمل (لم تحقق درحة النجاح)",
-    "mm.core.completion-alt-auto-n": "غير مكتمل",
-    "mm.core.completion-alt-auto-pass": "مكتمل (حققت درجة النجاح)",
-    "mm.core.completion-alt-auto-y": "مكتمل",
-    "mm.core.completion-alt-manual-n": "غير مكتمل؛ حدد لجعل هذا العنصر مكتمل",
-    "mm.core.completion-alt-manual-y": "مكتمل؛ حدد لجعل هذا العنصر غير مكتمل",
-    "mm.core.content": "المحتوى",
+    "mm.core.completion-alt-auto-fail": "م�?تمل (لم تحقق درحة النجاح)",
+    "mm.core.completion-alt-auto-n": "غير م�?تمل",
+    "mm.core.completion-alt-auto-pass": "م�?تمل (حققت درجة النجاح)",
+    "mm.core.completion-alt-auto-y": "م�?تمل",
+    "mm.core.completion-alt-manual-n": "غير م�?تمل؛ حدد لجعل هذا العنصر م�?تمل",
+    "mm.core.completion-alt-manual-y": "م�?تمل؛ حدد لجعل هذا العنصر غير م�?تمل",
+    "mm.core.content": "المحت�?ى",
     "mm.core.continue": "استمر",
-    "mm.core.country-AD": "أندورا",
+    "mm.core.country-AD": "أند�?را",
     "mm.core.country-AE": "الامارات العربية المتحدة",
-    "mm.core.country-AF": "أفغانستان",
-    "mm.core.country-AG": "أنتيجوا وبربودا",
-    "mm.core.country-AI": "أنجويلا",
+    "mm.core.country-AF": "أ�?غانستان",
+    "mm.core.country-AG": "أنتيج�?ا �?برب�?دا",
+    "mm.core.country-AI": "أنج�?يلا",
     "mm.core.country-AL": "ألبانيا",
     "mm.core.country-AM": "أرمينيا",
-    "mm.core.country-AN": "جزر الأنتيل الهولندية",
-    "mm.core.country-AO": "أنجولا",
-    "mm.core.country-AQ": "القطب الجنوبي",
+    "mm.core.country-AN": "جزر الأنتيل اله�?لندية",
+    "mm.core.country-AO": "أنج�?لا",
+    "mm.core.country-AQ": "القطب الجن�?بي",
     "mm.core.country-AR": "الأرجنتين",
-    "mm.core.country-AS": "ساموا الأمريكية",
+    "mm.core.country-AS": "سام�?ا الأمري�?ية",
     "mm.core.country-AT": "النمسا",
     "mm.core.country-AU": "أستراليا",
-    "mm.core.country-AW": "آروبا",
-    "mm.core.country-AX": "جزر أولان",
+    "mm.core.country-AW": "آر�?با",
+    "mm.core.country-AX": "جزر أ�?لان",
     "mm.core.country-AZ": "أذربيجان",
-    "mm.core.country-BA": "البوسنة والهرسك",
-    "mm.core.country-BB": "بربادوس",
+    "mm.core.country-BA": "الب�?سنة �?الهرس�?",
+    "mm.core.country-BB": "برباد�?س",
     "mm.core.country-BD": "بنجلاديش",
-    "mm.core.country-BE": "بلجيكا",
-    "mm.core.country-BF": "بوركينا فاسو",
+    "mm.core.country-BE": "بلجي�?ا",
+    "mm.core.country-BF": "ب�?ر�?ينا �?اس�?",
     "mm.core.country-BG": "بلغاريا",
     "mm.core.country-BH": "البحرين",
-    "mm.core.country-BI": "بوروندي",
+    "mm.core.country-BI": "ب�?ر�?ندي",
     "mm.core.country-BJ": "بنين",
-    "mm.core.country-BM": "برمودا",
-    "mm.core.country-BN": "بروناي",
-    "mm.core.country-BO": "بوليفيا",
+    "mm.core.country-BM": "برم�?دا",
+    "mm.core.country-BN": "بر�?ناي",
+    "mm.core.country-BO": "ب�?لي�?يا",
     "mm.core.country-BR": "البرازيل",
     "mm.core.country-BS": "الباهاما",
-    "mm.core.country-BT": "بوتان",
-    "mm.core.country-BV": "جزيرة بوفيه",
-    "mm.core.country-BW": "بتسوانا",
-    "mm.core.country-BY": "روسيا البيضاء",
+    "mm.core.country-BT": "ب�?تان",
+    "mm.core.country-BV": "جزيرة ب�?�?يه",
+    "mm.core.country-BW": "بتس�?انا",
+    "mm.core.country-BY": "ر�?سيا البيضاء",
     "mm.core.country-BZ": "بليز",
-    "mm.core.country-CA": "كندا",
-    "mm.core.country-CC": "جزر كوكوس",
-    "mm.core.country-CD": "جمهورية الكونغو الديمقراطية",
-    "mm.core.country-CF": "جمهورية افريقيا الوسطى",
-    "mm.core.country-CG": "الكونغو - برازافيل",
-    "mm.core.country-CH": "سويسرا",
+    "mm.core.country-CA": "�?ندا",
+    "mm.core.country-CC": "جزر �?�?�?�?س",
+    "mm.core.country-CD": "جمه�?رية ال�?�?نغ�? الديمقراطية",
+    "mm.core.country-CF": "جمه�?رية ا�?ريقيا ال�?سطى",
+    "mm.core.country-CG": "ال�?�?نغ�? - برازا�?يل",
+    "mm.core.country-CH": "س�?يسرا",
     "mm.core.country-CI": "ساحل العاج",
-    "mm.core.country-CK": "جزر كوك",
+    "mm.core.country-CK": "جزر �?�?�?",
     "mm.core.country-CL": "شيلي",
-    "mm.core.country-CM": "الكاميرون",
+    "mm.core.country-CM": "ال�?امير�?ن",
     "mm.core.country-CN": "الصين",
-    "mm.core.country-CO": "كولومبيا",
-    "mm.core.country-CR": "كوستاريكا",
-    "mm.core.country-CS": "صربيا والجبل الأسود",
-    "mm.core.country-CU": "كوبا",
+    "mm.core.country-CO": "�?�?ل�?مبيا",
+    "mm.core.country-CR": "�?�?ستاري�?ا",
+    "mm.core.country-CS": "صربيا �?الجبل الأس�?د",
+    "mm.core.country-CU": "�?�?با",
     "mm.core.country-CV": "الرأس الأخضر",
-    "mm.core.country-CX": "جزيرة الكريسماس",
+    "mm.core.country-CX": "جزيرة ال�?ريسماس",
     "mm.core.country-CY": "قبرص",
-    "mm.core.country-CZ": "جمهورية التشيك",
+    "mm.core.country-CZ": "جمه�?رية التشي�?",
     "mm.core.country-DE": "ألمانيا",
-    "mm.core.country-DJ": "جيبوتي",
-    "mm.core.country-DK": "الدانمرك",
-    "mm.core.country-DM": "دومينيكا",
-    "mm.core.country-DO": "جمهورية الدومينيك",
+    "mm.core.country-DJ": "جيب�?تي",
+    "mm.core.country-DK": "الدانمر�?",
+    "mm.core.country-DM": "د�?ميني�?ا",
+    "mm.core.country-DO": "جمه�?رية الد�?ميني�?",
     "mm.core.country-DZ": "الجزائر",
-    "mm.core.country-EC": "الاكوادور",
-    "mm.core.country-EE": "استونيا",
+    "mm.core.country-EC": "الا�?�?اد�?ر",
+    "mm.core.country-EE": "است�?نيا",
     "mm.core.country-EG": "مصر",
     "mm.core.country-EH": "الصحراء الغربية",
     "mm.core.country-ER": "اريتريا",
     "mm.core.country-ES": "أسبانيا",
-    "mm.core.country-ET": "اثيوبيا",
-    "mm.core.country-FI": "فنلندا",
-    "mm.core.country-FJ": "فيجي",
-    "mm.core.country-FK": "جزر فوكلاند",
-    "mm.core.country-FM": "ميكرونيزيا",
-    "mm.core.country-FO": "جزر فارو",
-    "mm.core.country-FR": "فرنسا",
-    "mm.core.country-GA": "الجابون",
-    "mm.core.country-GB": "المملكة المتحدة",
+    "mm.core.country-ET": "اثي�?بيا",
+    "mm.core.country-FI": "�?نلندا",
+    "mm.core.country-FJ": "�?يجي",
+    "mm.core.country-FK": "جزر �?�?�?لاند",
+    "mm.core.country-FM": "مي�?ر�?نيزيا",
+    "mm.core.country-FO": "جزر �?ار�?",
+    "mm.core.country-FR": "�?رنسا",
+    "mm.core.country-GA": "الجاب�?ن",
+    "mm.core.country-GB": "الممل�?ة المتحدة",
     "mm.core.country-GD": "جرينادا",
-    "mm.core.country-GE": "جورجيا",
-    "mm.core.country-GF": "غويانا",
+    "mm.core.country-GE": "ج�?رجيا",
+    "mm.core.country-GF": "غ�?يانا",
     "mm.core.country-GH": "غانا",
     "mm.core.country-GI": "جبل طارق",
     "mm.core.country-GL": "جرينلاند",
     "mm.core.country-GM": "غامبيا",
     "mm.core.country-GN": "غينيا",
-    "mm.core.country-GP": "جوادلوب",
-    "mm.core.country-GQ": "غينيا الاستوائية",
-    "mm.core.country-GR": "اليونان",
-    "mm.core.country-GS": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
-    "mm.core.country-GT": "جواتيمالا",
-    "mm.core.country-GU": "جوام",
-    "mm.core.country-GW": "غينيا بيساو",
+    "mm.core.country-GP": "ج�?ادل�?ب",
+    "mm.core.country-GQ": "غينيا الاست�?ائية",
+    "mm.core.country-GR": "الي�?نان",
+    "mm.core.country-GS": "ج�?رجيا الجن�?بية �?جزر ساند�?يتش الجن�?بية",
+    "mm.core.country-GT": "ج�?اتيمالا",
+    "mm.core.country-GU": "ج�?ام",
+    "mm.core.country-GW": "غينيا بيسا�?",
     "mm.core.country-GY": "غيانا",
-    "mm.core.country-HK": "هونج كونج الصينية",
-    "mm.core.country-HM": "جزيرة هيرد وماكدونالد",
-    "mm.core.country-HN": "هندوراس",
-    "mm.core.country-HR": "كرواتيا",
+    "mm.core.country-HK": "ه�?نج �?�?نج الصينية",
+    "mm.core.country-HM": "جزيرة هيرد �?ما�?د�?نالد",
+    "mm.core.country-HN": "هند�?راس",
+    "mm.core.country-HR": "�?ر�?اتيا",
     "mm.core.country-HT": "هايتي",
     "mm.core.country-HU": "المجر",
-    "mm.core.country-ID": "اندونيسيا",
+    "mm.core.country-ID": "اند�?نيسيا",
     "mm.core.country-IE": "أيرلندا",
     "mm.core.country-IL": "اسرائيل",
     "mm.core.country-IM": "جزيرة مان",
@@ -129,699 +131,699 @@
     "mm.core.country-IS": "أيسلندا",
     "mm.core.country-IT": "ايطاليا",
     "mm.core.country-JE": "جيرسي",
-    "mm.core.country-JM": "جامايكا",
+    "mm.core.country-JM": "جاماي�?ا",
     "mm.core.country-JO": "الأردن",
     "mm.core.country-JP": "اليابان",
-    "mm.core.country-KE": "كينيا",
+    "mm.core.country-KE": "�?ينيا",
     "mm.core.country-KG": "قرغيزستان",
-    "mm.core.country-KH": "كمبوديا",
-    "mm.core.country-KI": "كيريباتي",
+    "mm.core.country-KH": "�?مب�?ديا",
+    "mm.core.country-KI": "�?يريباتي",
     "mm.core.country-KM": "جزر القمر",
-    "mm.core.country-KN": "سانت كيتس ونيفيس",
-    "mm.core.country-KP": "كوريا الشمالية",
-    "mm.core.country-KR": "كوريا الجنوبية",
-    "mm.core.country-KW": "الكويت",
-    "mm.core.country-KY": "جزر الكايمن",
-    "mm.core.country-KZ": "كازاخستان",
-    "mm.core.country-LA": "لاوس",
+    "mm.core.country-KN": "سانت �?يتس �?ني�?يس",
+    "mm.core.country-KP": "�?�?ريا الشمالية",
+    "mm.core.country-KR": "�?�?ريا الجن�?بية",
+    "mm.core.country-KW": "ال�?�?يت",
+    "mm.core.country-KY": "جزر ال�?ايمن",
+    "mm.core.country-KZ": "�?ازاخستان",
+    "mm.core.country-LA": "لا�?س",
     "mm.core.country-LB": "لبنان",
-    "mm.core.country-LC": "سانت لوسيا",
+    "mm.core.country-LC": "سانت ل�?سيا",
     "mm.core.country-LI": "ليختنشتاين",
-    "mm.core.country-LK": "سريلانكا",
+    "mm.core.country-LK": "سريلان�?ا",
     "mm.core.country-LR": "ليبيريا",
-    "mm.core.country-LS": "ليسوتو",
-    "mm.core.country-LT": "ليتوانيا",
-    "mm.core.country-LU": "لوكسمبورج",
-    "mm.core.country-LV": "لاتفيا",
+    "mm.core.country-LS": "ليس�?ت�?",
+    "mm.core.country-LT": "ليت�?انيا",
+    "mm.core.country-LU": "ل�?�?سمب�?رج",
+    "mm.core.country-LV": "لات�?يا",
     "mm.core.country-LY": "ليبيا",
     "mm.core.country-MA": "المغرب",
-    "mm.core.country-MC": "موناكو",
-    "mm.core.country-MD": "مولدافيا",
-    "mm.core.country-ME": "الجبل الأسود",
+    "mm.core.country-MC": "م�?نا�?�?",
+    "mm.core.country-MD": "م�?لدا�?يا",
+    "mm.core.country-ME": "الجبل الأس�?د",
     "mm.core.country-MF": "سانت مارتين",
     "mm.core.country-MG": "مدغشقر",
     "mm.core.country-MH": "جزر المارشال",
-    "mm.core.country-MK": "مقدونيا",
+    "mm.core.country-MK": "مقد�?نيا",
     "mm.core.country-ML": "مالي",
     "mm.core.country-MM": "ميانمار",
-    "mm.core.country-MN": "منغوليا",
-    "mm.core.country-MO": "ماكاو الصينية",
+    "mm.core.country-MN": "منغ�?ليا",
+    "mm.core.country-MO": "ما�?ا�? الصينية",
     "mm.core.country-MP": "جزر ماريانا الشمالية",
-    "mm.core.country-MQ": "مارتينيك",
-    "mm.core.country-MR": "موريتانيا",
-    "mm.core.country-MS": "مونتسرات",
+    "mm.core.country-MQ": "مارتيني�?",
+    "mm.core.country-MR": "م�?ريتانيا",
+    "mm.core.country-MS": "م�?نتسرات",
     "mm.core.country-MT": "مالطا",
-    "mm.core.country-MU": "موريشيوس",
-    "mm.core.country-MV": "جزر الملديف",
-    "mm.core.country-MW": "ملاوي",
-    "mm.core.country-MX": "المكسيك",
+    "mm.core.country-MU": "م�?ريشي�?س",
+    "mm.core.country-MV": "جزر الملدي�?",
+    "mm.core.country-MW": "ملا�?ي",
+    "mm.core.country-MX": "الم�?سي�?",
     "mm.core.country-MY": "ماليزيا",
-    "mm.core.country-MZ": "موزمبيق",
+    "mm.core.country-MZ": "م�?زمبيق",
     "mm.core.country-NA": "ناميبيا",
-    "mm.core.country-NC": "كاليدونيا الجديدة",
+    "mm.core.country-NC": "�?اليد�?نيا الجديدة",
     "mm.core.country-NE": "النيجر",
-    "mm.core.country-NF": "جزيرة نورفوك",
+    "mm.core.country-NF": "جزيرة ن�?ر�?�?�?",
     "mm.core.country-NG": "نيجيريا",
-    "mm.core.country-NI": "نيكاراجوا",
-    "mm.core.country-NL": "هولندا",
-    "mm.core.country-NO": "النرويج",
+    "mm.core.country-NI": "ني�?اراج�?ا",
+    "mm.core.country-NL": "ه�?لندا",
+    "mm.core.country-NO": "النر�?يج",
     "mm.core.country-NP": "نيبال",
-    "mm.core.country-NR": "نورو",
-    "mm.core.country-NU": "نيوي",
-    "mm.core.country-NZ": "نيوزيلاندا",
+    "mm.core.country-NR": "ن�?ر�?",
+    "mm.core.country-NU": "ني�?ي",
+    "mm.core.country-NZ": "ني�?زيلاندا",
     "mm.core.country-OM": "عمان",
     "mm.core.country-PA": "بنما",
-    "mm.core.country-PE": "بيرو",
-    "mm.core.country-PF": "بولينيزيا الفرنسية",
-    "mm.core.country-PG": "بابوا غينيا الجديدة",
-    "mm.core.country-PH": "الفيلبين",
-    "mm.core.country-PK": "باكستان",
-    "mm.core.country-PL": "بولندا",
-    "mm.core.country-PM": "سانت بيير وميكولون",
-    "mm.core.country-PN": "بتكايرن",
-    "mm.core.country-PR": "بورتوريكو",
-    "mm.core.country-PS": "فلسطين",
+    "mm.core.country-PE": "بير�?",
+    "mm.core.country-PF": "ب�?لينيزيا ال�?رنسية",
+    "mm.core.country-PG": "باب�?ا غينيا الجديدة",
+    "mm.core.country-PH": "ال�?يلبين",
+    "mm.core.country-PK": "با�?ستان",
+    "mm.core.country-PL": "ب�?لندا",
+    "mm.core.country-PM": "سانت بيير �?مي�?�?ل�?ن",
+    "mm.core.country-PN": "بت�?ايرن",
+    "mm.core.country-PR": "ب�?رت�?ري�?�?",
+    "mm.core.country-PS": "�?لسطين",
     "mm.core.country-PT": "البرتغال",
-    "mm.core.country-PW": "بالاو",
-    "mm.core.country-PY": "باراجواي",
+    "mm.core.country-PW": "بالا�?",
+    "mm.core.country-PY": "باراج�?اي",
     "mm.core.country-QA": "قطر",
-    "mm.core.country-RE": "روينيون",
-    "mm.core.country-RO": "رومانيا",
+    "mm.core.country-RE": "ر�?يني�?ن",
+    "mm.core.country-RO": "ر�?مانيا",
     "mm.core.country-RS": "صربيا",
-    "mm.core.country-RU": "روسيا",
-    "mm.core.country-RW": "رواندا",
-    "mm.core.country-SA": "المملكة العربية السعودية",
+    "mm.core.country-RU": "ر�?سيا",
+    "mm.core.country-RW": "ر�?اندا",
+    "mm.core.country-SA": "الممل�?ة العربية السع�?دية",
     "mm.core.country-SB": "جزر سليمان",
     "mm.core.country-SC": "سيشل",
-    "mm.core.country-SD": "السودان",
-    "mm.core.country-SE": "السويد",
-    "mm.core.country-SG": "سنغافورة",
+    "mm.core.country-SD": "الس�?دان",
+    "mm.core.country-SE": "الس�?يد",
+    "mm.core.country-SG": "سنغا�?�?رة",
     "mm.core.country-SH": "سانت هيلنا",
-    "mm.core.country-SI": "سلوفينيا",
-    "mm.core.country-SJ": "سفالبارد وجان مايان",
-    "mm.core.country-SK": "سلوفاكيا",
-    "mm.core.country-SL": "سيراليون",
-    "mm.core.country-SM": "سان مارينو",
+    "mm.core.country-SI": "سل�?�?ينيا",
+    "mm.core.country-SJ": "س�?البارد �?جان مايان",
+    "mm.core.country-SK": "سل�?�?ا�?يا",
+    "mm.core.country-SL": "سيرالي�?ن",
+    "mm.core.country-SM": "سان مارين�?",
     "mm.core.country-SN": "السنغال",
-    "mm.core.country-SO": "الصومال",
-    "mm.core.country-SR": "سورينام",
-    "mm.core.country-ST": "ساو تومي وبرينسيبي",
-    "mm.core.country-SV": "السلفادور",
-    "mm.core.country-SY": "سوريا",
-    "mm.core.country-SZ": "سوازيلاند",
-    "mm.core.country-TC": "جزر الترك وجايكوس",
+    "mm.core.country-SO": "الص�?مال",
+    "mm.core.country-SR": "س�?رينام",
+    "mm.core.country-ST": "سا�? ت�?مي �?برينسيبي",
+    "mm.core.country-SV": "السل�?اد�?ر",
+    "mm.core.country-SY": "س�?ريا",
+    "mm.core.country-SZ": "س�?ازيلاند",
+    "mm.core.country-TC": "جزر التر�? �?جاي�?�?س",
     "mm.core.country-TD": "تشاد",
-    "mm.core.country-TF": "المقاطعات الجنوبية الفرنسية",
-    "mm.core.country-TG": "توجو",
+    "mm.core.country-TF": "المقاطعات الجن�?بية ال�?رنسية",
+    "mm.core.country-TG": "ت�?ج�?",
     "mm.core.country-TH": "تايلند",
-    "mm.core.country-TJ": "طاجكستان",
-    "mm.core.country-TK": "توكيلو",
-    "mm.core.country-TL": "تيمور الشرقية",
-    "mm.core.country-TM": "تركمانستان",
-    "mm.core.country-TN": "تونس",
-    "mm.core.country-TO": "تونجا",
-    "mm.core.country-TR": "تركيا",
-    "mm.core.country-TT": "ترينيداد وتوباغو",
-    "mm.core.country-TV": "توفالو",
-    "mm.core.country-TW": "تايوان",
+    "mm.core.country-TJ": "طاج�?ستان",
+    "mm.core.country-TK": "ت�?�?يل�?",
+    "mm.core.country-TL": "تيم�?ر الشرقية",
+    "mm.core.country-TM": "تر�?مانستان",
+    "mm.core.country-TN": "ت�?نس",
+    "mm.core.country-TO": "ت�?نجا",
+    "mm.core.country-TR": "تر�?يا",
+    "mm.core.country-TT": "ترينيداد �?ت�?باغ�?",
+    "mm.core.country-TV": "ت�?�?ال�?",
+    "mm.core.country-TW": "تاي�?ان",
     "mm.core.country-TZ": "تانزانيا",
-    "mm.core.country-UA": "أوكرانيا",
-    "mm.core.country-UG": "أوغندا",
-    "mm.core.country-UM": "جزر الولايات المتحدة البعيدة الصغيرة",
-    "mm.core.country-US": "الولايات المتحدة الأمريكية",
-    "mm.core.country-UY": "أورجواي",
-    "mm.core.country-UZ": "أوزبكستان",
-    "mm.core.country-VA": "الفاتيكان",
-    "mm.core.country-VC": "سانت فنسنت وغرنادين",
-    "mm.core.country-VE": "فنزويلا",
-    "mm.core.country-VG": "جزر فرجين البريطانية",
-    "mm.core.country-VI": "جزر فرجين الأمريكية",
-    "mm.core.country-VN": "فيتنام",
-    "mm.core.country-VU": "فانواتو",
-    "mm.core.country-WF": "جزر والس وفوتونا",
-    "mm.core.country-WS": "ساموا",
+    "mm.core.country-UA": "أ�?�?رانيا",
+    "mm.core.country-UG": "أ�?غندا",
+    "mm.core.country-UM": "جزر ال�?لايات المتحدة البعيدة الصغيرة",
+    "mm.core.country-US": "ال�?لايات المتحدة الأمري�?ية",
+    "mm.core.country-UY": "أ�?رج�?اي",
+    "mm.core.country-UZ": "أ�?زب�?ستان",
+    "mm.core.country-VA": "ال�?اتي�?ان",
+    "mm.core.country-VC": "سانت �?نسنت �?غرنادين",
+    "mm.core.country-VE": "�?نز�?يلا",
+    "mm.core.country-VG": "جزر �?رجين البريطانية",
+    "mm.core.country-VI": "جزر �?رجين الأمري�?ية",
+    "mm.core.country-VN": "�?يتنام",
+    "mm.core.country-VU": "�?ان�?ات�?",
+    "mm.core.country-WF": "جزر �?الس �?�?�?ت�?نا",
+    "mm.core.country-WS": "سام�?ا",
     "mm.core.country-YE": "اليمن",
-    "mm.core.country-YT": "مايوت",
-    "mm.core.country-ZA": "جمهورية جنوب افريقيا",
+    "mm.core.country-YT": "ماي�?ت",
+    "mm.core.country-ZA": "جمه�?رية جن�?ب ا�?ريقيا",
     "mm.core.country-ZM": "زامبيا",
-    "mm.core.country-ZW": "زيمبابوي",
-    "mm.core.country-ZZ": "منطقة غير معرفة",
+    "mm.core.country-ZW": "زيمباب�?ي",
+    "mm.core.country-ZZ": "منطقة غير معر�?ة",
     "mm.core.course": "المقرر الدراسي",
-    "mm.core.coursedetails": "تفاصيل المقرر الدراسي",
+    "mm.core.coursedetails": "ت�?اصيل المقرر الدراسي",
     "mm.core.date": "تاريخ",
-    "mm.core.day": "يوم",
+    "mm.core.day": "ي�?م",
     "mm.core.days": "أيام",
     "mm.core.decsep": ".",
-    "mm.core.delete": "حذف",
-    "mm.core.deleting": "حذف",
-    "mm.core.description": "الوصف",
+    "mm.core.delete": "حذ�?",
+    "mm.core.deleting": "حذ�?",
+    "mm.core.description": "ال�?ص�?",
     "mm.core.done": "تم",
     "mm.core.download": "تحميل",
     "mm.core.downloading": "يتم التنزيل",
     "mm.core.edit": "حرر",
     "mm.core.error": "خطاء",
-    "mm.core.errordownloading": "خطأ عن تنزيل الملف",
-    "mm.core.filename": "اسم الملف",
+    "mm.core.errordownloading": "خطأ عن تنزيل المل�?",
+    "mm.core.filename": "اسم المل�?",
     "mm.core.folder": "مجلد",
-    "mm.core.forcepasswordchangenotice": "يجب عليك تغير كلمة المرور ليتسنى لك الاستمرار",
-    "mm.core.fulllistofcourses": "كل المقررات الدراسية",
-    "mm.core.groupsseparate": "مجموعات منفصلة",
-    "mm.core.groupsvisible": "مجموعات ظاهرة",
+    "mm.core.forcepasswordchangenotice": "يجب علي�? تغير �?لمة المر�?ر ليتسنى ل�? الاستمرار",
+    "mm.core.fulllistofcourses": "�?ل المقررات الدراسية",
+    "mm.core.groupsseparate": "مجم�?عات من�?صلة",
+    "mm.core.groupsvisible": "مجم�?عات ظاهرة",
     "mm.core.help": "مساعدة",
-    "mm.core.hide": "إخفاء",
+    "mm.core.hide": "إخ�?اء",
     "mm.core.hour": "ساعة",
     "mm.core.hours": "ساعات",
-    "mm.core.info": "معلومات",
+    "mm.core.info": "معل�?مات",
     "mm.core.labelsep": ":",
     "mm.core.lastmodified": "آخر تعديل",
     "mm.core.lastsync": "آخر تزامن",
     "mm.core.list": "معاينة القائمة",
     "mm.core.listsep": "،",
     "mm.core.loading": "يتم التحميل",
-    "mm.core.lostconnection": "فقدنا الاتصال تحتاج إلى إعادة الاتصال. المميز الخاص بك هو الآن غير صالح",
-    "mm.core.maxsizeandattachments": "الحجم الأقصى للملفات الجديدة: {{$a.size}}, أقصى عدد للمرفقات: {{$a.attachments}}",
+    "mm.core.lostconnection": "�?قدنا الاتصال تحتاج إلى إعادة الاتصال. المميز الخاص ب�? ه�? الآن غير صالح",
+    "mm.core.maxsizeandattachments": "الحجم الأقصى للمل�?ات الجديدة: {{$a.size}}, أقصى عدد للمر�?قات: {{$a.attachments}}",
     "mm.core.min": "الحد الأدنى",
     "mm.core.mins": "دقائق",
     "mm.core.mod_assign": "مهمة",
     "mm.core.mod_assignment": "مهمة",
-    "mm.core.mod_book": "كتاب",
+    "mm.core.mod_book": "�?تاب",
     "mm.core.mod_chat": "محادثة",
     "mm.core.mod_choice": "اختيار",
     "mm.core.mod_data": "قاعدة بيانات",
     "mm.core.mod_database": "قاعدة بيانات",
     "mm.core.mod_feedback": "تغذية راجعة",
-    "mm.core.mod_file": "ملف",
+    "mm.core.mod_file": "مل�?",
     "mm.core.mod_folder": "مجلد",
     "mm.core.mod_forum": "منتدى",
     "mm.core.mod_label": "ملصق",
     "mm.core.mod_lesson": "درس",
     "mm.core.mod_lti": null,
-    "mm.core.mod_page": "صفحة",
+    "mm.core.mod_page": "ص�?حة",
     "mm.core.mod_quiz": "اختبار",
     "mm.core.mod_scorm": null,
     "mm.core.mod_survey": "استبيان",
-    "mm.core.mod_url": "رابط صفحة",
-    "mm.core.mod_wiki": "ويكي",
-    "mm.core.mod_workshop": "ورشة عمل",
-    "mm.core.moduleintro": "وصف",
-    "mm.core.mygroups": "مجموعاتي",
+    "mm.core.mod_url": "رابط ص�?حة",
+    "mm.core.mod_wiki": "�?ي�?ي",
+    "mm.core.mod_workshop": "�?رشة عمل",
+    "mm.core.moduleintro": "�?ص�?",
+    "mm.core.mygroups": "مجم�?عاتي",
     "mm.core.name": "الاسم",
-    "mm.core.networkerrormsg": "لم يتم تمكين الشبكة أو أنها لا تعمل.",
+    "mm.core.networkerrormsg": "لم يتم تم�?ين الشب�?ة أ�? أنها لا تعمل.",
     "mm.core.never": "مطلقاً",
     "mm.core.next": "التالي",
     "mm.core.no": "لا",
-    "mm.core.nocomments": "لا يوجد تعليقات",
-    "mm.core.nograde": "لا توجد درجة",
-    "mm.core.none": "لا يوجد",
-    "mm.core.nopasswordchangeforced": "لا يمكنك الاستمرار دون تغيير كلمة مرورك، لكن يبدو أنه لا يوجد صفحة متوفرة لتغييرها. رجاءً قم بالاتصال بمدير مودل.",
-    "mm.core.nopermissions": "عذراً ولكنك لا تملك حالياً الصلاحيات لتقوم بهذا ({{$a}})",
-    "mm.core.noresults": "لا توجد نتائج",
+    "mm.core.nocomments": "لا ي�?جد تعليقات",
+    "mm.core.nograde": "لا ت�?جد درجة",
+    "mm.core.none": "لا ي�?جد",
+    "mm.core.nopasswordchangeforced": "لا يم�?ن�? الاستمرار د�?ن تغيير �?لمة مر�?ر�?، ل�?ن يبد�? أنه لا ي�?جد ص�?حة مت�?�?رة لتغييرها. رجاءً قم بالاتصال بمدير م�?دل.",
+    "mm.core.nopermissions": "عذراً �?ل�?ن�? لا تمل�? حالياً الصلاحيات لتق�?م بهذا ({{$a}})",
+    "mm.core.noresults": "لا ت�?جد نتائج",
     "mm.core.notice": "إشعار",
     "mm.core.now": "الآن",
-    "mm.core.numwords": "{{$a}} كلمات",
+    "mm.core.numwords": "{{$a}} �?لمات",
     "mm.core.offline": "غير متصل بالأنترنت",
     "mm.core.online": "متصل بالإنترنت",
-    "mm.core.othergroups": "المجموعات الأخرى",
-    "mm.core.pagea": "صفحة {{$a}}",
-    "mm.core.paymentinstant": "استخدم الزر التالي لدفع الرسوم التسجيل خلال دقائق.",
-    "mm.core.phone": "هاتف",
-    "mm.core.pictureof": "صورة {{$a}}",
+    "mm.core.othergroups": "المجم�?عات الأخرى",
+    "mm.core.pagea": "ص�?حة {{$a}}",
+    "mm.core.paymentinstant": "استخدم الزر التالي لد�?ع الرس�?م التسجيل خلال دقائق.",
+    "mm.core.phone": "هات�?",
+    "mm.core.pictureof": "ص�?رة {{$a}}",
     "mm.core.previous": "السابق",
-    "mm.core.pulltorefresh": "اسحب للأسفل ليتم التحديث",
-    "mm.core.quotausage": "حتى الآن قد استخدمت {{$a.used}} من ال {{$a.total}} المسموحه",
+    "mm.core.pulltorefresh": "اسحب للأس�?ل ليتم التحديث",
+    "mm.core.quotausage": "حتى الآن قد استخدمت {{$a.used}} من ال {{$a.total}} المسم�?حه",
     "mm.core.refresh": "تحديث",
-    "mm.core.required": "مفروض",
+    "mm.core.required": "م�?ر�?ض",
     "mm.core.restore": "إسترجاع",
-    "mm.core.save": "حفظ",
+    "mm.core.save": "ح�?ظ",
     "mm.core.search": "بحث",
-    "mm.core.searching": "بحث في",
+    "mm.core.searching": "بحث �?ي",
     "mm.core.searchresults": "نتائج البحث",
     "mm.core.sec": "ثانية",
-    "mm.core.secs": "ثواني",
-    "mm.core.seemoredetail": "اضغط هنا لترى تفاصيل أكثر",
+    "mm.core.secs": "ث�?اني",
+    "mm.core.seemoredetail": "اضغط هنا لترى ت�?اصيل أ�?ثر",
     "mm.core.send": "إرسل",
     "mm.core.sending": "يتم الإرسال",
-    "mm.core.serverconnection": "خطأ في الاتصال بالخادم",
+    "mm.core.serverconnection": "خطأ �?ي الاتصال بالخادم",
     "mm.core.show": "اظهر",
-    "mm.core.site": "الموقع",
+    "mm.core.site": "الم�?قع",
     "mm.core.sizeb": "بايتز",
     "mm.core.sizegb": "غيغابايت",
-    "mm.core.sizekb": "كيلو بايت",
+    "mm.core.sizekb": "�?يل�? بايت",
     "mm.core.sizemb": "ميغا بايب",
-    "mm.core.sortby": "إفرز بـ",
+    "mm.core.sortby": "إ�?رز بـ",
     "mm.core.start": "إبداء",
     "mm.core.submit": "سلم",
     "mm.core.success": "نجاح",
-    "mm.core.teachers": "معلمون",
-    "mm.core.time": "وقت",
-    "mm.core.timesup": "انتهى الوقت!",
-    "mm.core.today": "اليوم",
-    "mm.core.unexpectederror": "خطأ غير متوقع. الرجاء الإغلاق وإعادة فتح التطبيق للمحاولة مرة أخرى",
-    "mm.core.unknown": "غير معروف",
-    "mm.core.unlimited": "بلا حدود",
-    "mm.core.upgraderunning": "ًيتم ترقية الموقع، الرجاء إعادة المحاولة لاحقا.",
-    "mm.core.userdeleted": "تم حذف اشتراك هذا المستخدم",
-    "mm.core.userdetails": "تفاصيل المستخدم",
-    "mm.core.users": "المستخدمون",
+    "mm.core.teachers": "معلم�?ن",
+    "mm.core.time": "�?قت",
+    "mm.core.timesup": "انتهى ال�?قت!",
+    "mm.core.today": "الي�?م",
+    "mm.core.unexpectederror": "خطأ غير مت�?قع. الرجاء الإغلاق �?إعادة �?تح التطبيق للمحا�?لة مرة أخرى",
+    "mm.core.unknown": "غير معر�?�?",
+    "mm.core.unlimited": "بلا حد�?د",
+    "mm.core.upgraderunning": "ًيتم ترقية الم�?قع، الرجاء إعادة المحا�?لة لاحقا.",
+    "mm.core.userdeleted": "تم حذ�? اشترا�? هذا المستخدم",
+    "mm.core.userdetails": "ت�?اصيل المستخدم",
+    "mm.core.users": "المستخدم�?ن",
     "mm.core.view": "معاينه",
     "mm.core.viewprofile": "عرض الحساب",
     "mm.core.year": "سنة",
-    "mm.core.years": "سنوات",
+    "mm.core.years": "سن�?ات",
     "mm.core.yes": "نعم",
-    "mm.course.allsections": "كل الأقسام",
-    "mm.course.contents": "محتويات",
-    "mm.course.couldnotloadsections": "لم يتم تحميل كل الأقسام، من فضلك حاول مرة أخرى لاحقاَ",
+    "mm.course.allsections": "�?ل الأقسام",
+    "mm.course.contents": "محت�?يات",
+    "mm.course.couldnotloadsections": "لم يتم تحميل �?ل الأقسام، من �?ضل�? حا�?ل مرة أخرى لاحقاَ",
     "mm.course.errordownloadingsection": "خطأ عن تنزيل الأقسام",
-    "mm.course.hiddenfromstudents": "مخفي عن الطلاب",
-    "mm.courses.allowguests": "يسمح للمستخدمين الضيوف بالدخول إلى هذا المقرر الدراسي",
+    "mm.course.hiddenfromstudents": "مخ�?ي عن الطلاب",
+    "mm.courses.allowguests": "يسمح للمستخدمين الضي�?�? بالدخ�?ل إلى هذا المقرر الدراسي",
     "mm.courses.availablecourses": "المقررات الدراسية المتاحة",
-    "mm.courses.categories": "تصنيفات المقررات الدراسية",
+    "mm.courses.categories": "تصني�?ات المقررات الدراسية",
     "mm.courses.courses": "المقررات الدراسية",
     "mm.courses.enrolme": "سجلني",
-    "mm.courses.frontpage": "الصفحة الرئيسية",
+    "mm.courses.frontpage": "الص�?حة الرئيسية",
     "mm.courses.mycourses": "مقرراتي الدراسية",
-    "mm.courses.nocourses": "لا يوجد معلومات لمقرر دراسي ليتم اظهرها",
-    "mm.courses.nocoursesyet": "لا توجد مقررات دراسية لهذه الفئة",
-    "mm.courses.nosearchresults": "لا توجد نتائج لهذا البحث",
-    "mm.courses.notenroled": "أنت لست مسجلاً كطالب في هذا المقرر",
-    "mm.courses.password": "كلمة المرور",
-    "mm.courses.paymentrequired": "هذا المقرر الدراسي غير مجانين لذا يجب دفع القيمة للدخول.",
-    "mm.courses.paypalaccepted": "تم قبول التبرع المدفوع",
+    "mm.courses.nocourses": "لا ي�?جد معل�?مات لمقرر دراسي ليتم اظهرها",
+    "mm.courses.nocoursesyet": "لا ت�?جد مقررات دراسية لهذه ال�?ئة",
+    "mm.courses.nosearchresults": "لا ت�?جد نتائج لهذا البحث",
+    "mm.courses.notenroled": "أنت لست مسجلاً �?طالب �?ي هذا المقرر",
+    "mm.courses.password": "�?لمة المر�?ر",
+    "mm.courses.paymentrequired": "هذا المقرر الدراسي غير مجانين لذا يجب د�?ع القيمة للدخ�?ل.",
+    "mm.courses.paypalaccepted": "تم قب�?ل التبرع المد�?�?ع",
     "mm.courses.search": "بحث",
     "mm.courses.searchcourses": "بحث مقررات دراسية",
-    "mm.courses.sendpaymentbutton": "ارسل القيمة المدفوعة عن طريق التبرع",
-    "mm.fileuploader.audio": "صوتي",
-    "mm.fileuploader.camera": "الكاميرا",
-    "mm.fileuploader.errorcapturingaudio": "خطأ في التقاط الصوت",
-    "mm.fileuploader.errorcapturingimage": "خطأ في التقاط الصورة",
-    "mm.fileuploader.errorcapturingvideo": "خطأ في التقاط الفيديو",
-    "mm.fileuploader.errormustbeonlinetoupload": "لابد أن تكون متصل بالأنترنت لكي يتم رفع الملفات",
-    "mm.fileuploader.errorreadingfile": "خطاء في قراءة ملف \"{{$a}}\"",
-    "mm.fileuploader.file": "تم تسليم الملف بنجاح",
-    "mm.fileuploader.fileuploaded": "الملف الذي تم رفعه",
-    "mm.fileuploader.maxbytesfile": "حجم الملف {{$a.file}} كبير جداً . الحد الأقصى الذي تستطيع رفعه هو {{$a.size}}.",
+    "mm.courses.sendpaymentbutton": "ارسل القيمة المد�?�?عة عن طريق التبرع",
+    "mm.fileuploader.audio": "ص�?تي",
+    "mm.fileuploader.camera": "ال�?اميرا",
+    "mm.fileuploader.errorcapturingaudio": "خطأ �?ي التقاط الص�?ت",
+    "mm.fileuploader.errorcapturingimage": "خطأ �?ي التقاط الص�?رة",
+    "mm.fileuploader.errorcapturingvideo": "خطأ �?ي التقاط ال�?يدي�?",
+    "mm.fileuploader.errormustbeonlinetoupload": "لابد أن ت�?�?ن متصل بالأنترنت ل�?ي يتم ر�?ع المل�?ات",
+    "mm.fileuploader.errorreadingfile": "خطاء �?ي قراءة مل�? \"{{$a}}\"",
+    "mm.fileuploader.file": "تم تسليم المل�? بنجاح",
+    "mm.fileuploader.fileuploaded": "المل�? الذي تم ر�?عه",
+    "mm.fileuploader.maxbytesfile": "حجم المل�? {{$a.file}} �?بير جداً . الحد الأقصى الذي تستطيع ر�?عه ه�? {{$a.size}}.",
     "mm.fileuploader.more": "المزيد",
-    "mm.fileuploader.readingfile": "يتم قراءة الملف",
-    "mm.fileuploader.uploadafile": "تحميل ملف",
+    "mm.fileuploader.readingfile": "يتم قراءة المل�?",
+    "mm.fileuploader.uploadafile": "تحميل مل�?",
     "mm.fileuploader.uploading": "يتم التحميل",
-    "mm.fileuploader.video": "فيديو",
-    "mm.grades.average": "متوسط",
+    "mm.fileuploader.video": "�?يدي�?",
+    "mm.grades.average": "مت�?سط",
     "mm.grades.feedback": "تقرير",
     "mm.grades.grade": "درجة",
     "mm.grades.grades": "درجات",
     "mm.grades.itemname": "اسم البند",
-    "mm.grades.lettergrade": "درجة حرفية",
-    "mm.grades.nooutcome": "لا يوجد مخرجات تعلم",
+    "mm.grades.lettergrade": "درجة حر�?ية",
+    "mm.grades.nooutcome": "لا ي�?جد مخرجات تعلم",
     "mm.grades.percentage": "النسبة",
     "mm.grades.range": "مجال",
-    "mm.grades.rank": "مستوى",
-    "mm.grades.weight": "الوزن",
+    "mm.grades.rank": "مست�?ى",
+    "mm.grades.weight": "ال�?زن",
     "mm.login.authenticating": "مصادقة",
     "mm.login.cancel": "إلغاء",
-    "mm.login.connect": "دخول",
-    "mm.login.connecttomoodle": "بيانات الدخول",
-    "mm.login.createaccount": "إنشاء حساب مشترك الجديد",
-    "mm.login.createuserandpass": "من فضلك اختر اسم المستخدم وكلمة المرور للدخول بهما فيما بعد",
-    "mm.login.credentialsdescription": "من فضلك قم بإدخال اسم المستخدم وكلمة المرور للدخول إلى",
-    "mm.login.emailconfirmsent": "<p>تم إرسال بريد إلى <b>{{$a}}</b></p>\n   <p>والذي يحتوي على إرشادات سهلة تعينك على إتمام التسجيل</p>\n   <p>إذا استمرت المشاكل اتصل بمدير هذا الموقع</p>",
-    "mm.login.enterthewordsabove": "أدخل الكلمات أعلاه",
-    "mm.login.firsttime": "هل هذه هي المرة الأولى لك؟ الاشتراك من هنا",
-    "mm.login.forgotten": "هل نسيت اسم الدخول أو كلمة المرور؟",
-    "mm.login.getanothercaptcha": "احصل على كاباتشا أخرى",
+    "mm.login.connect": "دخ�?ل",
+    "mm.login.connecttomoodle": "بيانات الدخ�?ل",
+    "mm.login.createaccount": "إنشاء حساب مشتر�? الجديد",
+    "mm.login.createuserandpass": "من �?ضل�? اختر اسم المستخدم �?�?لمة المر�?ر للدخ�?ل بهما �?يما بعد",
+    "mm.login.credentialsdescription": "من �?ضل�? قم بإدخال اسم المستخدم �?�?لمة المر�?ر للدخ�?ل إلى",
+    "mm.login.emailconfirmsent": "<p>تم إرسال بريد إلى <b>{{$a}}</b></p>\n   <p>�?الذي يحت�?ي على إرشادات سهلة تعين�? على إتمام التسجيل</p>\n   <p>إذا استمرت المشا�?ل اتصل بمدير هذا الم�?قع</p>",
+    "mm.login.enterthewordsabove": "أدخل ال�?لمات أعلاه",
+    "mm.login.firsttime": "هل هذه هي المرة الأ�?لى ل�?؟ الاشترا�? من هنا",
+    "mm.login.forgotten": "هل نسيت اسم الدخ�?ل أ�? �?لمة المر�?ر؟",
+    "mm.login.getanothercaptcha": "احصل على �?اباتشا أخرى",
     "mm.login.help": "مساعدة",
-    "mm.login.helpmelogin": "<p>من أجل تسجيل الدخول، يرجى التحقق مما يلي:</p>\n١- إصدار موقع التعلم الإلكتروني مودل هو الإصدار ٢.٤ أو أعلى.<br />\n٢- قد مكن مسؤول موقع التعلم الإلكتروني مودل الوصول عبر تطبيق مودل.<br /><br />\n<p><a href='http://docs.moodle.org/en/Mobile_app' target='_blank'>لو لم تستطع الدخول من خلال موقع التعلم الإلكتروني مودل الخاص بك قم بالاتصال بمدير موقع التعلم الإلكتروني مودل الخاص بك وأطلب منه زيارة موقع وثائق موودل للحصول على معلومات أكثر تفصيلا والمساعدة.</a></p>\nلاختبار التطبيق باستخدام الموقع التجريبي لمودل ضع <b>student</b> أو <b>teacher</b> في حقل <b>عنوان الموقع</b> وانقر على زر <b>دخول</b>",
+    "mm.login.helpmelogin": "<p>من أجل تسجيل الدخ�?ل، يرجى التحقق مما يلي:</p>\n١- إصدار م�?قع التعلم الإل�?تر�?ني م�?دل ه�? الإصدار ٢.٤ أ�? أعلى.<br />\n٢- قد م�?ن مسؤ�?ل م�?قع التعلم الإل�?تر�?ني م�?دل ال�?ص�?ل عبر تطبيق م�?دل.<br /><br />\n<p><a href='http://docs.moodle.org/en/Mobile_app' target='_blank'>ل�? لم تستطع الدخ�?ل من خلال م�?قع التعلم الإل�?تر�?ني م�?دل الخاص ب�? قم بالاتصال بمدير م�?قع التعلم الإل�?تر�?ني م�?دل الخاص ب�? �?أطلب منه زيارة م�?قع �?ثائق م�?�?دل للحص�?ل على معل�?مات أ�?ثر ت�?صيلا �?المساعدة.</a></p>\nلاختبار التطبيق باستخدام الم�?قع التجريبي لم�?دل ضع <b>student</b> أ�? <b>teacher</b> �?ي حقل <b>عن�?ان الم�?قع</b> �?انقر على زر <b>دخ�?ل</b>",
     "mm.login.instructions": "تعليمات",
-    "mm.login.invalidaccount": "يرجى مراجعة تفاصيل تسجيل الدخول الخاصة بك أو الطلب من مسؤول موقع الويب الخاص بك للتحقق من تكوين موقع.",
-    "mm.login.invalidemail": "عنوان البريد الإلكتروني غير صحيح",
-    "mm.login.invalidmoodleversion": "نسخة موودل غير صالحة. الحد الأدنى للنسخة المطلوبة هو:",
-    "mm.login.invalidsite": "رابط عنوان الموقع غير صالح.",
-    "mm.login.invalidurl": "عنوان الإنترنت غير صحيح",
-    "mm.login.login": "دخول",
-    "mm.login.loginbutton": "دخول",
-    "mm.login.loginsteps": "مرحبا بك! يمكنك إنشاء حساب مشترك جديد في هذا الموقع خلال لحظات والاتصال الكامل بالمقررات الدراسية وذلك بتتبع الخطوات التالية:\n\n   <ol>\n   <li>املأ نموذج <a href=\"{{$a}}\">حساب جديد</a>.</li>\n   <li>على الفور تصلك رسالة على عنوانك البريدي.</li>\n   <li>قم بقراءة البريد واضغط على الرابطة الموجودة به.</li>\n   <li>سيتم تأكيد اشتراكك ويسمح لك بالدخول.</li>\n   <li>والآن قم باختيار المقرر الدراسي الذي ترغب المشاركة فيه.</li>\n   <li>من الآن فصاعدا يمكنك الدخول عن طريق إدخال اسم المستخدم وكلمة المرور (في النموذج المقابل بهذه الصفحة) ، وتستطيع الاتصال الكامل المقرر الدراسي ، وتصل إلى أي مقرر دراسي تريد التسجيل به.</li>\n   <li>إذا طلب منك  ''مفتاح التسجيل'' - استخدم المفتاح الذي أعطاه لك المدرس. هذا سيجعلك ''تشارك'' في المقرر الدراسي.   </li>\n   <li> لا حظ أن كل مقرر دراسي قد يكون له أيضا \"مفتاح تسجيل\" ستحتاج إليه لاحقا.</li>\n   </ol>",
-    "mm.login.missingemail": "العنوان البريدي  لم يتم تحدده",
-    "mm.login.missingfirstname": "الاسم الأول  لم يتم تحدده",
+    "mm.login.invalidaccount": "يرجى مراجعة ت�?اصيل تسجيل الدخ�?ل الخاصة ب�? أ�? الطلب من مسؤ�?ل م�?قع ال�?يب الخاص ب�? للتحقق من ت�?�?ين م�?قع.",
+    "mm.login.invalidemail": "عن�?ان البريد الإل�?تر�?ني غير صحيح",
+    "mm.login.invalidmoodleversion": "نسخة م�?�?دل غير صالحة. الحد الأدنى للنسخة المطل�?بة ه�?:",
+    "mm.login.invalidsite": "رابط عن�?ان الم�?قع غير صالح.",
+    "mm.login.invalidurl": "عن�?ان الإنترنت غير صحيح",
+    "mm.login.login": "دخ�?ل",
+    "mm.login.loginbutton": "دخ�?ل",
+    "mm.login.loginsteps": "مرحبا ب�?! يم�?ن�? إنشاء حساب مشتر�? جديد �?ي هذا الم�?قع خلال لحظات �?الاتصال ال�?امل بالمقررات الدراسية �?ذل�? بتتبع الخط�?ات التالية:\n\n   <ol>\n   <li>املأ نم�?ذج <a href=\"{{$a}}\">حساب جديد</a>.</li>\n   <li>على ال�?�?ر تصل�? رسالة على عن�?ان�? البريدي.</li>\n   <li>قم بقراءة البريد �?اضغط على الرابطة الم�?ج�?دة به.</li>\n   <li>سيتم تأ�?يد اشترا�?�? �?يسمح ل�? بالدخ�?ل.</li>\n   <li>�?الآن قم باختيار المقرر الدراسي الذي ترغب المشار�?ة �?يه.</li>\n   <li>من الآن �?صاعدا يم�?ن�? الدخ�?ل عن طريق إدخال اسم المستخدم �?�?لمة المر�?ر (�?ي النم�?ذج المقابل بهذه الص�?حة) ، �?تستطيع الاتصال ال�?امل المقرر الدراسي ، �?تصل إلى أي مقرر دراسي تريد التسجيل به.</li>\n   <li>إذا طلب من�?  ''م�?تاح التسجيل'' - استخدم الم�?تاح الذي أعطاه ل�? المدرس. هذا سيجعل�? ''تشار�?'' �?ي المقرر الدراسي.   </li>\n   <li> لا حظ أن �?ل مقرر دراسي قد ي�?�?ن له أيضا \"م�?تاح تسجيل\" ستحتاج إليه لاحقا.</li>\n   </ol>",
+    "mm.login.missingemail": "العن�?ان البريدي  لم يتم تحدده",
+    "mm.login.missingfirstname": "الاسم الأ�?ل  لم يتم تحدده",
     "mm.login.missinglastname": "الاسم الأخير  لم يتم تحدده",
-    "mm.login.newaccount": "حساب مشترك جديد",
-    "mm.login.newsitedescription": "من فضلك أدخل رابط موقع نظام التعلم الإلكتروني مودل الخاص بك. لاحظ انه من الممكن أن يكون لم يتم إعداده للعمل مع هذا التطبيق.",
-    "mm.login.password": "كلمة المرور",
-    "mm.login.passwordforgotten": "كلمة المرور المنسيه",
-    "mm.login.passwordforgotteninstructions2": "لإعادة تعيين كلمة المرور، أدخل اسم المستخدم أو البريد الإلكتروني الخاص بك في الأسفل. سيتم إرسال رسالة لك في حال إيجادك في قاعدة اليبانات، مع تعليمات عن كيفية الدخول مجدداً.",
-    "mm.login.passwordrequired": "كلمة المرور مطلوبة",
-    "mm.login.policyaccept": "لقد فهمت وأوافق",
-    "mm.login.policyagree": "يجب الموافقة على هذه الشروط للإستمرار في إستخدام الموقع. هل أنت موافق؟",
-    "mm.login.policyagreement": "شروط إتفاقية الموقع",
-    "mm.login.policyagreementclick": "رابط لاتفاقية سياسة الموقع",
-    "mm.login.potentialidps": "هل تسجل الدخول عادة في مكان آخر قبل الوصول إلى هنا ؟<br />اختر من القائمة التالية لتسجل الدخول من مكانك المعتاد:",
-    "mm.login.reconnect": "إعادة الدخول",
-    "mm.login.selectacountry": "اختر دولة",
-    "mm.login.siteaddress": "عنوان الموقع",
-    "mm.login.siteurl": "رابط الموقع",
-    "mm.login.siteurlrequired": "رابط الموقع مطلوب ..مثل  <i>http://www.yourmoodlesite.abc أو https://www.yourmoodlesite.efg</i>",
-    "mm.login.startsignup": "إنشاء اشتراك جديد",
-    "mm.login.supplyinfo": "الرجاء إدخال تفاصيل أكثر",
+    "mm.login.newaccount": "حساب مشتر�? جديد",
+    "mm.login.newsitedescription": "من �?ضل�? أدخل رابط م�?قع نظام التعلم الإل�?تر�?ني م�?دل الخاص ب�?. لاحظ انه من المم�?ن أن ي�?�?ن لم يتم إعداده للعمل مع هذا التطبيق.",
+    "mm.login.password": "�?لمة المر�?ر",
+    "mm.login.passwordforgotten": "�?لمة المر�?ر المنسيه",
+    "mm.login.passwordforgotteninstructions2": "لإعادة تعيين �?لمة المر�?ر، أدخل اسم المستخدم أ�? البريد الإل�?تر�?ني الخاص ب�? �?ي الأس�?ل. سيتم إرسال رسالة ل�? �?ي حال إيجاد�? �?ي قاعدة اليبانات، مع تعليمات عن �?ي�?ية الدخ�?ل مجدداً.",
+    "mm.login.passwordrequired": "�?لمة المر�?ر مطل�?بة",
+    "mm.login.policyaccept": "لقد �?همت �?أ�?ا�?ق",
+    "mm.login.policyagree": "يجب الم�?ا�?قة على هذه الشر�?ط للإستمرار �?ي إستخدام الم�?قع. هل أنت م�?ا�?ق؟",
+    "mm.login.policyagreement": "شر�?ط إت�?اقية الم�?قع",
+    "mm.login.policyagreementclick": "رابط لات�?اقية سياسة الم�?قع",
+    "mm.login.potentialidps": "هل تسجل الدخ�?ل عادة �?ي م�?ان آخر قبل ال�?ص�?ل إلى هنا ؟<br />اختر من القائمة التالية لتسجل الدخ�?ل من م�?ان�? المعتاد:",
+    "mm.login.reconnect": "إعادة الدخ�?ل",
+    "mm.login.selectacountry": "اختر د�?لة",
+    "mm.login.siteaddress": "عن�?ان الم�?قع",
+    "mm.login.siteurl": "رابط الم�?قع",
+    "mm.login.siteurlrequired": "رابط الم�?قع مطل�?ب ..مثل  <i>http://www.yourmoodlesite.abc أ�? https://www.yourmoodlesite.efg</i>",
+    "mm.login.startsignup": "إنشاء اشترا�? جديد",
+    "mm.login.supplyinfo": "الرجاء إدخال ت�?اصيل أ�?ثر",
     "mm.login.username": "اسم المستخدم",
-    "mm.login.usernameoremail": "أدخل اسم المستخدم كاملاً أو عنوان البريد الإلكتروني",
-    "mm.login.usernamerequired": "اسم المستخدم مطلوب",
-    "mm.login.usernotaddederror": "المستخدم \"{{$a}}\" لم يتم إضافته - خطاء غير معروف",
+    "mm.login.usernameoremail": "أدخل اسم المستخدم �?املاً أ�? عن�?ان البريد الإل�?تر�?ني",
+    "mm.login.usernamerequired": "اسم المستخدم مطل�?ب",
+    "mm.login.usernotaddederror": "المستخدم \"{{$a}}\" لم يتم إضا�?ته - خطاء غير معر�?�?",
     "mm.question.answer": "أجب",
-    "mm.question.answersaved": "تم حفظ الإجابة",
-    "mm.question.complete": "كامل",
+    "mm.question.answersaved": "تم ح�?ظ الإجابة",
+    "mm.question.complete": "�?امل",
     "mm.question.correct": "صح",
     "mm.question.feedback": "تقرير",
     "mm.question.incorrect": "خطاء",
-    "mm.question.information": "معلومات",
-    "mm.question.invalidanswer": "إجابة غير مكتملة",
+    "mm.question.information": "معل�?مات",
+    "mm.question.invalidanswer": "إجابة غير م�?تملة",
     "mm.question.notanswered": "لم تتم الأجابة بعد",
     "mm.question.notyetanswered": "لم يتم الاجابة بعد",
     "mm.question.partiallycorrect": "إجابة جزئية",
     "mm.question.questionno": "سؤال {{$a}}",
     "mm.question.requiresgrading": "يتطلب التصحيح",
-    "mm.question.unknown": "غير معروف",
-    "mm.settings.about": "حول",
-    "mm.settings.cacheexpirationtime": "وقت انتهاء صلاحية ذاكرة التخزين المؤقت (بالميلي ثانية)",
+    "mm.question.unknown": "غير معر�?�?",
+    "mm.settings.about": "ح�?ل",
+    "mm.settings.cacheexpirationtime": "�?قت انتهاء صلاحية ذا�?رة التخزين المؤقت (بالميلي ثانية)",
     "mm.settings.currentlanguage": "اللغة الحالية",
-    "mm.settings.deletesitefiles": "هل أنت متأكد أنك تريد حذف الملفات التي تم تنزيلها من هذا الموقع  '{{sitename}}'؟",
-    "mm.settings.deviceinfo": "معلومات الجهاز",
+    "mm.settings.deletesitefiles": "هل أنت متأ�?د أن�? تريد حذ�? المل�?ات التي تم تنزيلها من هذا الم�?قع  '{{sitename}}'؟",
+    "mm.settings.deviceinfo": "معل�?مات الجهاز",
     "mm.settings.deviceos": "نظام تشغيل الجهاز",
-    "mm.settings.disableall": "تعطيل الإعلامات بشكل مؤقت",
-    "mm.settings.disabled": "مُعطِّل",
-    "mm.settings.enabledebugging": "تمكين التصحيح",
-    "mm.settings.enabledownloadsection": "تفعيل تنزيل الأقسام",
-    "mm.settings.enabledownloadsectiondescription": "عطل هذا الخيار لكي تسرع تحميل أقسام المنهج",
+    "mm.settings.disableall": "تعطيل الإعلامات بش�?ل مؤقت",
+    "mm.settings.disabled": "مُعطّ�?ل",
+    "mm.settings.enabledebugging": "تم�?ين التصحيح",
+    "mm.settings.enabledownloadsection": "ت�?عيل تنزيل الأقسام",
+    "mm.settings.enabledownloadsectiondescription": "عطل هذا الخيار ل�?ي تسرع تحميل أقسام المنهج",
     "mm.settings.estimatedfreespace": "تقدير المساحة الحرة",
     "mm.settings.general": "عام",
     "mm.settings.language": "اللغة",
     "mm.settings.license": "رخصة",
-    "mm.settings.localnotifavailable": "إشعارات محلية موجودة",
-    "mm.settings.loggedin": "متواجد",
-    "mm.settings.loggedoff": "غير موجود",
+    "mm.settings.localnotifavailable": "إشعارات محلية م�?ج�?دة",
+    "mm.settings.loggedin": "مت�?اجد",
+    "mm.settings.loggedoff": "غير م�?ج�?د",
     "mm.settings.processorsettings": "اعدادات المعالج",
     "mm.settings.settings": "الإعدادات",
-    "mm.settings.sites": "المواقع",
+    "mm.settings.sites": "الم�?اقع",
     "mm.settings.spaceusage": "المساحة المستخدمة",
     "mm.settings.synchronization": "تزامن",
     "mm.settings.synchronizenow": "زامن الأن",
     "mm.settings.synchronizing": "يتم التزامن",
     "mm.settings.syncsettings": "إعدادات المزامنة",
-    "mm.settings.total": "مجموع",
+    "mm.settings.total": "مجم�?ع",
     "mm.settings.versioncode": "رمز الإصدار",
     "mm.settings.versionname": "اسم الإصدار",
     "mm.sharedfiles.rename": "تغيير الاسم",
     "mm.sharedfiles.replace": "استبدال",
     "mm.sidemenu.appsettings": "إعدادات التطبيق",
-    "mm.sidemenu.changesite": "الخروج",
+    "mm.sidemenu.changesite": "الخر�?ج",
     "mm.sidemenu.help": "مساعدة",
-    "mm.sidemenu.logout": "خروج",
+    "mm.sidemenu.logout": "خر�?ج",
     "mm.sidemenu.mycourses": "مقرراتي الدراسية",
-    "mm.sidemenu.website": "الموقع",
-    "mm.user.address": "العنوان",
+    "mm.sidemenu.website": "الم�?قع",
+    "mm.user.address": "العن�?ان",
     "mm.user.city": "المدينة/البلدة",
     "mm.user.contact": "جهة اتصال",
-    "mm.user.country": "الدولة",
-    "mm.user.description": "الوصف",
-    "mm.user.details": "التفاصيل",
+    "mm.user.country": "الد�?لة",
+    "mm.user.description": "ال�?ص�?",
+    "mm.user.details": "الت�?اصيل",
     "mm.user.editingteacher": "معلم",
-    "mm.user.email": "عنوان البريد الإلكتروني",
-    "mm.user.emailagain": "إعادة إدخال البريد الإلكتروني للتأكيد ",
-    "mm.user.firstname": "الاسم الأول",
+    "mm.user.email": "عن�?ان البريد الإل�?تر�?ني",
+    "mm.user.emailagain": "إعادة إدخال البريد الإل�?تر�?ني للتأ�?يد ",
+    "mm.user.firstname": "الاسم الأ�?ل",
     "mm.user.interests": "اهتمامات",
     "mm.user.invaliduser": "المستخدم غير صحيح",
     "mm.user.lastname": "الاسم الأخير",
     "mm.user.manager": "مدير",
-    "mm.user.newpicture": "صورة شخصية جديدة",
-    "mm.user.phone1": "هاتف",
-    "mm.user.phone2": "رقم الهاتف المحمول",
-    "mm.user.roles": "أدوار",
+    "mm.user.newpicture": "ص�?رة شخصية جديدة",
+    "mm.user.phone1": "هات�?",
+    "mm.user.phone2": "رقم الهات�? المحم�?ل",
+    "mm.user.roles": "أد�?ار",
     "mm.user.student": "طالب",
     "mm.user.viewprofile": "عرض الحساب",
-    "mm.user.webpage": "صفحة إنترنت",
+    "mm.user.webpage": "ص�?حة إنترنت",
     "mma.badges.badges": "شارات",
-    "mma.badges.expired": "عذراً، تم إغلاق هذا النشاط في {{$a}} وهو غير متوفر الآن.",
-    "mma.calendar.calendarevents": "أحداث التقويم",
-    "mma.calendar.errorloadevent": "خطأ في تحميل الحدث",
-    "mma.calendar.errorloadevents": "خطأ في تحميل الأحداث",
-    "mma.calendar.noevents": "لا يوجد أي أحداث",
+    "mma.badges.expired": "عذراً، تم إغلاق هذا النشاط �?ي {{$a}} �?ه�? غير مت�?�?ر الآن.",
+    "mma.calendar.calendarevents": "أحداث التق�?يم",
+    "mma.calendar.errorloadevent": "خطأ �?ي تحميل الحدث",
+    "mma.calendar.errorloadevents": "خطأ �?ي تحميل الأحداث",
+    "mma.calendar.noevents": "لا ي�?جد أي أحداث",
     "mma.calendar.notifications": "الإشعارات",
     "mma.competency.activities": "الأنشطة",
     "mma.competency.duedate": "تاريخ تقديم مهمة",
-    "mma.competency.errornocompetenciesfound": "لا يوجد أي قدرات موجودة",
+    "mma.competency.errornocompetenciesfound": "لا ي�?جد أي قدرات م�?ج�?دة",
     "mma.competency.myplans": "خططي للتعلم",
-    "mma.competency.nocompetencies": "لا يوجد أي قدرات",
+    "mma.competency.nocompetencies": "لا ي�?جد أي قدرات",
     "mma.competency.path": "مسار",
     "mma.competency.progress": "تقدّم الطالب",
     "mma.competency.status": "الحالة",
     "mma.competency.template": "قالب",
-    "mma.coursecompletion.complete": "كامل",
-    "mma.coursecompletion.completecourse": "مقرر مكتمل",
+    "mma.coursecompletion.complete": "�?امل",
+    "mma.coursecompletion.completecourse": "مقرر م�?تمل",
     "mma.coursecompletion.completed": "تم",
-    "mma.coursecompletion.completiondate": "تاريخ إكمال المقرر",
-    "mma.coursecompletion.couldnotloadreport": "لا يمكن تحميل تقرير إكمال المقرر، الرجاء المحاولة في وقت آخر",
-    "mma.coursecompletion.coursecompletion": "إكمال المقرر الدراسي",
+    "mma.coursecompletion.completiondate": "تاريخ إ�?مال المقرر",
+    "mma.coursecompletion.couldnotloadreport": "لا يم�?ن تحميل تقرير إ�?مال المقرر، الرجاء المحا�?لة �?ي �?قت آخر",
+    "mma.coursecompletion.coursecompletion": "إ�?مال المقرر الدراسي",
     "mma.coursecompletion.criteria": "معايير",
-    "mma.coursecompletion.criteriagroup": "مجموعة المعايير",
-    "mma.coursecompletion.criteriarequiredall": "كل المعايير في الأسفل مطلوبة",
-    "mma.coursecompletion.criteriarequiredany": "أي معيار في الأسفل مطلوب",
-    "mma.coursecompletion.inprogress": "قيد التنفيذ",
-    "mma.coursecompletion.manualselfcompletion": "إكمال يدوي ذاتي",
+    "mma.coursecompletion.criteriagroup": "مجم�?عة المعايير",
+    "mma.coursecompletion.criteriarequiredall": "�?ل المعايير �?ي الأس�?ل مطل�?بة",
+    "mma.coursecompletion.criteriarequiredany": "أي معيار �?ي الأس�?ل مطل�?ب",
+    "mma.coursecompletion.inprogress": "قيد التن�?يذ",
+    "mma.coursecompletion.manualselfcompletion": "إ�?مال يد�?ي ذاتي",
     "mma.coursecompletion.notyetstarted": "لم يبدأ بعد",
     "mma.coursecompletion.pending": "معلق",
-    "mma.coursecompletion.required": "مفروض",
-    "mma.coursecompletion.requiredcriteria": "المعايير المطلوبة",
+    "mma.coursecompletion.required": "م�?ر�?ض",
+    "mma.coursecompletion.requiredcriteria": "المعايير المطل�?بة",
     "mma.coursecompletion.requirement": "المتطلبات",
-    "mma.coursecompletion.status": "الوضع",
+    "mma.coursecompletion.status": "ال�?ضع",
     "mma.coursecompletion.viewcoursereport": "عرض تقرير المقرر",
-    "mma.files.couldnotloadfiles": "لا يمكن تحميل قائمة الملفات",
-    "mma.files.emptyfilelist": "لا يوجد ملفات للعرض",
-    "mma.files.files": "ملفات",
-    "mma.files.privatefiles": "ملفات خاصة",
-    "mma.files.sitefiles": "ملفات الموقع",
-    "mma.files.uploadfiles": "إرسل ملفات التغذية الراجعة",
-    "mma.frontpage.sitehome": "صفحة الموقع",
-    "mma.frontpage.sitenews": "أخبار الموقع",
-    "mma.grades.nogradesreturned": "لا توجد درجات",
+    "mma.files.couldnotloadfiles": "لا يم�?ن تحميل قائمة المل�?ات",
+    "mma.files.emptyfilelist": "لا ي�?جد مل�?ات للعرض",
+    "mma.files.files": "مل�?ات",
+    "mma.files.privatefiles": "مل�?ات خاصة",
+    "mma.files.sitefiles": "مل�?ات الم�?قع",
+    "mma.files.uploadfiles": "إرسل مل�?ات التغذية الراجعة",
+    "mma.frontpage.sitehome": "ص�?حة الم�?قع",
+    "mma.frontpage.sitenews": "أخبار الم�?قع",
+    "mma.grades.nogradesreturned": "لا ت�?جد درجات",
     "mma.grades.viewgrades": "عرض الدرجات",
-    "mma.messages.addcontact": "أضف عنوان أتصال",
-    "mma.messages.blockcontact": "أحجب عنوان  الأتصال",
-    "mma.messages.blocknoncontacts": "امنع المستخدمين الذين ليسوا في قائمة اتصالاتي من مراسلتي",
-    "mma.messages.contactlistempty": "قائمة الاتصال فارغة",
-    "mma.messages.contacts": "عناوين اتصال",
-    "mma.messages.errordeletemessage": "خطأ عند حذف الرسالة",
+    "mma.messages.addcontact": "أض�? عن�?ان أتصال",
+    "mma.messages.blockcontact": "أحجب عن�?ان  الأتصال",
+    "mma.messages.blocknoncontacts": "امنع المستخدمين الذين ليس�?ا �?ي قائمة اتصالاتي من مراسلتي",
+    "mma.messages.contactlistempty": "قائمة الاتصال �?ارغة",
+    "mma.messages.contacts": "عنا�?ين اتصال",
+    "mma.messages.errordeletemessage": "خطأ عند حذ�? الرسالة",
     "mma.messages.message": "رسالة",
-    "mma.messages.messagenotsent": "لم يتم إرسال الرسالة، يرجي المحاولة لاحقا",
+    "mma.messages.messagenotsent": "لم يتم إرسال الرسالة، يرجي المحا�?لة لاحقا",
     "mma.messages.messagepreferences": "مراجع الرسالة",
     "mma.messages.messages": "رسائل",
-    "mma.messages.mustbeonlinetosendmessages": "لابد أن تكون متصل بالأنترنت لكي ترسل أي رسائل",
+    "mma.messages.mustbeonlinetosendmessages": "لابد أن ت�?�?ن متصل بالأنترنت ل�?ي ترسل أي رسائل",
     "mma.messages.newmessage": "رسالة جديدة",
-    "mma.messages.nomessages": "لا توجد رسائل بعد",
-    "mma.messages.nousersfound": "لا يوجد مستخدمون",
-    "mma.messages.removecontact": "ازل عنوان الاتصال",
+    "mma.messages.nomessages": "لا ت�?جد رسائل بعد",
+    "mma.messages.nousersfound": "لا ي�?جد مستخدم�?ن",
+    "mma.messages.removecontact": "ازل عن�?ان الاتصال",
     "mma.messages.send": "إرسل",
     "mma.messages.sendmessage": "إرسل رسالة",
     "mma.messages.type_offline": "غير متصل",
     "mma.messages.type_online": "متصل",
     "mma.messages.type_search": "نتائج البحث",
     "mma.messages.type_strangers": "رسائل أخرى",
-    "mma.messages.unblockcontact": "أزل الحجب عن عنوان الاتصال",
-    "mma.mod_assign.addattempt": "اسمح بمحاولة أخرى",
-    "mma.mod_assign.addnewattempt": "إضافة محاولة جديدة",
-    "mma.mod_assign.addnewattemptfromprevious": "إضافة محاولة جديدة بناء على التسليم السابق",
-    "mma.mod_assign.addsubmission": "أضف تسليم",
-    "mma.mod_assign.allowsubmissionsanddescriptionfromdatesummary": "ستكون تفاصيل التكليف (المهمة) ونموذج التسليم مُتاح من <strong>{{$a}}</strong>",
+    "mma.messages.unblockcontact": "أزل الحجب عن عن�?ان الاتصال",
+    "mma.mod_assign.addattempt": "اسمح بمحا�?لة أخرى",
+    "mma.mod_assign.addnewattempt": "إضا�?ة محا�?لة جديدة",
+    "mma.mod_assign.addnewattemptfromprevious": "إضا�?ة محا�?لة جديدة بناء على التسليم السابق",
+    "mma.mod_assign.addsubmission": "أض�? تسليم",
+    "mma.mod_assign.allowsubmissionsanddescriptionfromdatesummary": "ست�?�?ن ت�?اصيل الت�?لي�? (المهمة) �?نم�?ذج التسليم مُتاح من <strong>{{$a}}</strong>",
     "mma.mod_assign.allowsubmissionsfromdate": "اسمح بالتسليم ابتداءّ من",
-    "mma.mod_assign.allowsubmissionsfromdatesummary": "سيبدأ قبول التسليمات لهذا التكليف (المهمة) ابتداءً من <strong>{{$a}}</strong>",
-    "mma.mod_assign.applytoteam": "تطبيق الدرجات والتغذية الراجعة (الملاحظات) على المجموعة بأكملها",
-    "mma.mod_assign.assignmentisdue": "فات موعد التسليم",
-    "mma.mod_assign.attemptnumber": "رقم المحاولة",
-    "mma.mod_assign.attemptreopenmethod": "تم إعادة فتح المحاولة",
-    "mma.mod_assign.attemptreopenmethod_manual": "يدوياً",
+    "mma.mod_assign.allowsubmissionsfromdatesummary": "سيبدأ قب�?ل التسليمات لهذا الت�?لي�? (المهمة) ابتداءً من <strong>{{$a}}</strong>",
+    "mma.mod_assign.applytoteam": "تطبيق الدرجات �?التغذية الراجعة (الملاحظات) على المجم�?عة بأ�?ملها",
+    "mma.mod_assign.assignmentisdue": "�?ات م�?عد التسليم",
+    "mma.mod_assign.attemptnumber": "رقم المحا�?لة",
+    "mma.mod_assign.attemptreopenmethod": "تم إعادة �?تح المحا�?لة",
+    "mma.mod_assign.attemptreopenmethod_manual": "يد�?ياً",
     "mma.mod_assign.attemptreopenmethod_untilpass": "تلقائياً حتى النجاح",
-    "mma.mod_assign.attemptsettings": "إعدادات المحاولة",
-    "mma.mod_assign.confirmsubmission": "هل أنت متأكد أنك تريد أن تُسلِّم عملك للتصحيح؟ لن تكون قادراً على إجراء أية تغييرات أخرى.",
-    "mma.mod_assign.currentattempt": "هذه المحاولة {{$a}}.",
-    "mma.mod_assign.currentattemptof": "هذه المحاولة رقم{{$a.attemptnumber}} ( {{$a.maxattempts}} محاولات مسموحة ).",
-    "mma.mod_assign.currentgrade": "الدرجة الحالية في",
+    "mma.mod_assign.attemptsettings": "إعدادات المحا�?لة",
+    "mma.mod_assign.confirmsubmission": "هل أنت متأ�?د أن�? تريد أن تُسلّ�?م عمل�? للتصحيح؟ لن ت�?�?ن قادراً على إجراء أية تغييرات أخرى.",
+    "mma.mod_assign.currentattempt": "هذه المحا�?لة {{$a}}.",
+    "mma.mod_assign.currentattemptof": "هذه المحا�?لة رقم{{$a.attemptnumber}} ( {{$a.maxattempts}} محا�?لات مسم�?حة ).",
+    "mma.mod_assign.currentgrade": "الدرجة الحالية �?ي",
     "mma.mod_assign.duedate": "تاريخ تقديم مهمة",
-    "mma.mod_assign.duedateno": "لا يوجد موعد لتقديم المهمة",
+    "mma.mod_assign.duedateno": "لا ي�?جد م�?عد لتقديم المهمة",
     "mma.mod_assign.editsubmission": "حرر تسليمي",
     "mma.mod_assign.grade": "درجة",
     "mma.mod_assign.graded": "تم رصد درجة",
     "mma.mod_assign.gradeoutof": "الدرجة من {{$a}}",
     "mma.mod_assign.gradingstatus": "حالة التقييم",
-    "mma.mod_assign.noattempt": "لا توجد محاولات",
+    "mma.mod_assign.noattempt": "لا ت�?جد محا�?لات",
     "mma.mod_assign.notgraded": "لم يتم التقييم",
-    "mma.mod_assign.numberofdraftsubmissions": "مسودات",
-    "mma.mod_assign.numberofparticipants": "المشاركين",
+    "mma.mod_assign.numberofdraftsubmissions": "مس�?دات",
+    "mma.mod_assign.numberofparticipants": "المشار�?ين",
     "mma.mod_assign.numberofsubmissionsneedgrading": "بحاجة لتقييم",
     "mma.mod_assign.numberofsubmittedassignments": "مسلمة",
-    "mma.mod_assign.numwords": "{{$a}} كلمات",
+    "mma.mod_assign.numwords": "{{$a}} �?لمات",
     "mma.mod_assign.outof": "من {{$a}}",
-    "mma.mod_assign.overdue": "<font color=\"red\"></font>فات موعد تسليم الوظيفة بـ: {{$a}}",
-    "mma.mod_assign.savechanges": "حفظ التغييرات",
+    "mma.mod_assign.overdue": "<font color=\"red\"></font>�?ات م�?عد تسليم ال�?ظي�?ة بـ: {{$a}}",
+    "mma.mod_assign.savechanges": "ح�?ظ التغييرات",
     "mma.mod_assign.submission": "تسليم",
-    "mma.mod_assign.submissionslocked": "هذه الوظيفة لا تقبل التسليم الآن",
+    "mma.mod_assign.submissionslocked": "هذه ال�?ظي�?ة لا تقبل التسليم الآن",
     "mma.mod_assign.submissionstatus": "حالة التسليم",
-    "mma.mod_assign.submissionstatus_draft": "مسودة (غير مسلمة)",
+    "mma.mod_assign.submissionstatus_draft": "مس�?دة (غير مسلمة)",
     "mma.mod_assign.submissionstatus_marked": "تم رصد درجة",
     "mma.mod_assign.submissionstatus_submitted": "مسلمة للتقييم",
     "mma.mod_assign.submissionstatusheading": "حالة التسليم",
     "mma.mod_assign.submitassignment": "تقديم مهمة",
-    "mma.mod_assign.submittedearly": "تم تسليم الوظيفة مبكرة بـ{{$a}}",
-    "mma.mod_assign.submittedlate": "تم تسليم الوظيفة متأخرة بـ{{$a}}",
-    "mma.mod_assign.timemodified": "وقت التعديل",
+    "mma.mod_assign.submittedearly": "تم تسليم ال�?ظي�?ة مب�?رة بـ{{$a}}",
+    "mma.mod_assign.submittedlate": "تم تسليم ال�?ظي�?ة متأخرة بـ{{$a}}",
+    "mma.mod_assign.timemodified": "�?قت التعديل",
     "mma.mod_assign.timeremaining": "الزمن المتبقي",
-    "mma.mod_assign_feedback_comments.pluginname": "تعليقات الإفادة",
+    "mma.mod_assign_feedback_comments.pluginname": "تعليقات الإ�?ادة",
     "mma.mod_assign_feedback_editpdf.pluginname": "الاختيار",
-    "mma.mod_assign_feedback_file.pluginname": "ملف التغذية الراجعة (الملاحظات)",
+    "mma.mod_assign_feedback_file.pluginname": "مل�? التغذية الراجعة (الملاحظات)",
     "mma.mod_assign_submission_comments.pluginname": "محادثة",
-    "mma.mod_assign_submission_file.pluginname": "الملف المسلم",
+    "mma.mod_assign_submission_file.pluginname": "المل�? المسلم",
     "mma.mod_assign_submission_onlinetext.pluginname": "محادثة",
     "mma.mod_chat.beep": "نغمة",
     "mma.mod_chat.currentusers": "المستخدمين الحاليين",
-    "mma.mod_chat.enterchat": "أضغط هناء للدخول إلى المحادثة",
-    "mma.mod_chat.entermessage": "أدخل رسالتك",
+    "mma.mod_chat.enterchat": "أضغط هناء للدخ�?ل إلى المحادثة",
+    "mma.mod_chat.entermessage": "أدخل رسالت�?",
     "mma.mod_chat.errorwhileconnecting": "خطأ عند الاتصال بالدردشة",
-    "mma.mod_chat.errorwhilegettingchatdata": "خطأ عند الحصول على معلومات الدردشة",
-    "mma.mod_chat.errorwhilegettingchatusers": "خطأ عند الحصول على مستخدمي الدردشة",
+    "mma.mod_chat.errorwhilegettingchatdata": "خطأ عند الحص�?ل على معل�?مات الدردشة",
+    "mma.mod_chat.errorwhilegettingchatusers": "خطأ عند الحص�?ل على مستخدمي الدردشة",
     "mma.mod_chat.errorwhileretrievingmessages": "خطأ عند استرجاع الرسائل من الخادم",
     "mma.mod_chat.errorwhilesendingmessage": "خطأ عند إرسال الرسالة",
-    "mma.mod_chat.messagebeepsyou": "{{$a}}  أرسل نغمة لك!",
-    "mma.mod_chat.messageenter": "{{$a}}  دخل غرفة محادثة",
-    "mma.mod_chat.messageexit": "{{$a}}  خرج من غرفة محادثة",
-    "mma.mod_chat.nomessages": "لا توجد رسائل بعد",
+    "mma.mod_chat.messagebeepsyou": "{{$a}}  أرسل نغمة ل�?!",
+    "mma.mod_chat.messageenter": "{{$a}}  دخل غر�?ة محادثة",
+    "mma.mod_chat.messageexit": "{{$a}}  خرج من غر�?ة محادثة",
+    "mma.mod_chat.nomessages": "لا ت�?جد رسائل بعد",
     "mma.mod_chat.send": "إرسل",
-    "mma.mod_chat.sessionstart": "ي  {{$a.date}}, ({{$a.fromnow}} وسوف تبدأ جلسة  الدردشة القادمة في من الآن",
+    "mma.mod_chat.sessionstart": "ي  {{$a.date}}, ({{$a.fromnow}} �?س�?�? تبدأ جلسة  الدردشة القادمة �?ي من الآن",
     "mma.mod_chat.talk": "حديث",
     "mma.mod_choice.choiceoptions": "خيارات الاختيار",
-    "mma.mod_choice.expired": "عذراً، تم إغلاق هذا النشاط في {{$a}} وهو غير متوفر الآن.",
-    "mma.mod_choice.full": "(كامل)",
-    "mma.mod_choice.noresultsviewable": "حالياً لا يمكن معاينة النتائج",
-    "mma.mod_choice.notopenyet": "عذرا، هذا النشاط سيكون متوفر في {{$a}}",
+    "mma.mod_choice.expired": "عذراً، تم إغلاق هذا النشاط �?ي {{$a}} �?ه�? غير مت�?�?ر الآن.",
+    "mma.mod_choice.full": "(�?امل)",
+    "mma.mod_choice.noresultsviewable": "حالياً لا يم�?ن معاينة النتائج",
+    "mma.mod_choice.notopenyet": "عذرا، هذا النشاط سي�?�?ن مت�?�?ر �?ي {{$a}}",
     "mma.mod_choice.numberofuser": "عدد المستخدمين",
-    "mma.mod_choice.numberofuserinpercentage": "عدد المستخدمين كنسبة",
+    "mma.mod_choice.numberofuserinpercentage": "عدد المستخدمين �?نسبة",
     "mma.mod_choice.removemychoice": "استبعد خياري",
     "mma.mod_choice.responses": "إجابات",
-    "mma.mod_choice.responsesresultgraphheader": "عرض كمنحني",
-    "mma.mod_choice.savemychoice": "حفظ الاختيار",
-    "mma.mod_choice.userchoosethisoption": "المستخدمين الذين اختاروا هذا الخيار",
-    "mma.mod_choice.yourselection": "أختيارك",
-    "mma.mod_data.addentries": "أضف مدخلات",
+    "mma.mod_choice.responsesresultgraphheader": "عرض �?منحني",
+    "mma.mod_choice.savemychoice": "ح�?ظ الاختيار",
+    "mma.mod_choice.userchoosethisoption": "المستخدمين الذين اختار�?ا هذا الخيار",
+    "mma.mod_choice.yourselection": "أختيار�?",
+    "mma.mod_data.addentries": "أض�? مدخلات",
     "mma.mod_data.advancedsearch": "بحث متقدم",
     "mma.mod_data.alttext": "النص البديل",
-    "mma.mod_data.approve": "اسمح/وافق",
-    "mma.mod_data.approved": "تم الموافقة",
+    "mma.mod_data.approve": "اسمح/�?ا�?ق",
+    "mma.mod_data.approved": "تم الم�?ا�?قة",
     "mma.mod_data.ascending": "تصاعدي",
-    "mma.mod_data.authorfirstname": "الاسم الأول للكاتب",
-    "mma.mod_data.authorlastname": "الاسم الأخير للكاتب",
-    "mma.mod_data.confirmdeleterecord": "هل فعلا ترغب في حذف هذا السجل؟",
+    "mma.mod_data.authorfirstname": "الاسم الأ�?ل لل�?اتب",
+    "mma.mod_data.authorlastname": "الاسم الأخير لل�?اتب",
+    "mma.mod_data.confirmdeleterecord": "هل �?علا ترغب �?ي حذ�? هذا السجل؟",
     "mma.mod_data.descending": "تنازليا",
-    "mma.mod_data.emptyaddform": "لم تقم بتعبئة الحقول!",
-    "mma.mod_data.expired": "عذراً، تم إغلاق هذا النشاط في {{$a}} وهو غير متوفر الآن.",
-    "mma.mod_data.fields": "حقول",
+    "mma.mod_data.emptyaddform": "لم تقم بتعبئة الحق�?ل!",
+    "mma.mod_data.expired": "عذراً، تم إغلاق هذا النشاط �?ي {{$a}} �?ه�? غير مت�?�?ر الآن.",
+    "mma.mod_data.fields": "حق�?ل",
     "mma.mod_data.menuchoose": "اختار",
     "mma.mod_data.more": "المزيد",
-    "mma.mod_data.nomatch": "لم يتم العثور على مدخلات مطابقة!",
-    "mma.mod_data.norecords": "لا يوجد مدخلات في قاعدة البيانات",
-    "mma.mod_data.notapproved": "لم يتم الموافقة على المدخل بعد",
+    "mma.mod_data.nomatch": "لم يتم العث�?ر على مدخلات مطابقة!",
+    "mma.mod_data.norecords": "لا ي�?جد مدخلات �?ي قاعدة البيانات",
+    "mma.mod_data.notapproved": "لم يتم الم�?ا�?قة على المدخل بعد",
     "mma.mod_data.notopenyet": "عذراً، هذا النشاط لن يتاح حتى {{$a}}",
     "mma.mod_data.numrecords": "{{$a}} سجلات",
     "mma.mod_data.other": "اخر",
-    "mma.mod_data.recordapproved": "تم الموافقه على السجل",
-    "mma.mod_data.recorddeleted": "تم حذف السجل",
-    "mma.mod_data.resetsettings": "إعادة تعين الحقول",
+    "mma.mod_data.recordapproved": "تم الم�?ا�?قه على السجل",
+    "mma.mod_data.recorddeleted": "تم حذ�? السجل",
+    "mma.mod_data.resetsettings": "إعادة تعين الحق�?ل",
     "mma.mod_data.search": "بحث",
-    "mma.mod_data.selectedrequired": "كل المختار مطلوب",
-    "mma.mod_data.single": "معاينة فردية",
-    "mma.mod_data.timeadded": "وقت الإضافة",
-    "mma.mod_data.timemodified": "وقت التعديل",
-    "mma.mod_data.usedate": "تضمين في البحث",
+    "mma.mod_data.selectedrequired": "�?ل المختار مطل�?ب",
+    "mma.mod_data.single": "معاينة �?ردية",
+    "mma.mod_data.timeadded": "�?قت الإضا�?ة",
+    "mma.mod_data.timemodified": "�?قت التعديل",
+    "mma.mod_data.usedate": "تضمين �?ي البحث",
     "mma.mod_feedback.analysis": "تحليل",
     "mma.mod_feedback.anonymous": "غير مشخصن",
     "mma.mod_feedback.anonymous_entries": "مدخلات غير مشخصنة",
-    "mma.mod_feedback.average": "متوسط",
+    "mma.mod_feedback.average": "مت�?سط",
     "mma.mod_feedback.complete_the_form": "اجب على الأسئلة.....",
     "mma.mod_feedback.completed_feedbacks": "الاجابات المسلمة",
     "mma.mod_feedback.continue_the_form": "استمر من",
-    "mma.mod_feedback.feedbackclose": "إغلاق الأفادة",
-    "mma.mod_feedback.feedbackopen": "فتح الإفادة",
+    "mma.mod_feedback.feedbackclose": "إغلاق الأ�?ادة",
+    "mma.mod_feedback.feedbackopen": "�?تح الإ�?ادة",
     "mma.mod_feedback.mode": "نمط",
-    "mma.mod_feedback.next_page": "الصفحة التالية",
-    "mma.mod_feedback.non_anonymous": "سيتم تسجيل اسم المستخدم وعرضه مع الإجابات",
+    "mma.mod_feedback.next_page": "الص�?حة التالية",
+    "mma.mod_feedback.non_anonymous": "سيتم تسجيل اسم المستخدم �?عرضه مع الإجابات",
     "mma.mod_feedback.non_respondents_students": "غير مستجيبين",
     "mma.mod_feedback.not_selected": "لم يتم الاختيار",
     "mma.mod_feedback.not_started": "لم يتم البدء",
     "mma.mod_feedback.overview": "نظرة عامة",
-    "mma.mod_feedback.page_after_submit": "الصفحة بعد الإرسال",
+    "mma.mod_feedback.page_after_submit": "الص�?حة بعد الإرسال",
     "mma.mod_feedback.preview": "معاينة",
-    "mma.mod_feedback.previous_page": "صفحة سابقة",
+    "mma.mod_feedback.previous_page": "ص�?حة سابقة",
     "mma.mod_feedback.questions": "أسئلة",
     "mma.mod_feedback.responses": "إجابات",
-    "mma.mod_feedback.save_entries": "سلم إجاباتك",
-    "mma.mod_feedback.show_entries": "عرض الردود",
+    "mma.mod_feedback.save_entries": "سلم إجابات�?",
+    "mma.mod_feedback.show_entries": "عرض الرد�?د",
     "mma.mod_feedback.show_nonrespondents": "معاينة غير المستجيبين",
     "mma.mod_feedback.started": "بداء",
-    "mma.mod_feedback.this_feedback_is_already_submitted": "لقد قمت مسبقاً بإكمال هذا النشاط.",
-    "mma.mod_folder.emptyfilelist": "لا يوجد أي ملفات ليتم إظهارها",
-    "mma.mod_forum.addanewdiscussion": "أضف موضوعا جديدا للنقاش",
-    "mma.mod_forum.addanewquestion": "أضف سؤال جديد",
-    "mma.mod_forum.addanewtopic": "أضف موضوع جديد",
-    "mma.mod_forum.cannotadddiscussion": "إضافة نقشات لهذا المنتدى يتطلب عضوية مجموعات",
-    "mma.mod_forum.cannotadddiscussionall": "ليس لديك الصلاحيات لإضافة نقاش لكل المشتركين.",
-    "mma.mod_forum.couldnotadd": "تعذر إرسال مقالة نتيجة خطأ غير معروف",
+    "mma.mod_feedback.this_feedback_is_already_submitted": "لقد قمت مسبقاً بإ�?مال هذا النشاط.",
+    "mma.mod_folder.emptyfilelist": "لا ي�?جد أي مل�?ات ليتم إظهارها",
+    "mma.mod_forum.addanewdiscussion": "أض�? م�?ض�?عا جديدا للنقاش",
+    "mma.mod_forum.addanewquestion": "أض�? سؤال جديد",
+    "mma.mod_forum.addanewtopic": "أض�? م�?ض�?ع جديد",
+    "mma.mod_forum.cannotadddiscussion": "إضا�?ة نقشات لهذا المنتدى يتطلب عض�?ية مجم�?عات",
+    "mma.mod_forum.cannotadddiscussionall": "ليس لدي�? الصلاحيات لإضا�?ة نقاش ل�?ل المشتر�?ين.",
+    "mma.mod_forum.couldnotadd": "تعذر إرسال مقالة نتيجة خطأ غير معر�?�?",
     "mma.mod_forum.discussion": "نقاش",
     "mma.mod_forum.edit": "حرر",
-    "mma.mod_forum.group": "مجموعة",
+    "mma.mod_forum.group": "مجم�?عة",
     "mma.mod_forum.message": "رسالة",
-    "mma.mod_forum.modeflatnewestfirst": "عرض الردود حسب الأحدث",
-    "mma.mod_forum.modeflatoldestfirst": "عرض الردود حسب الأقدم",
-    "mma.mod_forum.modenested": "عرض الردود حسب المداخلات",
-    "mma.mod_forum.posttoforum": "أضف المشاركة للمنتدى",
+    "mma.mod_forum.modeflatnewestfirst": "عرض الرد�?د حسب الأحدث",
+    "mma.mod_forum.modeflatoldestfirst": "عرض الرد�?د حسب الأقدم",
+    "mma.mod_forum.modenested": "عرض الرد�?د حسب المداخلات",
+    "mma.mod_forum.posttoforum": "أض�? المشار�?ة للمنتدى",
     "mma.mod_forum.re": "إعادة:",
     "mma.mod_forum.reply": "رد",
-    "mma.mod_forum.subject": "الموضوع",
+    "mma.mod_forum.subject": "الم�?ض�?ع",
     "mma.mod_forum.unread": "لم يتم قرائتها",
-    "mma.mod_forum.unreadpostsnumber": "{{$a}} مشاركات التي لم تقراء",
-    "mma.mod_glossary.attachment": "مرفقات",
+    "mma.mod_forum.unreadpostsnumber": "{{$a}} مشار�?ات التي لم تقراء",
+    "mma.mod_glossary.attachment": "مر�?قات",
     "mma.mod_glossary.browsemode": "النمط العرضي",
-    "mma.mod_glossary.byauthor": "التجميع طبقا للمؤلف",
-    "mma.mod_glossary.bynewestfirst": "الأحدث أولا",
+    "mma.mod_glossary.byauthor": "التجميع طبقا للمؤل�?",
+    "mma.mod_glossary.bynewestfirst": "الأحدث أ�?لا",
     "mma.mod_glossary.byrecentlyupdated": "تم تحديثه مؤخرا",
     "mma.mod_glossary.bysearch": "بحث",
     "mma.mod_glossary.casesensitive": "استخدم التعابير المعتادة",
-    "mma.mod_glossary.categories": "تصنيفات المقررات الدراسية",
-    "mma.mod_imscp.deploymenterror": "خطاء في محتوى الحزمة",
-    "mma.mod_imscp.showmoduledescription": "اظهر الوصف",
+    "mma.mod_glossary.categories": "تصني�?ات المقررات الدراسية",
+    "mma.mod_imscp.deploymenterror": "خطاء �?ي محت�?ى الحزمة",
+    "mma.mod_imscp.showmoduledescription": "اظهر ال�?ص�?",
     "mma.mod_label.label": "ملصق",
     "mma.mod_lesson.answer": "أجب",
-    "mma.mod_lesson.attempt": "محاولة:  {{$a}}",
-    "mma.mod_lesson.averagescore": "متوسط الدرجة",
-    "mma.mod_lesson.averagetime": "متوسط الوقت",
-    "mma.mod_lesson.branchtable": "محتوى",
+    "mma.mod_lesson.attempt": "محا�?لة:  {{$a}}",
+    "mma.mod_lesson.averagescore": "مت�?سط الدرجة",
+    "mma.mod_lesson.averagetime": "مت�?سط ال�?قت",
+    "mma.mod_lesson.branchtable": "محت�?ى",
     "mma.mod_lesson.cannotfinduser": "لم يتم إيجاد المستخدم المسمى \"{{$a}}\"",
     "mma.mod_lesson.completed": "تم",
-    "mma.mod_lesson.congratulations": "مبروك - لقد وصلت إلى نهاية الدرس",
+    "mma.mod_lesson.congratulations": "مبر�?�? - لقد �?صلت إلى نهاية الدرس",
     "mma.mod_lesson.continue": "استمر",
-    "mma.mod_lesson.detailedstats": "إحصائيات تفصيلية",
+    "mma.mod_lesson.detailedstats": "إحصائيات ت�?صيلية",
     "mma.mod_lesson.didnotanswerquestion": "لم تتم أجابة هذا السؤال",
-    "mma.mod_lesson.displayofgrade": "أعرض الدرجة (للطلاب فقط)",
-    "mma.mod_lesson.enterpassword": "الرجاء إدخال كلمة المرور",
+    "mma.mod_lesson.displayofgrade": "أعرض الدرجة (للطلاب �?قط)",
+    "mma.mod_lesson.enterpassword": "الرجاء إدخال �?لمة المر�?ر",
     "mma.mod_lesson.eolstudentoutoftimenoanswers": "لم تجبن على أي أسئلة. لقد تلقيت 0 لهذا الدرس.",
     "mma.mod_lesson.finish": "نهاية",
     "mma.mod_lesson.grade": "درجة",
-    "mma.mod_lesson.highscore": "الدرجة القصوى",
-    "mma.mod_lesson.hightime": "الوقت الاقصى",
+    "mma.mod_lesson.highscore": "الدرجة القص�?ى",
+    "mma.mod_lesson.hightime": "ال�?قت الاقصى",
     "mma.mod_lesson.lessonmenu": "قائمة الدرس",
     "mma.mod_lesson.lessonstats": "أحصائيات درس",
-    "mma.mod_lesson.loginfail": "فشلت عملية الدخول، اعد المحاولة",
+    "mma.mod_lesson.loginfail": "�?شلت عملية الدخ�?ل، اعد المحا�?لة",
     "mma.mod_lesson.lowscore": "أقل درجة",
-    "mma.mod_lesson.lowtime": "أقل وقت",
-    "mma.mod_lesson.modattemptsnoteacher": "معاينة الطالب تعمل فقط للطلاب",
+    "mma.mod_lesson.lowtime": "أقل �?قت",
+    "mma.mod_lesson.modattemptsnoteacher": "معاينة الطالب تعمل �?قط للطلاب",
     "mma.mod_lesson.noanswer": "لم تعطى إجابة",
-    "mma.mod_lesson.nolessonattempts": "لم يتم إجراء محاولات مسبقة في هذا الدرس",
+    "mma.mod_lesson.nolessonattempts": "لم يتم إجراء محا�?لات مسبقة �?ي هذا الدرس",
     "mma.mod_lesson.notcompleted": "لم يتم انهائه",
     "mma.mod_lesson.numberofcorrectanswers": "عدد الاجابات الصحيحة: {{$a}}",
-    "mma.mod_lesson.numberofpagesviewed": "عدد الصفحات التي تم مشاهدتها: {{$a}}",
-    "mma.mod_lesson.or": "أو",
+    "mma.mod_lesson.numberofpagesviewed": "عدد الص�?حات التي تم مشاهدتها: {{$a}}",
+    "mma.mod_lesson.or": "أ�?",
     "mma.mod_lesson.overview": "عرض عام",
     "mma.mod_lesson.preview": "معاينه",
     "mma.mod_lesson.question": "سؤال",
@@ -829,131 +831,131 @@
     "mma.mod_lesson.response": "إجابة",
     "mma.mod_lesson.review": "مراجعة",
     "mma.mod_lesson.reviewlesson": "مراجعة الدرس",
-    "mma.mod_lesson.reviewquestionback": "نعم، أرغب في المحاولة ثانياً",
+    "mma.mod_lesson.reviewquestionback": "نعم، أرغب �?ي المحا�?لة ثانياً",
     "mma.mod_lesson.submit": "سلم",
     "mma.mod_lesson.thatsthecorrectanswer": "هذه إجابة صحيحة",
     "mma.mod_lesson.thatsthewronganswer": "هذه إجابة خاطئة",
     "mma.mod_lesson.timeremaining": "الزمن المتبقى",
-    "mma.mod_lesson.timetaken": "الزمن المستنفذ",
+    "mma.mod_lesson.timetaken": "الزمن المستن�?ذ",
     "mma.mod_lesson.welldone": "أحسنت!",
-    "mma.mod_lesson.youranswer": "إجابتك",
+    "mma.mod_lesson.youranswer": "إجابت�?",
     "mma.mod_lesson.youshouldview": "يجب أن تجب على الأقل: {{$a}}",
-    "mma.mod_quiz.attemptfirst": "المحاولة الأولى",
-    "mma.mod_quiz.attemptlast": "المحاولة الأخيرة",
-    "mma.mod_quiz.attemptnumber": "محاولة",
-    "mma.mod_quiz.attemptquiznow": "قم بمحاولة أداء الاختبار الآن",
+    "mma.mod_quiz.attemptfirst": "المحا�?لة الأ�?لى",
+    "mma.mod_quiz.attemptlast": "المحا�?لة الأخيرة",
+    "mma.mod_quiz.attemptnumber": "محا�?لة",
+    "mma.mod_quiz.attemptquiznow": "قم بمحا�?لة أداء الاختبار الآن",
     "mma.mod_quiz.attemptstate": "الحالة",
-    "mma.mod_quiz.cannotsubmitquizdueto": "محاولة هذا الاختبار لا يمكن إرسالها للأسباب التالية:",
+    "mma.mod_quiz.cannotsubmitquizdueto": "محا�?لة هذا الاختبار لا يم�?ن إرسالها للأسباب التالية:",
     "mma.mod_quiz.comment": "تعليق",
-    "mma.mod_quiz.completedon": "اكتمل في",
-    "mma.mod_quiz.confirmclose": "أنت غ=على وشك إغلاق هذه المحاولة. بمجرد إغلاقك لهذه المحاول لن تستطيع تعديل إجاباتك.",
-    "mma.mod_quiz.confirmstart": "هذا الاختبار محدد بوقت {{$a}}. سوف يبدأ العد التنازلي للوقت من لحظة البدأ في المحاولة والتي يجب أن ترسل قبل انتهاء الوقت المحدد لها. هل أنت متأكد أنك تريد بدأ الاختبارالآن؟",
+    "mma.mod_quiz.completedon": "ا�?تمل �?ي",
+    "mma.mod_quiz.confirmclose": "أنت غ=على �?ش�? إغلاق هذه المحا�?لة. بمجرد إغلاق�? لهذه المحا�?ل لن تستطيع تعديل إجابات�?.",
+    "mma.mod_quiz.confirmstart": "هذا الاختبار محدد ب�?قت {{$a}}. س�?�? يبدأ العد التنازلي لل�?قت من لحظة البدأ �?ي المحا�?لة �?التي يجب أن ترسل قبل انتهاء ال�?قت المحدد لها. هل أنت متأ�?د أن�? تريد بدأ الاختبارالآن؟",
     "mma.mod_quiz.confirmstartheader": "اختبار مؤقت",
-    "mma.mod_quiz.continueattemptquiz": "إستمر في آخر محاولة",
+    "mma.mod_quiz.continueattemptquiz": "إستمر �?ي آخر محا�?لة",
     "mma.mod_quiz.continuepreview": "استمر اخر معاينة",
-    "mma.mod_quiz.errordownloading": "خطأ عن تنزيل البيانات المطلوبة",
-    "mma.mod_quiz.errorgetquiz": "خطأ عند الحصول على بيانات الاختبار",
+    "mma.mod_quiz.errordownloading": "خطأ عن تنزيل البيانات المطل�?بة",
+    "mma.mod_quiz.errorgetquiz": "خطأ عند الحص�?ل على بيانات الاختبار",
     "mma.mod_quiz.feedback": "تعليق",
     "mma.mod_quiz.grade": "درجة",
-    "mma.mod_quiz.gradeaverage": "متوسط الدرجة",
+    "mma.mod_quiz.gradeaverage": "مت�?سط الدرجة",
     "mma.mod_quiz.gradehighest": "أعلى درجة",
-    "mma.mod_quiz.grademethod": "أسلوب التقييم",
-    "mma.mod_quiz.hasdatatosync": "هذا الاختبار فيه بيانات يمكن الوصول إليها بدون اتصال بالانترنت وتحتاج للمزامنة",
+    "mma.mod_quiz.grademethod": "أسل�?ب التقييم",
+    "mma.mod_quiz.hasdatatosync": "هذا الاختبار �?يه بيانات يم�?ن ال�?ص�?ل إليها بد�?ن اتصال بالانترنت �?تحتاج للمزامنة",
     "mma.mod_quiz.marks": "الدرجات",
-    "mma.mod_quiz.noquestions": "لم يتم إضافة أية أسئلة بعد",
+    "mma.mod_quiz.noquestions": "لم يتم إضا�?ة أية أسئلة بعد",
     "mma.mod_quiz.outof": "من {{$a}}",
     "mma.mod_quiz.overdue": "متأخر جدا",
     "mma.mod_quiz.preview": "معاينة",
     "mma.mod_quiz.previewquiznow": "معاينة الاستمارة الآن",
     "mma.mod_quiz.question": "سؤال",
-    "mma.mod_quiz.quizpassword": "كلمة المرور للاختبار",
+    "mma.mod_quiz.quizpassword": "�?لمة المر�?ر للاختبار",
     "mma.mod_quiz.reattemptquiz": "إعادة الاختبار",
-    "mma.mod_quiz.requirepasswordmessage": "لأخذ هذا الاختباريجب عليك معرفة كلمة المرور",
+    "mma.mod_quiz.requirepasswordmessage": "لأخذ هذا الاختباريجب علي�? معر�?ة �?لمة المر�?ر",
     "mma.mod_quiz.review": "مراجعة",
-    "mma.mod_quiz.reviewofattempt": "مراجعة المحاولة {{$a}}",
-    "mma.mod_quiz.showall": "أعرض جميع الأسئلة في صفحة واحدة",
-    "mma.mod_quiz.startattempt": "إبدأ المحاولة",
-    "mma.mod_quiz.startedon": "بداء في",
-    "mma.mod_quiz.stateinprogress": "قيد التنفيذ",
+    "mma.mod_quiz.reviewofattempt": "مراجعة المحا�?لة {{$a}}",
+    "mma.mod_quiz.showall": "أعرض جميع الأسئلة �?ي ص�?حة �?احدة",
+    "mma.mod_quiz.startattempt": "إبدأ المحا�?لة",
+    "mma.mod_quiz.startedon": "بداء �?ي",
+    "mma.mod_quiz.stateinprogress": "قيد التن�?يذ",
     "mma.mod_quiz.stateoverdue": "مُتأخر",
     "mma.mod_quiz.status": "الحالة",
-    "mma.mod_quiz.submitallandfinish": "سلم الجميع وانهي",
-    "mma.mod_quiz.summaryofattempt": "ملخص المحاولة",
-    "mma.mod_quiz.summaryofattempts": "ملخص محاولاتك السابقة",
-    "mma.mod_quiz.timeleft": "الوقت المتبقي",
-    "mma.mod_quiz.timetaken": "الوقت المستغرق",
-    "mma.mod_quiz.yourfinalgradeis": "درجتك النهائية عن هذا الاختبار هي {{$a}}",
-    "mma.mod_resource.openthefile": "افتح الملف",
+    "mma.mod_quiz.submitallandfinish": "سلم الجميع �?انهي",
+    "mma.mod_quiz.summaryofattempt": "ملخص المحا�?لة",
+    "mma.mod_quiz.summaryofattempts": "ملخص محا�?لات�? السابقة",
+    "mma.mod_quiz.timeleft": "ال�?قت المتبقي",
+    "mma.mod_quiz.timetaken": "ال�?قت المستغرق",
+    "mma.mod_quiz.yourfinalgradeis": "درجت�? النهائية عن هذا الاختبار هي {{$a}}",
+    "mma.mod_resource.openthefile": "ا�?تح المل�?",
     "mma.mod_scorm.asset": "قييم",
-    "mma.mod_scorm.attempts": "محاولات",
-    "mma.mod_scorm.averageattempt": "متوسط المحاولات",
+    "mma.mod_scorm.attempts": "محا�?لات",
+    "mma.mod_scorm.averageattempt": "مت�?سط المحا�?لات",
     "mma.mod_scorm.browse": "معاينة",
     "mma.mod_scorm.browsed": "أُستعرض",
     "mma.mod_scorm.browsemode": "النمط العرضي",
     "mma.mod_scorm.completed": "تم",
-    "mma.mod_scorm.contents": "محتويات",
+    "mma.mod_scorm.contents": "محت�?يات",
     "mma.mod_scorm.enter": "ادخل",
     "mma.mod_scorm.errordownloadscorm": "خطأ عن تنزيل الحزمة التعليمية: \"{{name}}\"",
-    "mma.mod_scorm.failed": "فشل",
-    "mma.mod_scorm.firstattempt": "المحاولة الأولى",
-    "mma.mod_scorm.gradeaverage": "المتوسط",
-    "mma.mod_scorm.gradeforattempt": "درجة للمحاولة",
+    "mma.mod_scorm.failed": "�?شل",
+    "mma.mod_scorm.firstattempt": "المحا�?لة الأ�?لى",
+    "mma.mod_scorm.gradeaverage": "المت�?سط",
+    "mma.mod_scorm.gradeforattempt": "درجة للمحا�?لة",
     "mma.mod_scorm.gradehighest": "الدرجة العليا",
     "mma.mod_scorm.grademethod": "طريقة رصد الدرجات",
     "mma.mod_scorm.gradereported": "الدرجة المعلنة",
-    "mma.mod_scorm.gradescoes": "كائنات تعلّم",
+    "mma.mod_scorm.gradescoes": "�?ائنات تعلّم",
     "mma.mod_scorm.gradesum": "الدرجة الاجمالية",
-    "mma.mod_scorm.highestattempt": "أعلى محاولة",
-    "mma.mod_scorm.incomplete": "غير مكتمل",
-    "mma.mod_scorm.lastattempt": "المحاولاة الأخيرة",
+    "mma.mod_scorm.highestattempt": "أعلى محا�?لة",
+    "mma.mod_scorm.incomplete": "غير م�?تمل",
+    "mma.mod_scorm.lastattempt": "المحا�?لاة الأخيرة",
     "mma.mod_scorm.mode": "نمط",
-    "mma.mod_scorm.newattempt": "ابداء محاولة جديدة",
-    "mma.mod_scorm.noattemptsallowed": "عدد المحاولات المسموح بها",
-    "mma.mod_scorm.noattemptsmade": "عدد المحاولات التي قمت بها",
+    "mma.mod_scorm.newattempt": "ابداء محا�?لة جديدة",
+    "mma.mod_scorm.noattemptsallowed": "عدد المحا�?لات المسم�?ح بها",
+    "mma.mod_scorm.noattemptsmade": "عدد المحا�?لات التي قمت بها",
     "mma.mod_scorm.normal": "عادي",
-    "mma.mod_scorm.notattempted": "لم تتم محاولته",
+    "mma.mod_scorm.notattempted": "لم تتم محا�?لته",
     "mma.mod_scorm.organizations": "تنظيمات",
     "mma.mod_scorm.passed": "نجح",
-    "mma.mod_scorm.reviewmode": "وضع المراجعة",
+    "mma.mod_scorm.reviewmode": "�?ضع المراجعة",
     "mma.mod_scorm.suspended": "معلّق",
-    "mma.mod_survey.ifoundthat": "وجدت أن",
-    "mma.mod_survey.ipreferthat": "أفضل أن",
+    "mma.mod_survey.ifoundthat": "�?جدت أن",
+    "mma.mod_survey.ipreferthat": "أ�?ضل أن",
     "mma.mod_survey.responses": "إجابات",
     "mma.mod_survey.results": "نتائج",
-    "mma.mod_wiki.cannoteditpage": "لا يمكنك تحرير هذه الصفحة.",
-    "mma.mod_wiki.createpage": "إنشاء صفحة",
-    "mma.mod_wiki.editingpage": "تحرير الصفحخة: {{$a}}",
+    "mma.mod_wiki.cannoteditpage": "لا يم�?ن�? تحرير هذه الص�?حة.",
+    "mma.mod_wiki.createpage": "إنشاء ص�?حة",
+    "mma.mod_wiki.editingpage": "تحرير الص�?حخة: {{$a}}",
     "mma.mod_wiki.map": "خريطة",
-    "mma.mod_wiki.newpagetitle": "عنواو صفحة جديد",
-    "mma.mod_wiki.nocontent": "لا يوجد محتوى في هذه الصفحة",
-    "mma.mod_wiki.notingroup": "لا ينتمي إلى مجموعة",
-    "mma.mod_wiki.page": "صفحة",
-    "mma.mod_wiki.pagename": "اسم الصفحة",
-    "mma.mod_wiki.wrongversionlock": "قام مستخدم آخر بتحديث هذه الصفحة بينما كنت أنت تحررها، أصبحت تعديلاتك قديمة.",
+    "mma.mod_wiki.newpagetitle": "عن�?ا�? ص�?حة جديد",
+    "mma.mod_wiki.nocontent": "لا ي�?جد محت�?ى �?ي هذه الص�?حة",
+    "mma.mod_wiki.notingroup": "لا ينتمي إلى مجم�?عة",
+    "mma.mod_wiki.page": "ص�?حة",
+    "mma.mod_wiki.pagename": "اسم الص�?حة",
+    "mma.mod_wiki.wrongversionlock": "قام مستخدم آخر بتحديث هذه الص�?حة بينما �?نت أنت تحررها، أصبحت تعديلات�? قديمة.",
     "mma.mod_workshop.assess": "قييم",
     "mma.mod_workshop.editsubmission": "حرر التسليم",
     "mma.mod_workshop.gradinggrade": "تقدير الدرجة",
     "mma.mod_workshop.reassess": "اعد التقييم",
-    "mma.mod_workshop_assessment_accumulative.dimensionnumber": "اوجه الدولار  {{$a}}",
-    "mma.mod_workshop_assessment_accumulative.mustchoosegrade": "يجب انتقاء درجة لهذا الوجه",
-    "mma.mod_workshop_assessment_comments.dimensionnumber": "{{$a}} اوجه الدولار",
-    "mma.mod_workshop_assessment_numerrors.dimensionnumber": "اوجه الدولار  {{$a}}",
-    "mma.mod_workshop_assessment_rubric.dimensionnumber": "اوجه الدولار  {{$a}}",
-    "mma.mod_workshop_assessment_rubric.mustchooseone": "لقد قمت باختيار هذه البنود",
-    "mma.myoverview.inprogress": "قيد التنفيذ",
-    "mma.myoverview.nocourses": "لا يوجد معلومات لمقرر دراسي ليتم اظهرها",
+    "mma.mod_workshop_assessment_accumulative.dimensionnumber": "ا�?جه الد�?لار  {{$a}}",
+    "mma.mod_workshop_assessment_accumulative.mustchoosegrade": "يجب انتقاء درجة لهذا ال�?جه",
+    "mma.mod_workshop_assessment_comments.dimensionnumber": "{{$a}} ا�?جه الد�?لار",
+    "mma.mod_workshop_assessment_numerrors.dimensionnumber": "ا�?جه الد�?لار  {{$a}}",
+    "mma.mod_workshop_assessment_rubric.dimensionnumber": "ا�?جه الد�?لار  {{$a}}",
+    "mma.mod_workshop_assessment_rubric.mustchooseone": "لقد قمت باختيار هذه البن�?د",
+    "mma.myoverview.inprogress": "قيد التن�?يذ",
+    "mma.myoverview.nocourses": "لا ي�?جد معل�?مات لمقرر دراسي ليتم اظهرها",
     "mma.myoverview.pluginname": "محادثة",
-    "mma.notes.addnewnote": "إضافة ملاحظة جديدة",
+    "mma.notes.addnewnote": "إضا�?ة ملاحظة جديدة",
     "mma.notes.coursenotes": "ملاحظات المقرر الدراسي",
-    "mma.notes.note": "ملحوظة",
-    "mma.notes.notes": "تحليلك وملاحظاتك الخاصة",
+    "mma.notes.note": "ملح�?ظة",
+    "mma.notes.notes": "تحليل�? �?ملاحظات�? الخاصة",
     "mma.notes.personalnotes": "ملاحظات شخصية",
     "mma.notes.publishstate": "السياق",
-    "mma.notes.sitenotes": "ملاحظات الموقع",
-    "mma.notifications.errorgetnotifications": "خطأ في الحصول على الإشعارات",
-    "mma.notifications.notificationpreferences": "تفضيلات الاشعار",
+    "mma.notes.sitenotes": "ملاحظات الم�?قع",
+    "mma.notifications.errorgetnotifications": "خطأ �?ي الحص�?ل على الإشعارات",
+    "mma.notifications.notificationpreferences": "ت�?ضيلات الاشعار",
     "mma.notifications.notifications": "الإشعارات",
-    "mma.notifications.therearentnotificationsyet": "لا توجد إشعارات",
-    "mma.participants.noparticipants": "لم يتم العثور على مشاركين في هذا المقرر الدراسي",
-    "mma.participants.participants": "المشتركون"
+    "mma.notifications.therearentnotificationsyet": "لا ت�?جد إشعارات",
+    "mma.participants.noparticipants": "لم يتم العث�?ر على مشار�?ين �?ي هذا المقرر الدراسي",
+    "mma.participants.participants": "المشتر�?�?ن"
 }
