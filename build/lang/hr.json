@@ -637,7 +637,7 @@
 	"mm.login.siteinmaintenance": "Održavanje sustava u tijeku",
 	"mm.login.sitepolicynotagreederror": "Niste prihvatili pravilnik ponašanja na sustavu.",
 	"mm.login.siteurl": "URL adresa sustava",
-	"mm.login.siteurlrequired": "Potrebna je URL adresa sustava, tj. <i>https://moodle.srce.hr/2017-2018/</i>",
+	"mm.login.siteurlrequired": "Potrebna je URL adresa sustava, tj. <i>https://moodle.srce.hr/2018-2019/</i>",
 	"mm.login.startsignup": "Stvori novi korisnički račun",
 	"mm.login.stillcantconnect": "Još uvijek se ne može povezati?",
 	"mm.login.supplyinfo": "Više detalja",
