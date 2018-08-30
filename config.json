@@ -12,7 +12,7 @@
     "demo_sites": {"student": {"url": "http://moodle2demo.srce.hr", "username": "student", "password": "demo"}, "teacher": {"url": "http://moodle2demo.srce.hr", "username": "nastavnik", "password": "demo"}},
     "gcmpn": "828688371561",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle.srce.hr/2017-2018",
+    "siteurl": "https://moodle.srce.hr/2018-2019",
 	"multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "true",
